@@ -1,3 +1,8 @@
+---
+css: https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css
+---
+<div class="container">
+
 # Jill-Jênn Vie
 
 (also in [French](http://jill-jenn.net))
@@ -10,7 +15,8 @@ Also I enjoy playing the piano! Together with two talented singers, we perform [
 
 [![Trio ELM](/static/img/trioelm.png)](https://youtube.com/c/trioelm)
 
-Contact : vie@jill-jenn.net.
+- Contact : vie@jill-jenn.net.
+- [My résumé](http://jill-jenn.net/résumé.pdf)
 
 ## Achievements
 
@@ -55,3 +61,5 @@ Contact : vie@jill-jenn.net.
 ### Workshops
 
 - Jill-Jênn Vie, Fabrice Popineau, Jean-Bastien Grill, Éric Bruillard and Yolaine Bourda. « Prédiction de performance sur des questions dichotomiques : comparaison de modèles pour des tests adaptatifs à grande échelle ». In : *Atelier Évaluation des Apprentissages and Environnements Informatiques, EIAH 2015*.
+
+</div>

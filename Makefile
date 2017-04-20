@@ -1,2 +1,2 @@
 all:
-	pandoc index.md -o index.html
+	pandoc -s index.md -o index.html
