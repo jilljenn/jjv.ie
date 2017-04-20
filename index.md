@@ -1,6 +1,6 @@
-<div class="container">
-
 # Jill-Jênn Vie
+
+(also in [French](http://jill-jenn.net))
 
 Hi! I'm a postdoctoral researcher at the [RIKEN Center for AIP](https://encrypted.google.com/search?hl=fr&q=riken%20aip) (Advanced Intelligence Project) in Tokyo, Japan, under the supervision of [Hisashi Kashima](http://www.ml.ist.i.kyoto-u.ac.jp/en/), professor at Kyoto University.
 
@@ -55,5 +55,3 @@ Contact : vie@jill-jenn.net.
 ### Workshops
 
 - Jill-Jênn Vie, Fabrice Popineau, Jean-Bastien Grill, Éric Bruillard and Yolaine Bourda. « Prédiction de performance sur des questions dichotomiques : comparaison de modèles pour des tests adaptatifs à grande échelle ». In : *Atelier Évaluation des Apprentissages and Environnements Informatiques, EIAH 2015*.
-
-</div>
