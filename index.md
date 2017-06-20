@@ -3,28 +3,26 @@ css: https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css
 ---
 <div class="container">
 
-# Jill-Jênn Vie
+# Jill-Jênn Vie (also in [French](http://jill-jenn.net))
 
-(also in [French](http://jill-jenn.net))
+Hi! I'm a postdoctoral researcher between the [RIKEN Center for Advanced Intelligence Project](http://www.riken.jp/en/research/labs/aip/), Tokyo and [Hisashi Kashima's Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) in Kyoto University.
 
-Hi! I'm a postdoctoral researcher at the [RIKEN Center for AIP](https://encrypted.google.com/search?hl=fr&q=riken%20aip) (Advanced Intelligence Project) in Tokyo, Japan, under the supervision of [Hisashi Kashima](http://www.ml.ist.i.kyoto-u.ac.jp/en/), professor at Kyoto University.
-
-I also work for the French Ministry of Education on [PIX](https://pix.beta.gouv.fr), an open-source platform for certifying the digital competences of French citizens. I design their adaptive tests.
-
-Also I enjoy playing the piano! Together with two talented singers, we perform [anime and video game music](https://youtube.com/c/trioelm) at concerts (Ghibli movies, Final Fantasy).
+I also write free software for the French Ministry of Education: I design the adaptive tests of [PIX](https://pix.beta.gouv.fr), an open-source platform for certifying the digital competences of French citizens.
 
 [![Trio ELM](/static/img/trioelm.png)](https://youtube.com/c/trioelm)
+
+Also I enjoy playing the piano! Together with two talented singers, we perform [anime and video game music](https://youtube.com/c/trioelm) in concerts.
 
 - Contact : vie@jill-jenn.net.
 - [My résumé](http://jill-jenn.net/résumé.pdf)
 
 ## Achievements
 
-✅ Coauthor of the Python package [tryalgo](https://github.com/jilljenn/tryalgo/): short implementations of classic algorithms (minimum spanning trees, Knuth-Morris-Pratt, hungarian algorithm, Fenwick tree, etc.)  
-✅ Cofounded a programming summer school for K-12 girls: [Girls Can Code!](https://gcc.prologin.org)  
-✅ Cofounded an open-source anime recommender system: [Mangaki](https://github.com/mangaki/mangaki/)  
-✅ Directed a TV show about algorithms that take control of our lives: [Blame the Algorithm](http://fautealgo.fr)  
-✅ Missed an appointment with the [French Minister of Education](http://www.najat-vallaud-belkacem.com) because I had to teach.
+✅ Core contributor of the Python package [tryalgo](https://github.com/jilljenn/tryalgo/): short implementations of classic algorithms for coding contests (also a French book)
+✅ Cofounder of a programming summer school for K-12 girls: [Girls Can Code!](https://gcc.prologin.org)  
+✅ Core contributor of an open-source anime recommender system: [Mangaki](https://github.com/mangaki/mangaki/)  
+✅ Writer of a TV show about algorithms that take control of our lives: [Blame the Algorithm](http://fautealgo.fr)  
+✅ Contributor to a government report regarding the open sourcing of the French college admission algorithm (similar to [NRMP](https://en.wikipedia.org/wiki/National_Resident_Matching_Program)).
 
 ## Research Interests
 
