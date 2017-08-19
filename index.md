@@ -10,7 +10,11 @@ li {margin: 0;}
 
 ## Jill-Jênn Vie
 
-> <font color="red">Hey!</font> We are organizing a **data challenge** with Kyoto University until **September 15**. [See the problem statement](http://research.mangaki.fr)
+> - <font color="red">Hey!</font> We are organizing a **data challenge** with Kyoto University until **September 15**. [See the problem statement](http://research.mangaki.fr)
+
+> - Our publication **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto, Nov. 10 (tags: collaborative filtering, LASSO, tag prediction, convolutional neural networks).
+
+> - *(If you're attending [IACAT](http://iacat.org), please [come at my presentation](https://2017iacatconferencea.sched.com/event/BV8D/using-determinantal-point-processes-for-multistage-testing) on Sunday!)*
 
 I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  
 My research interests are: matrix factorization, crowdsourcing, and item response theory.
