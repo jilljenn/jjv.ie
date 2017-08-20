@@ -14,7 +14,7 @@ li {margin: 0;}
 
 > - Our publication **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto, Nov. 10 (tags: collaborative filtering, LASSO, tag prediction, convolutional neural networks).
 
-> - *(If you're attending [IACAT](http://iacat.org), please [come at my presentation](https://2017iacatconferencea.sched.com/event/BV8D/using-determinantal-point-processes-for-multistage-testing) on Sunday!)*
+> - *(If you're attending [IACAT](http://iacat.org), you may be interested in [my slides](http://jiji.cat/bigdata/IACAT2017_MST_DPP.pdf) or [my benchmarks](https://github.com/jilljenn/qna): **Multistage Testing using Determinantal Point Processes** on Sunday!)*
 
 I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  
 My research interests are: matrix factorization, crowdsourcing, and item response theory.
