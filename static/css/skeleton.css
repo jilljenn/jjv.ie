@@ -28,7 +28,7 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.container {
+.container, .references {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -43,14 +43,14 @@
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
-  .container {
+  .container, .references {
     width: 85%;
     padding: 0; }
 }
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
-  .container {
+  .container, .references {
     width: 80%; }
   .column,
   .columns {
@@ -154,6 +154,9 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 p {
   margin-top: 0; }
 
+dt {
+  font-weight: bold;
+}
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -300,8 +303,8 @@ ol ol,
 ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
-li {
-  margin-bottom: 1rem; }
+/* li {
+  margin-bottom: 1rem; } */
 
 
 /* Code
@@ -355,7 +358,12 @@ ul,
 ol,
 form {
   margin-bottom: 2.5rem; }
-
+figure {
+  text-align: center;
+  width: 250px;
+  margin: 1em 1em;
+  flex: auto;
+}
 
 /* Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -385,6 +393,7 @@ hr {
 
 /* Self Clearing Goodness */
 .container:after,
+.references:after,
 .row:after,
 .u-cf {
   content: "";
