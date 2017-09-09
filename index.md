@@ -14,9 +14,12 @@ nocite: |
 ## Jill-Jênn Vie
 
 <div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px"><font color="red">Hey!</font> We organize a **data challenge about recommender systems** with Kyoto University.  
-[Submissions open](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) until **September 15**.</div>
+[Submissions open](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) until **October 1**.</div>
 
----
+<br />
+
+<font color="red">New!</font> Our article [**BALSE**](https://arxiv.org/abs/1709.01584) is on arXiv!  
+It has been accepted to the [**MANPU 2017**](http://manpu2017.imlab.jp) conference in Kyoto.
 
 I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  
 My **research interests** are: matrix factorization, crowdsourcing, and item response theory.
@@ -31,11 +34,12 @@ Mail: vie@jill-jenn.net / [My résumé](http://jill-jenn.net/résumé.pdf)
 - Human Computation, Crowdsourcing
 
 <div style="display: flex; flex-flow: row wrap;">
+![I write [free software](https://github.com/sgmap/pix) for the <nobr>**French government**</nobr>:  
+[PIX](https://pix.beta.gouv.fr) is a certification of digital skills.<br />Presented at **Learning at Scale 2017** in Boston: [[poster]](https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf) [[article]](http://jill-jenn.net/_static/works/a-heuristic-method-for-large-scale-cognitive-diagnostic-computerized-adaptive-testing.pdf)](/static/img/adaptive.png)
+
+![Our publication **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
+
 ![[Slides](http://jill-jenn.net/_static/slides/iacat2017.pdf) and [benchmark code](https://github.com/jilljenn/qna) of my IACAT 2017 presentation in Niigata: **Multistage Testing using Determinantal Point Processes**](/static/img/cat.png)
-
-![Our publication **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto, Nov. 10 <small>(collaborative filtering, LASSO, tag prediction, convolutional neural networks)</small>](/static/img/balse.png)
-
-![I write [free software](https://github.com/sgmap/pix) for the **French government**: I work on [PIX](https://pix.beta.gouv.fr), an open-source platform for certifying the digital skills of French citizens.<br />We were at **Learning at Scale 2017** in Boston: [[poster]](https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf) [[article]](http://jill-jenn.net/_static/works/a-heuristic-method-for-large-scale-cognitive-diagnostic-computerized-adaptive-testing.pdf)](/static/img/adaptive.png)
 </div>
 
 
