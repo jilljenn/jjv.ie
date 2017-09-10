@@ -18,7 +18,7 @@ nocite: |
 
 <br />
 
-<font color="red">New!</font> Our article [**BALSE**](https://arxiv.org/abs/1709.01584) is on arXiv!  
+> <font color="red">New!</font> Our article [**BALSE**](https://arxiv.org/abs/1709.01584) is on arXiv! [@BALSE2017]  
 It has been accepted to the [**MANPU 2017**](http://manpu2017.imlab.jp) conference in Kyoto.
 
 I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  

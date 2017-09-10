@@ -146,6 +146,10 @@ mark {
   color: #000;
 }
 
+:target {
+  background-color: #ffa;
+}
+
 /**
  * Address inconsistent and variable font size in all browsers.
  */
