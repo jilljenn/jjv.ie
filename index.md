@@ -57,9 +57,9 @@ I'm the pianist of **Trio ELM**: together with two talented singers, we perform 
 ✅ Core contributor of an open-source **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
 ✅ Director of a **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
 ✅ Contributor to a **government report** → open sourcing the French college admission algorithm "APB" (similar to [NRMP](https://en.wikipedia.org/wiki/National_Resident_Matching_Program)).
+✅ Finish Philip K. Dick's ***Ubik***
 
 - Being able to play all Kapustin ***Concert Études*** (so far only [1 over 8](https://www.youtube.com/watch?v=VykHhf7D6vc))
-- Finish Philip K. Dick's ***Ubik***
 - Read Yasutaka Tsutsui's ***Gaspard of the Morning*** (in Japanese :/)
 - Do not lose my Maths teacher license (= running gag)
 
