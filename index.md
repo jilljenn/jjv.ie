@@ -14,24 +14,23 @@ nocite: |
 ## Jill-Jênn Vie
 
 <div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px"><font color="red">Hey!</font> We organize a **data challenge about recommender systems** with Kyoto University.  
-[Submissions open](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) until **October 1**.</div>
+[Submissions open](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) until **October 1, 23:59 in Japan (16:59 in France)**.</div>
 
 <br />
 
-> <font color="red">New!</font> Our article [**BALSE**](https://arxiv.org/abs/1709.01584) is on arXiv! [@BALSE2017]  
-It has been accepted to the [**MANPU 2017**](http://manpu2017.imlab.jp) conference in Kyoto.
-
 I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  
-My **research interests** are: matrix factorization, crowdsourcing, and item response theory.
-
-Mail: vie@jill-jenn.net / [My résumé](http://jill-jenn.net/résumé.pdf)
+[Mail me](mailto:vie@jill-jenn.net): vie@jill-jenn.net / [My résumé](http://jill-jenn.net/résumé.pdf)
 
 
 ### Research Interests
 
-- Adaptive Testing (Item Response Theory, Knowledge Space Theory), see my [benchmarks](https://github.com/jilljenn/qna) on GitHub
-- Recommender Systems, Cold-Start
-- Human Computation, Crowdsourcing
+Active Learning in Generalized Linear Models
+
+:   (adaptive testing, item response theory), see my [benchmarks](https://github.com/jilljenn/qna) on GitHub
+
+Matrix factorization
+
+:   (cold-start in recommender systems, crowdsourcing)
 
 <div style="display: flex; flex-flow: row wrap;">
 ![I write [free software](https://github.com/sgmap/pix) for the <nobr>**French government**</nobr>:  
@@ -52,16 +51,16 @@ I'm the pianist of **Trio ELM**: together with two talented singers, we perform 
 
 ### Achievements
 
-✅ Cowriter of 2 books including the **Python package** [tryalgo](https://github.com/jilljenn/tryalgo/) → 128 algorithms for coding contests (also a French book)  
-✅ Cofounder of a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org)  
-✅ Core contributor of an open-source **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
-✅ Director of a **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
-✅ Contributor to a **government report** → open sourcing the French college admission algorithm "APB" (similar to [NRMP](https://en.wikipedia.org/wiki/National_Resident_Matching_Program)).
+✅ [**2 books in French**](http://tryalgo.org/book) including the **Python package** [tryalgo](https://github.com/jilljenn/tryalgo/) → **128 algorithms** for coding contests  
+✅ A **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) since 2014  
+✅ An open-source **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
+✅ A **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
+✅ A **government report** → open sourcing the French college admission algorithm "APB" (similar to [NRMP](https://en.wikipedia.org/wiki/National_Resident_Matching_Program)).
 
-- Being able to play all Kapustin ***Concert Études*** (so far only [1 over 8](https://www.youtube.com/watch?v=VykHhf7D6vc))
-- Finish Philip K. Dick's ***Ubik***
-- Read Yasutaka Tsutsui's ***Gaspard of the Morning*** (in Japanese :/)
-- Do not lose my Maths teacher license (= running gag)
+❎ Play all Kapustin ***Concert Études*** (so far only [1 over 8](https://www.youtube.com/watch?v=VykHhf7D6vc))  
+❎ Write a screenplay proposal for a Philip K. Dick's ***Ubik*** adaptation  
+❎ Read Yasutaka Tsutsui's ***Gaspard of the Morning*** (in Japanese :/)  
+❎ Lose my Maths teacher license (*agrégation*) because I don't teach (ongoing)
 
 
 ### Publications
@@ -75,12 +74,12 @@ The book is in French but the code is in Python: all [128 algorithms](https://gi
 
 Book Chapters
 
-:   I wrote a chapter about adaptive assessment [@Vie2016] in a learning analytics book. I tend to identify the similarities between cognitive diagnostic models and item response theory.
+:   I wrote a chapter about **adaptive assessment** [@Vie2016adaptive] in a **learning analytics** book, where I identify similarities between cognitive diagnostic models and item response theory.
 
 Conference Proceedings
 
-:   I used to do cryptography in my master's degree and published an article about leakage resilience [@Abdalla2012].  
-Used a General Diagnostic Model for adaptive testing and showed that it outperformed the DINA and Rasch models at predicting examinee performance [@Vie2016b].
+:   I used to do **cryptography** in my master's degree and published an article about leakage resilience [@Abdalla2012].  
+Used a **General Diagnostic Model** for adaptive testing and showed that it outperformed the DINA and Rasch models at predicting examinee performance [@Vie2016ECTEL].
 
 ---
 </div>
