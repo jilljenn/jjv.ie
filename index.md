@@ -13,8 +13,8 @@ nocite: |
 
 ## Jill-Jênn Vie
 
-<div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px"><font color="red">Hey!</font> We organize a **data challenge about recommender systems** with Kyoto University.  
-[Submissions open](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) until **October 1, 23:59 in Japan (16:59 in France)**.</div>
+<div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px"><font color="red">Hey!</font> We organized a **data challenge about recommender systems** with Kyoto University.  
+[See the results.](https://bit.ly/mangakidatachallenge)</div>
 
 <br />
 
