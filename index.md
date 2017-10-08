@@ -13,13 +13,15 @@ nocite: |
 
 ## Jill-Jênn Vie
 
-<div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px"><font color="red">Hey!</font> We organized a **data challenge about recommender systems** with Kyoto University.  
-[See the results.](https://bit.ly/mangakidatachallenge)</div>
+##### <span style="color: #999; margin-top: -1em; display: block">Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto University</span>
+
+<div style="padding: 1.5em 1.5em 1.5em 90px; background: url('/static/img/kashima-lab.png') #eee 10px 50% no-repeat; border-radius: 10px">We organized a **data challenge about recommender systems** with Kyoto University.  
+[See the full results and solutions.](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/)</div>
 
 <br />
 
-I'm a **postdoctoral researcher** in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) @ Tokyo and in [Kashima's Machine Learning Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) @ Kyoto University.  
-[Mail me](mailto:vie@jill-jenn.net): vie@jill-jenn.net / [My résumé](http://jill-jenn.net/résumé.pdf)
+I'm a **postdoctoral researcher** in RIKEN AIP (Tokyo, Japan) under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
+Contact me: [vie@jill-jenn.net](mailto:vie@jill-jenn.net) or [see my résumé](http://jill-jenn.net/résumé.pdf)
 
 
 ### Research Interests
