@@ -161,9 +161,9 @@ dt {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
-a:hover {
   color: #0FA0CE; }
+a:hover {
+  color: #1EAEDB; }
 
 
 /* Buttons
