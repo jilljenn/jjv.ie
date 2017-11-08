@@ -1,4 +1,5 @@
 ---
+pagetitle: Jill-Jênn Vie
 css:
     - /static/css/normalize.css
     - /static/css/skeleton.css
@@ -9,14 +10,14 @@ nocite: |
 ---
 <div class="container">
 
-[![French version](/static/img/french.png){align=right}](http://jill-jenn.net)
-
 ## Jill-Jênn Vie 黄積仁
 
-##### <span style="color: #999; margin-top: -1em; display: block">Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto University</span>
+##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto University</span>
 
-I'm a **postdoctoral researcher** in RIKEN AIP (Tokyo, Japan) under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
-**Contact me:** [vie@jill-jenn.net](mailto:vie@jill-jenn.net) / [My résumé](http://jill-jenn.net/résumé.pdf)
+I'm a postdoctoral **researcher** in RIKEN AIP (Tokyo, Japan) under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
+My interests are: **adaptive learning**, with applications in **education**.
+
+**Contact me:** [vie@jill-jenn.net](mailto:vie@jill-jenn.net) / [My résumé](http://jill-jenn.net/résumé.pdf) / [French page](http://jill-jenn.net)
 
 
 ### Research Interests
