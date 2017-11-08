@@ -11,7 +11,7 @@ nocite: |
 
 [![French version](/static/img/french.png){align=right}](http://jill-jenn.net)
 
-## Jill-Jênn Vie
+## Jill-Jênn Vie 黄積仁
 
 ##### <span style="color: #999; margin-top: -1em; display: block">Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto University</span>
 
