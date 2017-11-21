@@ -12,12 +12,14 @@ nocite: |
 
 ## Jill-Jênn Vie 黄積仁
 
-##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto University</span>
+##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto Univ.</span>
 
-I'm a postdoctoral **researcher** in RIKEN AIP (Tokyo, Japan) under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
-My interests are: **adaptive learning**, with applications in **education**.
+> Our papers have been accepted to ***International Journal of Artificial Intelligence in Education*** ([***IJAIED***](http://iaied.org/journal/cfp/#LearnAtScale)) [@Vie2017DPP] and [***STICEF***](http://sticef.org) [@Vie2016MOOC].
 
-**Contact me:** [vie@jill-jenn.net](mailto:vie@jill-jenn.net) / [My résumé](http://jill-jenn.net/résumé.pdf) / [French page](http://jill-jenn.net)
+I'm a **researcher** in RIKEN AIP (Tokyo) in [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html)'s **Human Computation** team.  
+I'm interested in **adaptive learning** and **education**.
+
+**Contact me:** [vie@jill-jenn.net](mailto:vie@jill-jenn.net) / [My résumé](http://jill-jenn.net/résumé.pdf) / [FR](http://jill-jenn.net)
 
 
 ### Research Interests
@@ -31,12 +33,12 @@ Matrix factorization
 :   (cold-start in recommender systems like [Mangaki](https://mangaki.fr), crowdsourcing)
 
 <div style="display: flex; flex-flow: row wrap;">
-![I write [free software](https://github.com/sgmap/pix) for the <nobr>**French government**</nobr>:  
-[PIX](https://pix.beta.gouv.fr) is a certification of digital skills.<br />Presented at **Learning at Scale 2017** in Boston: [[poster]](https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf) [[article]](http://jill-jenn.net/_static/works/a-heuristic-method-for-large-scale-cognitive-diagnostic-computerized-adaptive-testing.pdf)](/static/img/adaptive.png)
+![[Slides](http://jill-jenn.net/_static/slides/iacat2017.pdf) and [benchmark code](https://github.com/jilljenn/qna) of my IACAT 2017 presentation in Niigata: **Multistage Testing using Determinantal Point Processes**](/static/img/cat.png)
 
 ![Our publication **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
-![[Slides](http://jill-jenn.net/_static/slides/iacat2017.pdf) and [benchmark code](https://github.com/jilljenn/qna) of my IACAT 2017 presentation in Niigata: **Multistage Testing using Determinantal Point Processes**](/static/img/cat.png)
+![I write [free software](https://github.com/sgmap/pix) for the <nobr>**French MoE**</nobr>:  
+[PIX](https://pix.beta.gouv.fr) is a certification of digital skills.<br />Presented at **Learning at Scale 2017** in Boston: [[poster]](https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf) [[article]](http://jill-jenn.net/_static/works/a-heuristic-method-for-large-scale-cognitive-diagnostic-computerized-adaptive-testing.pdf)](/static/img/adaptive.png)
 </div>
 
 
