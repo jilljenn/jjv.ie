@@ -10,27 +10,27 @@ nocite: |
 ---
 <div class="container">
 
-## Jill-Jênn Vie 黄積仁
+## Jill-Jênn Vie 黄積仁 [\@jjvie](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fjilljenn.github.io%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=jjvie&tw_p=followbutton)
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto Univ.</span>
 
-> Our papers have been accepted to ***International Journal of Artificial Intelligence in Education*** ([***IJAIED***](http://iaied.org/journal/cfp/#LearnAtScale)) [@Vie2017DPP] and [***STICEF***](http://sticef.org) [@Vie2016MOOC].
+> Our papers have been accepted to ***International Journal of Artificial Intelligence in Education*** ([***IJAIED***](http://iaied.org/journal/cfp/#LearnAtScale), [2018](#ref-Vie2018DPP)) and [***STICEF***](#ref-Vie2017MOOC)!
 
-I'm a **researcher** in RIKEN AIP (Tokyo) in [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html)'s **Human Computation** team.  
-I'm interested in **adaptive learning** and **education**.
+I'm a **researcher** at RIKEN AIP (Tokyo) in the **Human Computation** team led by [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html), quite happy to live in Japan.  
+Feel free to say hi! I'm interested in everything. <nobr>→ [vie@jill-jenn.net](mailto:vie@jill-jenn.net)</nobr>
 
-**Contact me:** [vie@jill-jenn.net](mailto:vie@jill-jenn.net) / [My résumé](http://jill-jenn.net/résumé.pdf) / [FR](http://jill-jenn.net)
+[My résumé](http://jill-jenn.net/résumé.pdf) / [French version](http://jill-jenn.net)
 
 
 ### Research Interests
 
-Active Learning in Generalized Linear Models
+Interactive Machine Learning
 
-:   (adaptive testing, item response theory), see my [benchmarks](https://github.com/jilljenn/qna) on GitHub
+:   Adaptive algorithms, online matrix factorization, interactive recommender systems, see my [benchmarks of psychometric models](https://github.com/jilljenn/qna) on GitHub and my **anime/manga recommender system** [Mangaki](https://mangaki.fr).
 
-Matrix factorization
+Learning Analytics
 
-:   (cold-start in recommender systems like [Mangaki](https://mangaki.fr), crowdsourcing)
+:   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to improve learning?
 
 <div style="display: flex; flex-flow: row wrap;">
 ![[Slides](http://jill-jenn.net/_static/slides/iacat2017.pdf) and [benchmark code](https://github.com/jilljenn/qna) of my IACAT 2017 presentation in Niigata: **Multistage Testing using Determinantal Point Processes**](/static/img/cat.png)
