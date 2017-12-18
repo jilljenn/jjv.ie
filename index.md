@@ -10,7 +10,7 @@ nocite: |
 ---
 <div class="container">
 
-## Jill-Jênn Vie 黄積仁 [\@jjvie](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fjilljenn.github.io%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=jjvie&tw_p=followbutton)
+## Jill-Jênn Vie [\@jjvie](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fjilljenn.github.io%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=jjvie&tw_p=followbutton)
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto Univ.</span>
 
@@ -45,18 +45,16 @@ Learning Analytics
 ### Music
 
 <div style="display: flex; flex-flow: row wrap;">
-![I'm the pianist of **Trio ELM**: together with two talented singers, we perform [anime and video game music](https://youtube.com/c/trioelm) in concerts.](/static/img/trioelm.jpg)
-
 ![I enjoy playing [Kapustin](https://www.youtube.com/watch?v=VykHhf7D6vc) music and transcribing [anime sheet music](http://jill-jenn.net/anime-sheet-music/), see my [YouTube videos](https://www.youtube.com/user/Xnihpsel).](/static/img/kapustin.jpg)
 
-![I also compose music using [Markov chains](https://github.com/jilljenn/markov.py). It was used to compose the music of the TV show [Blame the Algorithm](http://fautealgo.fr).](/static/img/sheet.png)
+![I composed the music of the TV show [Blame the Algorithm](http://fautealgo.fr) using a [Markov chain](https://github.com/jilljenn/markov.py).](/static/img/sheet.png)
 </div>
 
 
 ### Achievements
 
 ✅ [**2 books**](http://tryalgo.org/book) about algorithms & data structures  
-✅ **1 Python package** [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → **128 algorithms** for coding contests  
+✅ **1 Python package**: [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → **128 algorithms** for coding contests  
 ✅ A **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) since 2014  
 ✅ An open-source **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
 ✅ A **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
@@ -78,7 +76,7 @@ The book is in French but the code is in Python: all [128 algorithms](https://gi
 
 Book Chapters
 
-:   I wrote a chapter about **adaptive assessment** [@Vie2016adaptive] in a **learning analytics** book, where I identify similarities between cognitive diagnostic models and item response theory.
+:   I wrote a chapter about **adaptive assessment** [@Vie2017adaptive] in a **learning analytics** book, where I identify similarities between cognitive diagnostic models and item response theory.
 
 Conference Proceedings
 
