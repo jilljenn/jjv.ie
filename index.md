@@ -26,11 +26,15 @@ Feel free to say hi! I'm interested in everything. <nobr>→ [vie@jill-jenn.net
 
 Interactive Machine Learning
 
-:   Adaptive algorithms, online matrix factorization, interactive recommender systems, see my [benchmarks of psychometric models](https://github.com/jilljenn/qna) on GitHub and my **anime/manga recommender system** [Mangaki](https://mangaki.fr).
+:   Adaptive algorithms, online matrix factorization, interactive recommender systems (if you like anime, try [Mangaki](https://mangaki.fr))
 
 Learning Analytics
 
 :   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to improve learning?
+
+Psychometrics
+
+:   Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna)
 
 <div style="display: flex; flex-flow: row wrap;">
 ![[Slides](http://jill-jenn.net/_static/slides/iacat2017.pdf) and [benchmark code](https://github.com/jilljenn/qna) of my IACAT 2017 presentation in Niigata: **Multistage Testing using Determinantal Point Processes**](/static/img/cat.png)
