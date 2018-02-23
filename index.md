@@ -14,7 +14,7 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) &amp; Kyoto Univ.</span>
 
-> We will organize the workshop **Optimizing Human Learning** (Montreal, June 12), colocated with [**ITS 2018**](http://its2018.its-conferences.com).
+> We will organize the workshop [**Optimizing Human Learning**](http://humanlearn.io) (Montreal, June 12), colocated with [**ITS 2018**](http://its2018.its-conferences.com).
 
 I'm a **researcher** at RIKEN AIP (Tokyo) in the **Human Computation** team led by [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html), quite happy to live in Japan.  
 Feel free to say hi! I'm interested in everything. <nobr>→ [vie@jill-jenn.net](mailto:vie@jill-jenn.net)</nobr>
