@@ -16,7 +16,7 @@ nocite: |
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
 
 > <span style="color: red">New!</span> We are organizing the workshop **Optimizing Human Learning** in **Montréal, June 12** about [adaptive sequences for learning](https://humanlearn.io).  
-Call for papers [open](https://easychair.org/cfp/WeASeL2018) until **April 8**.  
+Registration is [open](https://humanlearn.io/#register), early bird tickets until **May 7**.  
 [Duolingo](http://sharedtask.duolingo.com) will give the opening keynote. Please come and share: [#OptimizingHumanLearning](https://twitter.com/jjvie/status/970535038042259462)
 
 I'm a **researcher** at RIKEN AIP in the **Human Computation** team working with [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
