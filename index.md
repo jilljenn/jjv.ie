@@ -15,25 +15,29 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
 
-> <span style="color: red">New!</span> We are organizing the workshop **Optimizing Human Learning** in **Montréal, June 12** about [adaptive sequences for learning](https://humanlearn.io).  
-Registration is [open](https://humanlearn.io/#register), early bird tickets until **May 7**.  
-[Duolingo](http://sharedtask.duolingo.com) will give the opening keynote. Please come and share: [#OptimizingHumanLearning](https://twitter.com/jjvie/status/970535038042259462)
+> <span style="color: red">Hey!</span> Come to **Montréal** on **June 12** to our **Optimizing Human Learning** workshop about [adaptive sequences for learning](https://humanlearn.io).  
+[Register now!](https://humanlearn.io/#register) See the [program!](https://humanlearn.io/#program) Share on [Twitter!](https://twitter.com/jjvie/status/990951185606557696)
 
-I'm a **researcher** at RIKEN AIP in the **Human Computation** team working with [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
+I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
 I also write free software for the **French government** [@Vie2017PIX].  
 
-[My résumé](http://jill-jenn.net/résumé.pdf) / [French version](http://jill-jenn.net) / [vie@jill-jenn.net](mailto:vie@jill-jenn.net)
-
+My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net)  
+GitHub projects: [jilljenn](https://github.com/jilljenn/)  
+[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube channel](https://www.youtube.com/user/Xnihpsel) if you like piano)
 
 ### Research Interests
 
 Interactive Machine Learning
 
-:   Adaptive algorithms, online matrix factorization, interactive recommender systems (like anime? try [Mangaki](https://mangaki.fr))
+:   Adaptive algorithms, optimal design (D-optimality), interactive recommender systems (like anime? try [Mangaki](https://mangaki.fr))
+
+Feature Extraction, Representation Learning
+
+:   Using posters for manga and anime recommendations [@BALSE2017], deep factorization machines [@Duolingo2018], variational autoencoders
 
 Learning Analytics, Knowledge Tracing
 
-:   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to improve learning?  
+:   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to [optimize human learning](https://humanlearn.io)?  
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna)
 
 <div style="display: flex; flex-flow: row wrap;">
@@ -45,27 +49,19 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 </div>
 
 
-### Music
-
-<div style="display: flex; flex-flow: row wrap;">
-![I enjoy playing [Kapustin](https://www.youtube.com/watch?v=VykHhf7D6vc) music and transcribing [anime sheet music](http://jill-jenn.net/anime-sheet-music/), see my [YouTube videos](https://www.youtube.com/user/Xnihpsel).](/static/img/kapustin.png)
-
-![I composed the music of the TV show [Blame the Algorithm](http://fautealgo.fr) using a [Markov chain](https://github.com/jilljenn/markov.py).](/static/img/sheet.png)
-</div>
-
-
 ### Achievements
 
-✅ [**2 books**](http://tryalgo.org/book) about algorithms & data structures  
+#### Teaching algorithms
+
+✅ [**2 books**](http://tryalgo.org/book) about algorithms & data structures (English version soon)  
 ✅ **1 Python package**: [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → **128 algorithms** for coding contests  
-✅ A **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) since 2014  
-✅ An open-source **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
-✅ A **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
 ✅ A **data challenge** with Kyoto University. [[problem]](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) [[solutions]](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/)
 
-❎ Play more Kapustin (so far only [Etude 1](https://www.youtube.com/watch?v=VykHhf7D6vc))  
-❎ Write a screenplay for ***Ubik***  
-❎ Read Yasutaka Tsutsui's ***Gaspard in the Morning***  
+#### … to everyone
+
+✅ A **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) since 2014  
+✅ A **TV show about algorithms** that take control of our lives → [Blame the Algorithm](http://fautealgo.fr)  
+✅ An open-source project: **anime recommender system** → [Mangaki](https://github.com/mangaki/mangaki/)  
 
 
 ### Publications
