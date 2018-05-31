@@ -18,6 +18,8 @@ nocite: |
 > <span style="color: red">Hey!</span> Come to **Montréal** on **June 12** to our **Optimizing Human Learning** workshop about [adaptive sequences for learning](https://humanlearn.io).  
 [Register now!](https://humanlearn.io/#register) See the [program!](https://humanlearn.io/#program) Share on [Twitter!](https://twitter.com/jjvie/status/990951185606557696)
 
+> We are presenting [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) at **Anime Expo** on July 5, 2018. Join us!
+
 I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
 I also write free software for the **French government** [@Vie2017PIX].  
 
@@ -41,7 +43,7 @@ Learning Analytics, Knowledge Tracing
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna)
 
 <div style="display: flex; flex-flow: row wrap;">
-![We are presenting **Knowledge Tracing Machines** [[poster]](https://github.com/jilljenn/ktm/blob/master/poster/ktm-poster.pdf) at [**AIP-IIS-MLGT 2018**](https://sites.google.com/view/aip-fau-mlgt-2018/home) in Atlanta.](/static/img/ktm.png)
+![Our [poster](https://github.com/jilljenn/ktm/blob/master/poster/dfm-kt-poster.pdf) **Deep Factorization Machines for Knowledge Tracing** will be presented at NAACL [**BEA 2018**](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) workshop in New Orleans.](/static/img/dfm-kt.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
