@@ -15,14 +15,15 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
 
-> <span style="color: red">Hey!</span> We are presenting [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) at **Anime Expo** on July 5, 2018. Join us!
+> <span style="color: red">Hey!</span> We are presenting [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) at **Anime Expo** in Los Angeles on July 5, 2018. Join us!  
+> Also: our French [128 algorithms book](http://tryalgo.org/book/) was translated into [Chinese](https://book.douban.com/subject/30210075/)! An English translation is ongoing.
 
 I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
-I also write free software for the **French government** [@Vie2017PIX].  
+I'm interested in [optimizing human learning](https://humanlearn.io), deep generative models, and adaptive algorithms.
 
 My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net)  
 GitHub projects: [jilljenn](https://github.com/jilljenn/)  
-[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube channel](https://www.youtube.com/user/Xnihpsel) if you like piano)
+[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube channel 🎹](https://www.youtube.com/user/Xnihpsel))
 
 ### Research Interests
 
@@ -37,10 +38,10 @@ Feature Extraction, Representation Learning
 Learning Analytics, Knowledge Tracing
 
 :   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to [optimize human learning](https://humanlearn.io)?  
-Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna)
+Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna), knowledge tracing machines [[tutorial](https://github.com/jilljenn/ktm)]
 
 <div style="display: flex; flex-flow: row wrap;">
-![Our [poster](https://github.com/jilljenn/ktm/blob/master/poster/dfm-kt-poster.pdf) **Deep Factorization Machines for Knowledge Tracing** was presented at NAACL [**BEA 2018**](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) workshop in New Orleans.](/static/img/dfm-kt.png)
+![Our [poster](https://github.com/jilljenn/ktm/blob/master/poster/dfm-kt-poster.pdf) **Deep Factorization Machines for Knowledge Tracing** was presented at NAACL [**BEA 2018**](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html) workshop in New Orleans. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/dfm-kt.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
@@ -48,11 +49,18 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 </div>
 
 
+### Free software projects
+
+- Adaptively **certify the digital skills** of French citizens, joint work with the [French MoE](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIX];
+- An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki)
+- [128 algorithms](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews.
+
+
 ### Achievements
 
 #### Teaching algorithms
 
-✅ [**2 books**](http://tryalgo.org/book) about algorithms & data structures (English version soon)  
+✅ [**2 books**](http://tryalgo.org/book) about algorithms & data structures ([Chinese version out](https://book.douban.com/subject/30210075/), English version soon)  
 ✅ **1 Python package**: [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → **128 algorithms** for coding contests  
 ✅ A **data challenge** with Kyoto University. [[problem]](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) [[solutions]](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/)
 
