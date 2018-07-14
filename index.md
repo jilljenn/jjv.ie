@@ -15,15 +15,16 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
 
-> <span style="color: red">Hey!</span> We are presenting [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) at **Anime Expo** in Los Angeles on July 5, 2018. Join us!  
-> Also: our French [128 algorithms book](http://tryalgo.org/book/) was translated into [Chinese](https://book.douban.com/subject/30210075/)! An English translation is ongoing.
+> We gave the [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) keynote at **Anime Expo** in Los Angeles. [[nontechnical]](http://jill-jenn.net/slides/aimangaki.pdf) [[technical]](http://jill-jenn.net/slides/manpu2017.pdf) [[blog post]](http://research.mangaki.fr)  
+We organized the [Optimizing Human Learning](https://humanlearn.io) workshop in Montréal, colocated with ITS 2018.  
+> Also: our [128 algorithms book](http://tryalgo.org/book/) was translated from French to [Chinese](https://book.douban.com/subject/30210075/)! An English translation is ongoing.
 
 I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
 I'm interested in [optimizing human learning](https://humanlearn.io), deep generative models, and adaptive algorithms.
 
 My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net)  
 GitHub projects: [jilljenn](https://github.com/jilljenn/)  
-[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube channel 🎹](https://www.youtube.com/user/Xnihpsel))
+[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube page 🎹](https://www.youtube.com/user/Xnihpsel))
 
 ### Research Interests
 
@@ -31,11 +32,11 @@ Interactive Machine Learning
 
 :   Adaptive algorithms, optimal design (D-optimality), interactive recommender systems (like anime? try [Mangaki](https://mangaki.fr))
 
-Feature Extraction, Representation Learning
+Representation Learning ← Feature Extraction
 
 :   Using posters for manga and anime recommendations [@BALSE2017], deep factorization machines [@Duolingo2018], variational autoencoders
 
-Learning Analytics, Knowledge Tracing
+Optimizing Human Learning ← Learning Analytics, Knowledge Tracing
 
 :   How to use the logs of educational platforms (MOOCs, [PIX](https://pix.beta.gouv.fr)) to [optimize human learning](https://humanlearn.io)?  
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna), knowledge tracing machines [[tutorial](https://github.com/jilljenn/ktm)]
