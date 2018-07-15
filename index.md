@@ -15,12 +15,12 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
 
-> We gave the [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/) keynote at **Anime Expo** in Los Angeles. [[nontechnical]](http://jill-jenn.net/slides/aimangaki.pdf) [[technical]](http://jill-jenn.net/slides/manpu2017.pdf) [[blog post]](http://research.mangaki.fr)  
-We organized the [Optimizing Human Learning](https://humanlearn.io) workshop in Montréal, colocated with ITS 2018.  
-> Also: our [128 algorithms book](http://tryalgo.org/book/) was translated from French to [Chinese](https://book.douban.com/subject/30210075/)! An English translation is ongoing.
+> Check our keynote [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/): [[non-tech slides]](http://jill-jenn.net/slides/aimangaki.pdf) [[tech slides]](http://jill-jenn.net/slides/manpu2017.pdf) [[blog]](http://research.mangaki.fr)  
 
 I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
 I'm interested in [optimizing human learning](https://humanlearn.io), deep generative models, and adaptive algorithms.
+
+With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote the [128 algorithms book](http://tryalgo.org/book/), available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and soon in English.
 
 My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net)  
 GitHub projects: [jilljenn](https://github.com/jilljenn/)  
