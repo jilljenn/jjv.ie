@@ -13,18 +13,23 @@ nocite: |
 ## Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">Follow \@jjvie</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/), Tokyo</span>
+##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](https://aip.riken.jp), Tokyo, Japan</span>
 
-> Check our keynote [AI for Manga & Anime](http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/): [[non-tech slides]](http://jill-jenn.net/slides/aimangaki.pdf) [[tech slides]](http://jill-jenn.net/slides/manpu2017.pdf) [[blog]](http://research.mangaki.fr)  
+> *Our paper **Deep Knowledge Tracing and Dynamic Student Classification for Knowledge Tracing** was accepted at [**ICDM 2018**](http://icdm2018.org).*
 
-I'm a **postdoctoral researcher** at RIKEN AIP in the **Human Computation** team working with Professor [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html).  
-I'm interested in [optimizing human learning](https://humanlearn.io), deep generative models, and adaptive algorithms.
+I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team. I'm interested in:
 
-With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote the [128 algorithms book](http://tryalgo.org/book/), available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and soon in English.
+- [optimizing human learning](https://humanlearn.io) using machine learning;
+- deep generative models;
+- adaptive algorithms;
+- [applications to anime & manga](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/).
+
+I cowrote a [book containing 128 algorithms](http://tryalgo.org/book/) with [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), to prepare coding interviews & programming competitions.  
+It is available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and (soon!) English.
 
 My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net)  
 GitHub projects: [jilljenn](https://github.com/jilljenn/)  
-[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my YouTube page 🎹](https://www.youtube.com/user/Xnihpsel))
+[vie@jill-jenn.net](mailto:vie@jill-jenn.net) (check [my piano videos 🎹](https://www.youtube.com/user/Xnihpsel))
 
 ### Research Interests
 
