@@ -160,6 +160,10 @@ dt {
   font-weight: bold;
 }
 
+.ww {
+  display: inline-block;
+}
+
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {

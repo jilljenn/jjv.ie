@@ -15,6 +15,8 @@ nocite: |
 
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](https://aip.riken.jp), Tokyo, Japan</span>
 
+<span style="text-align: right; display: block; color: #555; font-size: 0.9em" onmouseover="this.innerHTML='“The world hasn\'t experienced alterations yet, but it will change in about five minutes.”&lt;br /&gt;&lt;em&gt;The Disparition of Haruhi Suzumiya&lt;/em&gt;'" onmouseout="this.innerHTML='「&lt;span&gt;&lt;span class=&quote;ww&quote;&gt;まだ&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;世界は&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;改変されていませんが、&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;あと&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;五&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;分&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;ぐらいで&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;変化します。&lt;/span&gt;&lt;/span&gt;」&lt;br /&gt;涼宮ハルヒの消失'">「<span><span class="ww">まだ</span><span class="ww">世界は</span><span class="ww">改変されていませんが、</span><span class="ww">あと</span><span class="ww">五</span><span class="ww">分</span><span class="ww">ぐらいで</span><span class="ww">変化します。</span></span>」<br />涼宮ハルヒの消失</span>
+
 > *Our paper **Deep Knowledge Tracing and Dynamic Student Classification for Knowledge Tracing** was accepted at [**ICDM 2018**](http://icdm2018.org).*
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team. I'm interested in:
