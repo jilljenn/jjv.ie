@@ -18,7 +18,6 @@ nocite: |
 <span style="text-align: right; display: block; color: #555; font-size: 0.9em" onmouseover="this.innerHTML='“The world hasn\'t experienced alterations yet, but it will change in about five minutes.”&lt;br /&gt;&lt;em&gt;The Disparition of Haruhi Suzumiya&lt;/em&gt;'" onmouseout="this.innerHTML='「&lt;span&gt;&lt;span class=&quote;ww&quote;&gt;まだ&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;世界は&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;改変されていませんが、&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;あと&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;五&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;分&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;ぐらいで&lt;/span&gt;&lt;span class=&quote;ww&quote;&gt;変化します。&lt;/span&gt;&lt;/span&gt;」&lt;br /&gt;涼宮ハルヒの消失'">「<span><span class="ww">まだ</span><span class="ww">世界は</span><span class="ww">改変されていませんが、</span><span class="ww">あと</span><span class="ww">五</span><span class="ww">分</span><span class="ww">ぐらいで</span><span class="ww">変化します。</span></span>」<br />涼宮ハルヒの消失</span>
 
 > *Our paper [**Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing**](#ref-KTM2019) was accepted at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/).*  
-> *Our paper [**Deep Knowledge Tracing and Dynamic Student Classification for Knowledge Tracing**](#ref-Minn2018) was accepted at [**ICDM 2018**](http://icdm2018.org).*  
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team. I'm interested in:
 
@@ -28,7 +27,7 @@ I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima]
 - [applications to anime & manga](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/).
 
 With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote [***Efficient Programming with Python***](http://tryalgo.org/book/), a book containing [128 essential algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming competitions ([read the docs](/tryalgo/)).  
-Currently available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and the English version is in press by [Cambridge University Press](https://www.cambridge.org).
+Currently available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and the English version by [Cambridge University Press](https://www.cambridge.org) will appear in 2019.
 
 My résumé: [English](http://jill-jenn.net/résumé.pdf) / [French](http://jill-jenn.net/CV.pdf)  
 GitHub projects: [jilljenn](https://github.com/jilljenn/)  
@@ -50,7 +49,7 @@ Interactive Machine Learning
 :   Adaptive algorithms, optimal design, interactive recommender systems (like anime? try [Mangaki](https://mangaki.fr))
 
 <div style="display: flex; flex-flow: row wrap;">
-![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines** will be presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
+![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing** will be presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
@@ -96,7 +95,7 @@ Book Chapters
 Conference Proceedings
 
 :   Back in MSc, I was interested in **cryptography** and published an article about leakage resilience [@Abdalla2012].  
-We unified more **educational data mining** models in [@KTM2019], and outperformed **deep knowledge tracing** in [@Minn2018].
+We unified **educational data mining** models in [@KTM2019], and outperformed **deep knowledge tracing** in [@Minn2018].
 
 ---
 </div>
