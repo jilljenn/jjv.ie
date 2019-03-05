@@ -23,7 +23,7 @@ nocite: |
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *Our paper [**Knowledge Tracing Machines**](#ref-KTM2019) has been accepted at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/).
+> *Our paper [**Knowledge Tracing Machines**](#ref-KTM2019) has been accepted at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/).*  
 > *We will chair the poster & demos track of [**EDM 2019**](http://educationaldatamining.org/edm2019/).*  
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.
