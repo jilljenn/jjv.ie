@@ -11,7 +11,7 @@ nocite: |
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
 <div>
-## Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">Follow \@jjvie</a>
+## Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
 ##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](https://aip.riken.jp), Tokyo, Japan</span>
 </div>
 <nav><ul>
@@ -28,10 +28,13 @@ nocite: |
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.
 
-[<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd; margin-right: 1em" height="120" align="left" />](http://tryalgo.org/book/)
+[<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="120" align="right" />](http://tryalgo.org/book/)
+
+[<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
 With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote [***Efficient Programming with Python***](http://tryalgo.org/book/), a book containing [128 essential algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming competitions ([read the docs](/tryalgo/)).  
-Currently available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21), [Chinese](https://book.douban.com/subject/30210075/) and the English version by [Cambridge University Press](https://www.cambridge.org) will appear in 2019.
+Currently available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21) and [Chinese](https://book.douban.com/subject/30210075/).  
+An English version by [Cambridge University Press](https://www.cambridge.org) will appear in 2019.
 
 Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
@@ -53,7 +56,7 @@ Adaptive Testing
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing, determinantal point processes [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna).
 
 <div style="display: flex; flex-flow: row wrap;">
-![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing** will be presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
+![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
