@@ -23,8 +23,8 @@ nocite: |
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *Our paper [**Knowledge Tracing Machines**](#ref-KTM2019) has been accepted at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/).*  
-> *We will chair the poster & demos track of [**EDM 2019**](http://educationaldatamining.org/edm2019/).*  
+> *We are organizing the 2nd [**Optimizing Human Learning workshop**](https://humanlearn.io) in Kingston, Jamaica. <span style="color: red">CFP open</span> until April 16.*  
+> *We will chair the poster & demos track of [**EDM 2019**](http://educationaldatamining.org/edm2019/). Our [slides](http://jiji.cat/bigdata/iith-jjv.pdf) from the presentation at <span style="color: red">IIT Hyderabad</span> are available.*
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.
 
@@ -56,7 +56,7 @@ Adaptive Testing
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing, determinantal point processes [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna).
 
 <div style="display: flex; flex-flow: row wrap;">
-![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
+![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [code & tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
@@ -75,7 +75,7 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 
 ### Other achievements
 
-✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018 and [EDM 2019](http://educationaldatamining.org/edm2019/)  
+✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018, [EDM 2019](http://educationaldatamining.org/edm2019/), [WeASeL 2018, 2019](https://humanlearn.io).  
 ✅ **Reviewer** for [*IEEE-Transactions on Learning Technologies*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) (IEEE-TLT), [*Journal of Educational Data Mining*](https://jedm.educationaldatamining.org) (JEDM)  
 ✅ We organized a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) running since 2014  
 ✅ We wrote and directed a **TV show about algorithms** that take control of our lives → [*La Faute à l'algo*](http://fautealgo.fr) (*Blame the Algorithm*)  
