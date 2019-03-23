@@ -5,14 +5,12 @@ css:
     - /static/css/skeleton.css
 bibliography: biblio.bib
 link-citations: true
-nocite: |
-    @*
 ---
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
 <div>
 ## Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](https://aip.riken.jp), Tokyo, Japan</span>
+##### <span style="color: #999; margin-top: -1em; display: block">ML Researcher in [RIKEN AIP](https://aip.riken.jp), Kyoto, Japan</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
@@ -24,7 +22,6 @@ nocite: |
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > *We are organizing the 2nd [**Optimizing Human Learning workshop**](https://humanlearn.io) in Kingston, Jamaica. <span style="color: red">CFP open</span> until April 16.*  
-> *We will chair the poster & demos track of [**EDM 2019**](http://educationaldatamining.org/edm2019/). Our [slides](http://jiji.cat/bigdata/iith-jjv.pdf) from the presentation at <span style="color: red">IIT Hyderabad</span> are available.*
 
 I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.
 
@@ -32,25 +29,27 @@ I'm a researcher at RIKEN AIP working under the supervision of [Hisashi Kashima]
 
 [<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
-With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote [***Efficient Programming with Python***](http://tryalgo.org/book/), a book containing [128 essential algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming competitions ([read the docs](/tryalgo/)).  
-Currently available in [French](http://www.amazon.fr/gp/product/2340010055/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2340010055&linkCode=as2&tag=mangaki-21) and [Chinese](https://book.douban.com/subject/30210075/).  
-An English version by [Cambridge University Press](https://www.cambridge.org) will appear in 2019.
+With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 essential algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming competitions ([read the docs](/tryalgo/)).  
+Available in French (right): [***Programmation efficace*** (Ellipses)](http://tryalgo.org/book/)  
+Available in Chinese (left): [高效算法 (Douban)](https://book.douban.com/subject/30210075/)  
+Soon in English: ***Efficient Programming with Python*** [(Cambridge University Press)](https://www.cambridge.org).
 
 Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
 
 ### Research Interests
 
-Knowledge Tracing
+Deep generative models of human learning
 
-:   *How to use the logs of educational platforms (MOOCs or [PIX](https://pix.fr)) to predict and explain student performance? See our [tutorial](https://github.com/jilljenn/ktm).*
+:   *How to use the logs of educational platforms (ex. MOOCs) to predict, explain and optimize student performance?  
+See our [tutorial](https://github.com/jilljenn/ktm) and [the slides](http://jiji.cat/bigdata/iith-jjv.pdf) of our presentation in IIT Hyderabad.*
 
-Recommender Systems
+Recommender systems with side information
 
 :   *How to model uncertainty and side information in preference elicitation? See our [demo Mangaki](https://mangaki.fr) and [keynote](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/)*.  
 Using 330k ratings from Mangaki data, we organized a **data challenge** with Kyoto University [[problem]](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) [[solutions]](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/).
 
-Adaptive Testing
+Adaptive testing for optimizing human learning
 
 :   *How to [optimize human learning](https://humanlearn.io) by selecting the next item to ask? See our [workshop](https://humanlearn.io).*  
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing, determinantal point processes [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna).
@@ -70,12 +69,12 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 
 - [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
 - An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki);
-- Adaptively **certify the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIX].
+- Adaptively **certify the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIXposter].
 
 
 ### Other achievements
 
-✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018, [EDM 2019](http://educationaldatamining.org/edm2019/), [WeASeL 2018, 2019](https://humanlearn.io).  
+✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018, [Educational Data Mining 2019](http://educationaldatamining.org/edm2019/), [Optimizing Human Learning 2018, 2019](https://humanlearn.io).  
 ✅ **Reviewer** for [*IEEE-Transactions on Learning Technologies*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) (IEEE-TLT), [*Journal of Educational Data Mining*](https://jedm.educationaldatamining.org) (JEDM)  
 ✅ We organized a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) running since 2014  
 ✅ We wrote and directed a **TV show about algorithms** that take control of our lives → [*La Faute à l'algo*](http://fautealgo.fr) (*Blame the Algorithm*)  
@@ -86,27 +85,3 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 ### Publications
 
 [See my Scholar page](https://scholar.google.com/citations?hl=en&user=7oCGHIMAAAAJ)
-
-Books
-
-:   We wrote two books about **algorithms and data structures**: preparing programming contests and coding interviews [@Durr2016] and [@Belghiti2016].  
-All [128 algorithms in Python](https://github.com/jilljenn/tryalgo/) from the book are available on GitHub, in the package [tryalgo](https://pypi.python.org/pypi/tryalgo/1.2.2).
-
-Book Chapters
-
-:   We wrote a chapter about **recent advances in adaptive assessment** [@Vie2017adaptive] in a **learning analytics** book, where we identify similarities between cognitive diagnostic models and item response theory.
-
-Conference Proceedings
-
-:   Back in MSc, I was interested in **cryptography** and published an article about leakage resilience [@Abdalla2012].  
-We unified **educational data mining** models in [@KTM2019] using factorization machines.
-
-- Knowledge tracing machines [@KTM2019] [[tutorial](https://github.com/jilljenn/ktm)] at **AAAI 2019**
-- Deep knowledge tracing with dynamic student classification [@Minn2018] at **ICDM 2018**
-
-Popularization of Science
-
-:   We wrote articles in the French magazines *Quadrature* [@MagQuadrature], *Tangente* [@MagTangenteGrolopin] and *GNU Linux Magazine* [@MagLinux].
-
----
-</div>
