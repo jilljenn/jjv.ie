@@ -1,4 +1,6 @@
-all: publications.html
+all: index.html cv.pdf cv-fr.pdf visual.png
+
+index.html: index.md publications.html
 	pandoc --filter pandoc-citeproc -s index.md publications.html -t html5 -o index.html
 
 preprints.bib: biblio.bib
@@ -22,9 +24,6 @@ others.bib: biblio.bib
 magazines.bib: biblio.bib
 	bib2bib -ob magazines.bib -c '$$type = "ARTICLE"' -c '$$key : "Mag"' biblio.bib
 
-# %.html: %.bib
-# 	bib2html $<
-
 %.html: %.md %.bib
 	pandoc --filter pandoc-citeproc $< -t html5 -o $@
 
@@ -38,9 +37,33 @@ publications.html: preprints.html articles.html books.html chapters.html confere
 	sed -i '' s/"refs"/"refs7"/ magazines.html
 	pandoc $^ -o publications.html
 
+cv.pdf: cv.tex
+	pandoc cv.md -o content.tex
+	lualatex cv
+# 	biber cv
+# 	lualatex cv
+	open cv.pdf
+
+cv-fr.pdf: cv-fr.tex
+	pandoc cv-fr.md -o content-fr.tex
+	lualatex cv-fr
+# 	biber cv-fr
+# 	lualatex cv-fr
+	open cv-fr.pdf
+
+visual.png: Makefile
+	make -Bnd | ~/code/makefile2graph/make2graph | sed s/green/forestgreen/g > visual.dot
+	dot -Tpng visual.dot > visual.png
+
 clean:
 	rm -f publications.html
 	rm -f preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
+	rm -f cv.pdf résumé.pdf cv-fr.pdf visual.png index.html
 
 bibclean:
 	rm -f preprints.bib articles.bib books.bib chapters.bib conferences.bib others.bib magazines.bib
+
+publish:
+	mv cv.pdf résumé.pdf
+	mv cv-fr.pdf CV.pdf
+	scp CV.pdf résumé.pdf mangaki:/srv/http/jj/_static/

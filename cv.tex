@@ -1,0 +1,42 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[french,english]{babel}
+\usepackage[style=numeric,backend=biber,backref=true,maxcitenames=7,maxbibnames=99,sorting=ydnt,autolang=other]{biblatex}
+\usepackage[french=guillemets]{csquotes} % French quotes in bibliography
+\DefineBibliographyExtras{french}{\restorecommand\mkbibnamefamily} % Remove small caps from French bibliography
+\addbibresource{preprints.bib}
+\addbibresource{articles.bib}
+\addbibresource{books.bib}
+\addbibresource{chapters.bib}
+\addbibresource{conferences.bib}
+\addbibresource{others.bib}
+\addbibresource{magazines.bib}
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{luatexja-fontspec}
+\setmainjfont{Songti SC}
+\setsansjfont{Songti SC}
+\jfontspec{Songti SC}
+
+\usepackage{wrapfig}
+\usepackage[colorlinks]{hyperref}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{nth}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{2.5pt}\setlength{\parskip}{0pt}}
+\setmainfont{Linux Libertine O}
+\setmonofont[Scale=MatchLowercase]{DejaVu Sans Mono}
+\newcommand\insertbib[1]{\begin{refsection}[#1.bib]%
+    \printbibliography[heading=none]%
+    \nocite{*}%
+    \end{refsection}}
+
+\begin{document}
+\pagestyle{empty}
+\begin{wrapfigure}{r}{2cm}
+\vspace{-3mm}
+\includegraphics[width=2cm]{jj.png}
+\end{wrapfigure}
+\noindent
+{\LARGE Jill-Jênn Vie}\\[1mm]
+\input{content}
+\end{document}
