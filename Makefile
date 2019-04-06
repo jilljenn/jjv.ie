@@ -40,19 +40,23 @@ publications.html: preprints.html articles.html books.html chapters.html confere
 cv.pdf: cv.tex
 	pandoc cv.md -o content.tex
 	lualatex cv
-# 	biber cv
-# 	lualatex cv
+	biber cv
+	lualatex cv
 	open cv.pdf
 
 cv-fr.pdf: cv-fr.tex
 	pandoc cv-fr.md -o content-fr.tex
 	lualatex cv-fr
-# 	biber cv-fr
-# 	lualatex cv-fr
+	biber cv-fr
+	lualatex cv-fr
 	open cv-fr.pdf
 
-visual.png: Makefile
-	make -Bnd | ~/code/makefile2graph/make2graph | sed s/green/forestgreen/g > visual.dot
+makefile2graph:
+	git clone https://github.com/lindenb/makefile2graph.git
+	cd makefile2graph && make
+
+visual.png: Makefile makefile2graph
+	make -Bnd | ./makefile2graph/make2graph | sed s/green/forestgreen/g > visual.dot
 	dot -Tpng visual.dot > visual.png
 
 clean:
