@@ -154,6 +154,10 @@ Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à P
 
 \insertbib{others}
 
+## Articles soumis {-}
+
+\insertbib{preprints}
+
 ## Participation à des séminaires {-}
 
 - Séminaire e-learning Institut de la société numérique (ISN), ENS Cachan, 17 mars 2015.

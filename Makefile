@@ -63,6 +63,8 @@ clean:
 	rm -f publications.html
 	rm -f preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
 	rm -f cv.pdf résumé.pdf cv-fr.pdf visual.png index.html
+	rm -r cv.aux cv.bcf cv.blg cv.log cv.out cv.run.xml
+	rm -r cv-fr.aux cv-fr.bcf cv-fr.blg cv-fr.log cv-fr.out cv-fr.run.xml
 
 bibclean:
 	rm -f preprints.bib articles.bib books.bib chapters.bib conferences.bib others.bib magazines.bib

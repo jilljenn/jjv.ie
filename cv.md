@@ -112,6 +112,10 @@ Sep 2008 -- Sep 2009
 
 # Publications {-}
 
+## Journal Articles {-}
+
+\insertbib{articles}
+
 ## Books {-}
 
 \insertbib{books}
@@ -120,10 +124,6 @@ Sep 2008 -- Sep 2009
 
 \insertbib{chapters}
 
-## Journal Articles {-}
-
-\insertbib{articles}
-
 ## Conference Papers {-}
 
 \insertbib{conferences}
@@ -131,6 +131,10 @@ Sep 2008 -- Sep 2009
 ## Other publications {-}
 
 \insertbib{others}
+
+## Preprints {-}
+
+\insertbib{preprints}
 
 ## Dissemination of scientific knowledge {-}
 
