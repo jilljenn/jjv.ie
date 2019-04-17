@@ -4,6 +4,4 @@ link-citations: true
 nocite: |
     @*
 ---
-Journal Articles
-
-:   
+#### Journal Articles

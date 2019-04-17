@@ -24,7 +24,7 @@ link-citations: true
 > *Our paper **DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills** has been accepted to EDM 2019. See you in ICLR, ITS or EDM this year!*
 
 I am a researcher at RIKEN AIP working under the supervision of Prof. [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.  
-I am currently visiting Prof. Yoav Bergner of NYU Steinhardt in the LEARN lab.
+I am currently visiting Prof. Yoav Bergner in the LEARN lab, New York University, until mid-July.
 
 [<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="120" align="right" />](http://tryalgo.org/book/)
 
