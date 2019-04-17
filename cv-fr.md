@@ -1,5 +1,5 @@
 \noindent
-RIKEN Kyoto Office -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
+RIKEN AI Research Unit -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
 Kyoto 〒606-8501, Japon  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{http://jill-jenn.net}
 
@@ -34,8 +34,11 @@ Kyoto 〒606-8501, Japon
 
 \spacebelow
 
+Depuis avril 2019
+:   Chercheur invité au laboratoire LEARN de l'université de New York. Collaborations avec le professeur Yoav Bergner.
+
 Depuis avril 2017
-:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima, professeur à l'université de Kyoto.
+:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima, professeur à l'université de Kyoto. Depuis avril 2019 : dans le laboratoire AI Research Unit de l'université de Kyoto.
 
 Depuis octobre 2016
 :   **Consultant** au ministère de l'Éducation nationale et au groupe d'intérêt public PIX.   
