@@ -1,6 +1,5 @@
 \noindent
-RIKEN AI Research Unit -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
-Kyoto 〒606-8501, Japon  
+NYU Steinhardt 2F LEARN -- 82 Washington Square East, New York, NY 10003  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{http://jill-jenn.net}
 
 \def\spaceabove{\vspace{-5mm}}
