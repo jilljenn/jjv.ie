@@ -10,7 +10,7 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div>
 # Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-## <span style="color: #999; margin-top: -1em; display: block">Visiting Scholar in [LEARN, New York University](https://steinhardt.nyu.edu/learn/) <br /> & ML Researcher in [RIKEN AIP](https://aip.riken.jp), Kyoto University</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher in [RIKEN AIP](https://aip.riken.jp)<br />Visiting Scholar in [New York University](https://steinhardt.nyu.edu/learn/)</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
@@ -21,8 +21,8 @@ link-citations: true
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *Our paper [**DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills**](https://arxiv.org/abs/1905.06873) has been accepted to EDM 2019 as **Best Paper Nominee**!  
-If you're coming to [our workshop at ITS on June 4](https://humanlearn.io) in Kingston or [EDM on July 2–5](http://educationaldatamining.org/edm2019/) in Montréal, please drop me a line!*
+> *Our paper [**DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills**](https://arxiv.org/abs/1905.06873) has been accepted to [EDM 2019](http://educationaldatamining.org/edm2019/) as **Best Paper Nominee**! See you in Montréal.  
+We are organizing the [**Optimizing Human Learning** workshop on June 4](https://humanlearn.io) in Kingston, Jamaica.*
 
 I am a researcher at RIKEN AIP working under the supervision of Prof. [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.  
 I am currently visiting Prof. Yoav Bergner in the LEARN lab, New York University, until mid-July.
@@ -31,9 +31,9 @@ I am currently visiting Prof. Yoav Bergner in the LEARN lab, New York University
 
 [<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
-With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 essential algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming competitions ([read the docs](/tryalgo/)).  
-Available in French: [***Programmation efficace*** (Ellipses)](http://tryalgo.org/book/) and Chinese: [高效算法](https://book.douban.com/subject/30210075/)  
-Coming soon in English: ***Efficient Programming with Python*** [(Cambridge University Press)](https://www.cambridge.org) and Taiwanese.
+With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 essential algorithms](http://tryalgo.org/code/) and [documentation](/tryalgo/) for preparing coding interviews & programming competitions. It is translated into several languages.  
+Available: [***Programmation efficace*** (Ellipses) 🇫🇷](http://tryalgo.org/book/) [高效算法 🇨🇳](https://book.douban.com/subject/30210075/)  
+Coming soon: ***Efficient Programming with Python*** [(Cambridge University Press) 🇬🇧](https://www.cambridge.org) 🇹🇼
 
 Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
@@ -70,11 +70,12 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 
 - [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
 - An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki);
-- Adaptively **certify the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIXposter].
+- Adaptively **certifying the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIXposter].
 
 
 ### Other achievements
 
+✅ I designed and implemented [free software](https://github.com/1024pix/pix) that is used to certify the digital skills of every French citizen  
 ✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018, [Educational Data Mining 2019](http://educationaldatamining.org/edm2019/), [Optimizing Human Learning 2018, 2019](https://humanlearn.io).  
 ✅ **Reviewer** for [*IEEE-Transactions on Learning Technologies*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) (IEEE-TLT), [*Journal of Educational Data Mining*](https://jedm.educationaldatamining.org) (JEDM)  
 ✅ We organized a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) running since 2014  
