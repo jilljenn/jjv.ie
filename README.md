@@ -1,6 +1,6 @@
 # jilljenn.github.io
 
-Collection of scripts to generate my homepage and my CV.
+Collection of scripts to generate a researcher's homepage and CV.
 
 You may be interested in this if you care about:
 

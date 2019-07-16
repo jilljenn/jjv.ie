@@ -10,22 +10,20 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div>
 # Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-## <span style="color: #999; margin-top: -1em; display: block">Researcher in [RIKEN AIP](https://aip.riken.jp)<br />Visiting Scholar in [New York University](https://steinhardt.nyu.edu/learn/)</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp)</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
-<li>CV [🇫🇷](http://jill-jenn.net/CV.pdf) [🇬🇧](http://jill-jenn.net/résumé.pdf)</li>
+<li>[CV](http://jill-jenn.net/résumé.pdf)</li>
 <li>[Software](#free-software-projects)</li>
 <li>[Piano 🎹](https://www.youtube.com/user/Xnihpsel)</li>
 </ul></nav>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *Our paper [**DAS3H: Modeling Student Learning and Forgetting for Optimally Scheduling Distributed Practice of Skills**](https://arxiv.org/abs/1905.06873) has been accepted to [EDM 2019](http://educationaldatamining.org/edm2019/) as **Best Paper Nominee**! See you in Montréal.  
-We are organizing the [**Optimizing Human Learning** workshop on June 4](https://humanlearn.io) in Kingston, Jamaica.*
+> *We received the **Best Full Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting with applications in spaced repetition [@Choffin2019].*
 
-I am a researcher at RIKEN AIP working under the supervision of Prof. [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) in the Human Computation team.  
-I am currently visiting Prof. Yoav Bergner in the LEARN lab, New York University, until mid-July.
+I am a researcher at RIKEN AIP working with [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) on educational applications of machine learning.  
 
 [<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="120" align="right" />](http://tryalgo.org/book/)
 
@@ -42,8 +40,8 @@ Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
 Deep generative models of human learning
 
-:   *How to use the logs of educational platforms (ex. MOOCs) to predict, explain and optimize student performance?  
-See our [tutorial](https://github.com/jilljenn/ktm) and [the slides](http://jiji.cat/bigdata/iith-jjv.pdf) of our presentation in IIT Hyderabad.*
+:   *How to use the logs of educational platforms (e.g. MOOCs) to predict, explain and optimize student performance?  
+See our [tutorial at ITS 2019](https://github.com/jilljenn/ktm) and [the slides](http://jiji.cat/bigdata/iith-jjv.pdf) of our presentation in IIT Hyderabad.*
 
 Recommender systems with side information
 

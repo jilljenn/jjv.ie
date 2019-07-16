@@ -1,5 +1,6 @@
 \noindent
-NYU Steinhardt 2F LEARN -- 82 Washington Square East, New York, NY 10003  
+RIKEN AI Research Unit -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
+Kyoto 〒606-8501, Japon  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{http://jill-jenn.net}
 
 \def\spaceabove{\vspace{-5mm}}
@@ -33,11 +34,11 @@ NYU Steinhardt 2F LEARN -- 82 Washington Square East, New York, NY 10003
 
 \spacebelow
 
-Depuis avril 2019
-:   Chercheur invité au laboratoire LEARN de l'université de New York. Collaborations avec le professeur Yoav Bergner.
-
 Depuis avril 2017
-:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima, professeur à l'université de Kyoto. Depuis avril 2019 : dans le laboratoire AI Research Unit de l'université de Kyoto.
+:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima. Depuis avril 2019 : dans le laboratoire RIKEN AI Research Unit sur le campus de l'université de Kyoto.
+
+Avril--juillet 2019
+:   Chercheur invité au laboratoire LEARN de l'université de New York. Collaborations avec Yoav Bergner.
 
 Depuis octobre 2016
 :   **Consultant** au ministère de l'Éducation nationale et au groupe d'intérêt public PIX.   
@@ -195,6 +196,10 @@ Révisions d'articles de journaux
 :   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*.
 
 # Organisations et récompenses {-}
+
+2019
+
+:   **Best Full Paper Award** à la conférence Educational Data Mining 2019, avec Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
 
 Avril 2017
 

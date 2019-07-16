@@ -402,7 +402,7 @@ hr {
   display: none;
 }
 
-h2 + h5 {
+h2 {
   margin-bottom: 0;
 }
 
@@ -416,8 +416,7 @@ nav {
 }
 
 nav > ul {
-  margin: 0 0 0 0;
-  /*margin: 0 0 0 0px;*/
+  margin: 0;
   padding: 0;
 }
 
@@ -426,8 +425,7 @@ nav > ul li {
   list-style-type: none;
   font-size: larger;
   padding: 0;
-  margin: 1em 1.2em 0 0;
-  /*margin: 0;*/
+  margin: 1em 0 0 2em;
 }
 
 /* Clearing
