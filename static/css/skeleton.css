@@ -425,7 +425,11 @@ nav > ul li {
   list-style-type: none;
   font-size: larger;
   padding: 0;
-  margin: 1em 0 0 2em;
+  margin: 1em 0 0 1em;
+}
+
+nav > ul li:first-child {
+  margin-left: 0;
 }
 
 /* Clearing
@@ -455,7 +459,11 @@ there.
 @media (min-width: 400px) {}
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
+@media (min-width: 550px) {
+  nav > ul li:first-child {
+    margin-left: 1em;
+  }
+}
 
 /* Larger than tablet */
 @media (min-width: 750px) {}

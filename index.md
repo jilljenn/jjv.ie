@@ -21,7 +21,7 @@ link-citations: true
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *We received the **Best Full Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting with applications in spaced repetition [@Choffin2019].*
+> *We received the **Best Full Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting [@Choffin2019].*
 
 I am a researcher at RIKEN AIP working with [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) on educational applications of machine learning.  
 
