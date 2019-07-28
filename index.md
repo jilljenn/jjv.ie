@@ -16,20 +16,20 @@ link-citations: true
 <li>[Publications](#publications)</li>
 <li>[CV](http://jill-jenn.net/résumé.pdf)</li>
 <li>[Software](#free-software-projects)</li>
-<li>[Piano 🎹](https://www.youtube.com/user/Xnihpsel)</li>
+<li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
 </ul></nav>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > *We received the **Best Full Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting [@Choffin2019].*
 
-I am a researcher at RIKEN AIP working with [Hisashi Kashima](http://www.geocities.co.jp/kashi_pong/index_e.html) on educational applications of machine learning.  
+I am a researcher at RIKEN AIP working with [Hisashi Kashima](https://hkashima.github.io/index_e.html) on educational applications of machine learning.
 
-[<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="120" align="right" />](http://tryalgo.org/book/)
+[<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="116" align="right" />](http://tryalgo.org/book/)
 
-[<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd" height="120" align="left" />](https://book.douban.com/subject/30210075/)
+[<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd; margin-right: 0.5em" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
-With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 essential algorithms](http://tryalgo.org/code/) and [documentation](/tryalgo/) for preparing coding interviews & programming competitions. It is translated into several languages.  
+With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 algorithms](http://tryalgo.org/code/) ([docs](/tryalgo/)) for preparing coding interviews & programming contests.  
 Available: [***Programmation efficace*** (Ellipses) 🇫🇷](http://tryalgo.org/book/) [高效算法 🇨🇳](https://book.douban.com/subject/30210075/)  
 Coming soon: ***Efficient Programming with Python*** [(Cambridge University Press) 🇬🇧](https://www.cambridge.org) 🇹🇼
 
