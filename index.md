@@ -10,18 +10,18 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div>
 # Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp)</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp) → [Inria](https://team.inria.fr/sequel/) from 1/10</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
-<li>[CV](http://jill-jenn.net/résumé.pdf)</li>
 <li>[Software](#free-software-projects)</li>
+<li>[CV](http://jill-jenn.net/résumé.pdf)</li>
 <li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
 </ul></nav>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *We received the **Best Full Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting [@Choffin2019].*
+> *We received the **Best Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting [@Choffin2019].*
 
 I am a researcher at RIKEN AIP working with [Hisashi Kashima](https://hkashima.github.io/index_e.html) on educational applications of machine learning.
 
@@ -29,7 +29,7 @@ I am a researcher at RIKEN AIP working with [Hisashi Kashima](https://hkashima.g
 
 [<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd; margin-right: 0.5em" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
-With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 algorithms](http://tryalgo.org/code/) ([docs](/tryalgo/)) for preparing coding interviews & programming contests.  
+W/ [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 algorithms](http://tryalgo.org/code/) ([docs](/tryalgo/)) for preparing coding interviews & programming contests.  
 Available: [***Programmation efficace*** (Ellipses) 🇫🇷](http://tryalgo.org/book/) [高效算法 🇨🇳](https://book.douban.com/subject/30210075/)  
 Coming soon: ***Efficient Programming with Python*** [(Cambridge University Press) 🇬🇧](https://www.cambridge.org) 🇹🇼
 
