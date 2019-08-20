@@ -10,7 +10,7 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div>
 # Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp) → [Inria](https://team.inria.fr/sequel/) from 1/10</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp) → [Inria](https://team.inria.fr/sequel/) (Oct 1~)</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
@@ -29,9 +29,8 @@ I am a researcher at RIKEN AIP working with [Hisashi Kashima](https://hkashima.g
 
 [<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd; margin-right: 0.5em" height="120" align="left" />](https://book.douban.com/subject/30210075/)
 
-W/ [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we wrote a book with [128 algorithms](http://tryalgo.org/code/) ([docs](/tryalgo/)) for preparing coding interviews & programming contests.  
-Available: [***Programmation efficace*** (Ellipses) 🇫🇷](http://tryalgo.org/book/) [高效算法 🇨🇳](https://book.douban.com/subject/30210075/)  
-Coming soon: ***Efficient Programming with Python*** [(Cambridge University Press) 🇬🇧](https://www.cambridge.org) 🇹🇼
+W/ [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we explain [128 algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming contests.  
+Available in French: [***Programmation efficace*** 🇫🇷](http://tryalgo.org/book/) and Chinese [高效算法 🇨🇳](https://book.douban.com/subject/30210075/) Coming soon: ***Efficient Programming with Python*** 🇬🇧🇹🇼
 
 Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
@@ -40,12 +39,12 @@ Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
 
 Deep generative models of human learning
 
-:   *How to use the logs of educational platforms (e.g. MOOCs) to predict, explain and optimize student performance?  
-See our [tutorial at ITS 2019](https://github.com/jilljenn/ktm) and [the slides](http://jiji.cat/bigdata/iith-jjv.pdf) of our presentation in IIT Hyderabad.*
+:   *If we can generate log data from educational platforms (e.g. MOOCs), we can predict, explain and optimize student performance.  
+See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and [the slides](http://jiji.cat/bigdata/iith-jjv.pdf) of our presentation in IIT Hyderabad.*
 
 Recommender systems with side information
 
-:   *How to model uncertainty and side information in preference elicitation? See our [demo Mangaki](https://mangaki.fr) and [keynote](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/)*.  
+:   *How to model uncertainty and side information in preference elicitation? See our [demo Mangaki](https://mangaki.fr) in 5 languages and [keynote](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/)*.  
 Using 330k ratings from Mangaki data, we organized a **data challenge** with Kyoto University [[problem]](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) [[solutions]](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/).
 
 Adaptive testing for optimizing human learning
