@@ -9,30 +9,22 @@ link-citations: true
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
 <div>
-# Jill-Jênn Vie <a class="twitter-follow-button" href="https://twitter.com/jjvie" data-show-count="false">\@jjvie</a>
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [RIKEN AIP](https://aip.riken.jp) → [Inria](https://team.inria.fr/sequel/) (Oct 1~)</span>
+# Jill-Jênn Vie
+## <span style="color: #999; margin-top: -1em; display: block">Research Scientist at [Inria](https://inria.fr)</span>
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
 <li>[Software](#free-software-projects)</li>
-<li>[CV](http://jill-jenn.net/résumé.pdf)</li>
+<li>[CV](https://jill-jenn.net/résumé.pdf)</li>
 <li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
 </ul></nav>
 </div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> *We received the **Best Paper Award at [EDM 2019](http://educationaldatamining.org/edm2019/)** for our model [DAS3H](https://arxiv.org/abs/1905.06873) of student learning and forgetting [@Choffin2019].*
+> *We received the **Best Paper Award** [EDM 2019](http://educationaldatamining.org/edm2019/) for our [learning/forgetting student model](https://arxiv.org/abs/1905.06873) [@Choffin2019].*
 
-I am a researcher at RIKEN AIP working with [Hisashi Kashima](https://hkashima.github.io/index_e.html) on educational applications of machine learning.
+I am a *chargé de recherche de classe normalienne* at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in factorization and educational applications of machine learning. Prior to that, I spent two wonderful years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
 
-[<img src="/static/img/tryalgo.png" style="border: 1px solid #ddd" height="116" align="right" />](http://tryalgo.org/book/)
-
-[<img src="/static/img/tryalgo-cn.jpg" style="border: 0px solid #ddd; margin-right: 0.5em" height="120" align="left" />](https://book.douban.com/subject/30210075/)
-
-W/ [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we explain [128 algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming contests.  
-Available in French: [***Programmation efficace*** 🇫🇷](http://tryalgo.org/book/) and Chinese [高效算法 🇨🇳](https://book.douban.com/subject/30210075/) Coming soon: ***Efficient Programming with Python*** 🇬🇧🇹🇼
-
-Feel free to contact me at [vie@jill-jenn.net](mailto:vie@jill-jenn.net).
+Feel free to contact: [vie@jill-jenn.net](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
 
 ### Research Interests

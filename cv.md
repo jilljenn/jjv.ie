@@ -1,6 +1,5 @@
 \noindent
-RIKEN AI Research Unit -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
-Kyoto 〒606-8501, Japon  
+Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jilljenn.github.io}
 
 \def\spaceabove{\vspace{-5mm}}
@@ -30,17 +29,23 @@ Kyoto 〒606-8501, Japon
 
 # Experience {-}
 
-Apr 2017 -- current
-:      
-**Postdoctoral Researcher** at RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan, under the supervision of Prof. Hisashi Kashima. From April 2019: in RIKEN Artificial Intelligence Research Unit, Kyoto University campus.
+From Oct 2019
+:   
+**Research Scientist** at Inria Lille in the SequeL team.  
+Learning representations that evolve over time.
+
+Apr 2017 -- Oct 2019
+:     
+**Postdoctoral Researcher** at RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan, under the supervision of Prof. Hisashi Kashima.
 
 Apr 2019 -- Jul 2019
 :     
 **Visiting Scholar** at LEARN lab, New York University. Working with Prof. Yoav Bergner.
 
-Oct 2016 -- current
+From Oct 2016
 :   Consulting at the French Ministry of Education.  
 PIX Project: certification of digital competencies. [https://pix.fr](https://pix.fr)
+
 
 # Education {-}
 
@@ -67,6 +72,7 @@ Sep 2010
 
 Sep 2008 -- Sep 2009
 :    **BSc of Computer Science** at ENS de Lyon.
+
 
 # Research Internships {-}
 
@@ -114,6 +120,7 @@ Sep 2008 -- Sep 2009
 2009--2011
 :   **Oral examiner** in Mathematics, Lycée Sainte-Marie & du Parc, Lyon, Lycée Condorcet, Paris.
 
+
 # Publications {-}
 
 ## Journal Articles {-}
@@ -143,6 +150,7 @@ Sep 2008 -- Sep 2009
 ## Dissemination of scientific knowledge {-}
 
 \insertbib{magazines}
+
 
 # Professional Affiliations & Activities {-}
 

@@ -28,13 +28,14 @@ magazines.bib: biblio.bib
 	pandoc --filter pandoc-citeproc $< -t html5 -o $@
 
 publications.html: preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
-	sed -i '' s/"refs"/"refs1"/ preprints.html
-	sed -i '' s/"refs"/"refs2"/ articles.html
-	sed -i '' s/"refs"/"refs3"/ books.html
-	sed -i '' s/"refs"/"refs4"/ chapters.html
-	sed -i '' s/"refs"/"refs5"/ conferences.html
-	sed -i '' s/"refs"/"refs6"/ others.html
-	sed -i '' s/"refs"/"refs7"/ magazines.html
+	sed -i.tmp s/"refs"/"refs1"/ preprints.html  # Si Mac OS X
+	sed -i.tmp s/"refs"/"refs2"/ articles.html
+	sed -i.tmp s/"refs"/"refs3"/ books.html
+	sed -i.tmp s/"refs"/"refs4"/ chapters.html
+	sed -i.tmp s/"refs"/"refs5"/ conferences.html
+	sed -i.tmp s/"refs"/"refs6"/ others.html
+	sed -i.tmp s/"refs"/"refs7"/ magazines.html
+	rm *.tmp
 	pandoc $^ -o publications.html
 
 cv.pdf: cv.tex
@@ -42,14 +43,12 @@ cv.pdf: cv.tex
 	lualatex cv
 	biber cv
 	lualatex cv
-	open cv.pdf
 
 cv-fr.pdf: cv-fr.tex
 	pandoc cv-fr.md -o content-fr.tex
 	lualatex cv-fr
 	biber cv-fr
 	lualatex cv-fr
-	open cv-fr.pdf
 
 makefile2graph:
 	git clone https://github.com/lindenb/makefile2graph.git
@@ -72,4 +71,4 @@ bibclean:
 publish:
 	mv cv.pdf résumé.pdf
 	mv cv-fr.pdf CV.pdf
-	scp CV.pdf résumé.pdf mangaki:/srv/http/jj/_static/
+	scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/

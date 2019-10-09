@@ -1,6 +1,5 @@
 \noindent
-RIKEN AI Research Unit -- Research Bldg. No 15, Kyoto University, Yoshida-honmachi, Sakyo-ku  
-Kyoto 〒606-8501, Japon  
+Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jill-jenn.net}
 
 \def\spaceabove{\vspace{-5mm}}
@@ -34,11 +33,14 @@ Kyoto 〒606-8501, Japon
 
 \spacebelow
 
-Depuis avril 2017
-:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima. Depuis avril 2019 : dans le laboratoire RIKEN AI Research Unit sur le campus de l'université de Kyoto.
+Depuis octobre 2019
+:   **Chargé de recherche de classe normale** à Inria Lille, dans l'équipe-projet SequeL.
+
+Avril 2017 -- Octobre 2019
+:   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima.
 
 Avril--juillet 2019
-:   Chercheur invité au laboratoire LEARN de l'université de New York. Collaborations avec Yoav Bergner.
+:   Chercheur invité par Yoav Bergner au laboratoire LEARN de l'université de New York.
 
 Depuis octobre 2016
 :   **Consultant** au ministère de l'Éducation nationale et au groupe d'intérêt public PIX.   
