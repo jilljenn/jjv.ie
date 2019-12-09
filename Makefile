@@ -50,6 +50,12 @@ cv-fr.pdf: cv-fr.tex
 	biber cv-fr
 	lualatex cv-fr
 
+cv-2p.pdf: cv-2p.tex
+	pandoc cv-2p.md -o content-2p.tex
+	lualatex cv-2p
+	biber cv-2p
+	lualatex cv-2p
+
 makefile2graph:
 	git clone https://github.com/lindenb/makefile2graph.git
 	cd makefile2graph && make
