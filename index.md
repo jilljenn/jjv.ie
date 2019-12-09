@@ -20,9 +20,10 @@ link-citations: true
 </ul></nav>
 </div>
 
+> *We are currently looking for postdocs, by June 2020. [Contact me](mailto:vie@jill-jenn.net) if interested.*  
 > *We received the **Best Paper Award** [EDM 2019](http://educationaldatamining.org/edm2019/) for our [learning/forgetting student model](https://arxiv.org/abs/1905.06873) [@Choffin2019].*
 
-I am a *chargé de recherche de classe normalienne* at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in factorization and educational applications of machine learning. Prior to that, I spent two wonderful years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
+I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. Prior to that, I spent 2 years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
 
 Feel free to contact: [vie@jill-jenn.net](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
