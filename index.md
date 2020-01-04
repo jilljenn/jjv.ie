@@ -21,7 +21,7 @@ link-citations: true
 </div>
 
 > *We are currently looking for postdocs, by June 2020. [Contact me](mailto:vie@jill-jenn.net) if interested.*  
-> *We received the **Best Paper Award** [EDM 2019](http://educationaldatamining.org/edm2019/) for our [learning/forgetting student model](https://arxiv.org/abs/1905.06873) [@Choffin2019].*
+> 
 
 I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. Prior to that, I spent 2 years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
 
@@ -50,7 +50,7 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
-![Our [article](https://rdcu.be/G30H) **Automated Test Assembly for Handling Learner Cold-Start in Large-Scale Assessments** has been accepted in the journal [**IJAIED 2018**](https://rdcu.be/G30H).](/static/img/adaptive.png)
+![We received the **Best Paper Award** at [**EDM 2019**](http://educationaldatamining.org/edm2019/) for our [learning/forgetting student model **DAS3H**](https://arxiv.org/abs/1905.06873) [@Choffin2019].](/static/img/tw.png)
 </div>
 
 
