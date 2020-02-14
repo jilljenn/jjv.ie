@@ -20,7 +20,7 @@ link-citations: true
 </ul></nav>
 </div>
 
-> *We are currently looking for postdocs, by June 2020. [Apply by February 28.](https://jobs.inria.fr/public/classic/en/offres/2020-02359).*
+> *We are currently looking for postdocs at the [SequeL team](https://team.inria.fr/sequel/) starting by June 2020. [Apply here by February 28.](https://jobs.inria.fr/public/classic/en/offres/2020-02359)*
 
 I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. Prior to that, I spent 2 years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
 
