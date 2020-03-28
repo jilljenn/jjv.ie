@@ -14,13 +14,15 @@ link-citations: true
 </div>
 <nav><ul>
 <li>[Publications](#publications)</li>
-<li>[Software](#free-software-projects)</li>
+<li>[Software](software)</li>
 <li>[CV](https://jill-jenn.net/résumé.pdf)</li>
 <li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
 </ul></nav>
 </div>
 
-I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. Prior to that, I spent 2 years as a postdoc at [RIKEN AIP](https://aip.riken.jp), Tokyo and 3 months as a visiting scholar at New York University.
+> *We are organizing a [fairness workshop](https://fatedm.inria.fr/)* (**FATED 2020** @ [EDM](http://educationaldatamining.org/edm2020/))*, which will be fully virtual. [Call for papers](https://fatedm.inria.fr/) by May 1.*
+
+I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. Prior to that, I spent. I am now a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/).
 
 Feel free to contact: [vie@jill-jenn.net](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
@@ -51,15 +53,6 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 </div>
 
 
-### Free software projects
-
-[See my GitHub projects](https://github.com/jilljenn/), or [this page on GitHub](https://github.com/jilljenn/jilljenn.github.io/blob/master/index.md).
-
-- [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
-- An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki);
-- Adaptively **certifying the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)) [@Vie2017PIXposter].
-
-
 ### Other achievements
 
 ✅ I designed and implemented [free software](https://github.com/1024pix/pix) that is used to certify the digital skills of every French citizen  
@@ -67,8 +60,7 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 ✅ **Reviewer** for [*IEEE-Transactions on Learning Technologies*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) (IEEE-TLT), [*Journal of Educational Data Mining*](https://jedm.educationaldatamining.org) (JEDM)  
 ✅ We organized a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) running since 2014  
 ✅ We wrote and directed a **TV show about algorithms** that take control of our lives → [*La Faute à l'algo*](http://fautealgo.fr) (*Blame the Algorithm*)  
-✅ Our TV show was mentioned by the [French Senate](http://www.senat.fr/rap/r16-464-1/r16-464-118.html#toc334) as an interesting example of popularization of AI  
-✅ Lauréat du concours de l'**agrégation de mathématiques** en 2014, désagrégé en 2018
+✅ Our TV show was mentioned by the [French Senate](http://www.senat.fr/rap/r16-464-1/r16-464-118.html#toc334) as an interesting example of popularization of AI
 
 
 ### Publications

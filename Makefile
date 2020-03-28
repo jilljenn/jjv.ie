@@ -1,7 +1,10 @@
-all: index.html cv.pdf cv-fr.pdf visual.png
+all: index.html software.html cv.pdf cv-fr.pdf visual.png
 
 index.html: index.md publications.html
 	pandoc --filter pandoc-citeproc -s index.md publications.html -t html5 -o index.html
+
+software.html: software.md
+	pandoc -s $< -t html5 -o $@
 
 preprints.bib: biblio.bib
 	bib2bib -ob preprints.bib -c '$$type = "UNPUBLISHED"' biblio.bib
