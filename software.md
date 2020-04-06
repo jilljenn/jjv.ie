@@ -41,23 +41,30 @@ Pros:
 - Free software
 - No need to install anything if you have the right browser
 - It is supposedly easy to set up your own server (I never tried though)
+- Can actually record into DropBox
 
 Cons:
 
 - Need to install the Jitsi app on smartphones and tablets
+- They are not always E2E encrypted (for example, group conferencing), while Apple's FaceTime is
 
 ### Zoom
 
 Pros:
 
 - Works like a charm
+- Can have several moderators that can mute everyone
 
 Cons:
 
+- <span style="color: red">Forbidden by CNRS, Inria, New York City</span>
 - Two security flaws in 2019, one of which allowing an attacker to install a web server on your device.
 - Proprietary
 - A server costs 15 € a month? This can be in pros though. For something non-free, it is quite cheap.
 - Terms of service are terrible. "The Ministry of Defense of the U.K. banned its use." ([Wikipedia](https://en.wikipedia.org/wiki/Zoom_Video_Communications#Criticism))
+- Need to install the Jitsi app on smartphones and tablets
+- They are [not E2E encrypted](https://theintercept.com/2020/03/31/zoom-meeting-encryption/) while they said they were
+- ["*I'm okay with AES-128, but using ECB (electronic codebook) mode indicates that there is no one at the company who knows anything about cryptography.*"](https://www.schneier.com/blog/archives/2020/04/security_and_pr_1.html) - Bruce Schneier
 
 ### Hangouts
 
