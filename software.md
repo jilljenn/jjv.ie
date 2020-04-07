@@ -39,13 +39,15 @@ See also the [Comparison of secure VoIP software](https://en.wikipedia.org/wiki/
 Pros:
 
 - Free software
-- No need to install anything if you have the right browser
+- No need to install anything if you have the right browser (not Safari)
 - It is supposedly easy to set up your own server (I never tried though)
-- Can actually record into DropBox
+- Can actually record calls into DropBox
+- Can livestream to YouTube
 
 Cons:
 
 - Need to install the Jitsi app on smartphones and tablets
+- Need Chrome if you want to share your screen because Firefox does not work well
 - They are not always E2E encrypted (for example, group conferencing), while Apple's FaceTime is
 
 ### Zoom
@@ -65,6 +67,7 @@ Cons:
 - Need to install the Jitsi app on smartphones and tablets
 - They are [not E2E encrypted](https://theintercept.com/2020/03/31/zoom-meeting-encryption/) while they said they were
 - ["*I'm okay with AES-128, but using ECB (electronic codebook) mode indicates that there is no one at the company who knows anything about cryptography.*"](https://www.schneier.com/blog/archives/2020/04/security_and_pr_1.html) - Bruce Schneier
+- Some users' Zoom video content was routed "mistakenly" to China, and some encryption keys are issued via Chinese servers, even for non-Chinese calls.
 
 ### Hangouts
 
@@ -81,12 +84,12 @@ Cons:
 
 Pros:
 
-- Best for gaming
+- Best for gaming. Easy to broadcast the content of an application (game) with its own sound.
 
 Cons:
 
 - Proprietary
-- [Terms of service](https://tosdr.org/#discord) are terrible
+- [Terms of service](https://tosdr.org/#discord) may not be good
 
 ### Scopia
 
