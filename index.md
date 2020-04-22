@@ -20,7 +20,7 @@ link-citations: true
 </ul></nav>
 </div>
 
-> *We are organizing a [fairness workshop](https://fatedm.inria.fr/)* (**FATED 2020** @ [EDM](http://educationaldatamining.org/edm2020/))*, which will be fully virtual. [Call for papers](https://fatedm.inria.fr/) by May 1.*
+> *We are organizing a [fairness workshop](https://fatedm.inria.fr/)* (**FATED 2020** @ [EDM](http://educationaldatamining.org/edm2020/))*, which will be fully virtual. [Call for papers](https://fatedm.inria.fr/) by May 15.*
 
 I am a permanent research scientist at Inria in the [SequeL team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. I am now a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/).
 

@@ -38,31 +38,56 @@
 </ul>
 <p></nav></p>
 </div>
-<h3 id="free-software-projects-i-heavily-contributed-to">Free software projects I heavily contributed to</h3>
-<p><a href="https://github.com/jilljenn/">See my GitHub projects</a>, or <a href="https://github.com/jilljenn/jilljenn.github.io/blob/master/index.md">my personal page on GitHub</a>.</p>
+<h3 id="free-software-projects">Free software projects</h3>
 <ul>
 <li><a href="https://github.com/jilljenn/tryalgo/"><code>pip install tryalgo</code></a> → <a href="https://github.com/jilljenn/tryalgo">128 algorithms in Python</a> to prepare programming contests or coding interviews;</li>
 <li>An anime/manga recommender system <a href="https://mangaki.fr/about/en">Mangaki</a>, see <a href="http://research.mangaki.fr">blog</a> or <a href="https://github.com/mangaki/mangaki">GitHub repo</a>;</li>
-<li>Adaptively <strong>certifying the digital skills</strong> of French citizens, joint work with the <a href="https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)">French government</a>.</li>
+<li>Adaptively <strong>certifying the digital skills</strong> of French citizens, joint work with <a href="https://pix.fr">PIX</a>, at time at the <a href="https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)">French Ministry of Education</a>.</li>
+<li>This personal page is written in Markdown, <a href="https://github.com/jilljenn/jilljenn.github.io/blob/master/software.md">see this page on GitHub</a>;</li>
+<li><a href="https://github.com/jilljenn/">See my other GitHub projects</a>.</li>
 </ul>
 <h3 id="videoconferencing">Videoconferencing</h3>
-<p>Maybe you are wondering what tool you should use.</p>
+<p>You must be wondering what tool you should use.<br />
+[TL;DR] <a href="#jitsi">Jitsi</a> and <a href="#bigbluebutton">BigBlueButton</a>. Definitely not <a href="#zoom">Zoom</a>.</p>
 <p>WebRTC is a project initiated by Google, standardized by W3C, that tried to allow real-time communication (RTC) directly in the browser, through JavaScript APIs. It allowed the first cross-browser video call in February 2013.</p>
 <p>See also the <a href="https://en.wikipedia.org/wiki/Comparison_of_VoIP_software#VoIP_software_with_client-to-client_encryption">Comparison of secure VoIP software</a> on Wikipedia.</p>
 <h3 id="jitsi">Jitsi</h3>
 <p>Pros:</p>
 <ul>
+<li>Perfect for video calls</li>
 <li>Free software</li>
 <li>No need to install anything if you have the right browser (not Safari)</li>
-<li>It is supposedly easy to set up your own server (I never tried though)</li>
-<li>Can actually record calls into DropBox</li>
-<li>Can livestream to YouTube</li>
+<li>Can record calls (into DropBox)</li>
+<li>Can livestream (to YouTube, for example)</li>
+<li>It is supposedly easy to set up your own server (I didn’t try yet though)</li>
 </ul>
 <p>Cons:</p>
 <ul>
-<li>Need to install the Jitsi app on smartphones and tablets</li>
-<li>Need Chrome if you want to share your screen because Firefox does not work well</li>
-<li>They are not always E2E encrypted (for example, group conferencing), while Apple’s FaceTime is</li>
+<li>Need to install the Jitsi app on smartphones</li>
+<li>For tablets, the Jitsi app is better although it works almost fully on Chrome</li>
+<li>No moderation: we can mute everyone but they can put back their mic</li>
+<li>(Can we share our screen on Firefox now? Or only Chrome?)</li>
+<li>WebRTC is not suitable for end-to-end encryption for more than 2 people (group conferencing), while Apple’s FaceTime is</li>
+</ul>
+<h3 id="bigbluebutton">BigBlueButton</h3>
+<p>Pros:</p>
+<ul>
+<li>Perfect for lessons, conferences, reading groups</li>
+<li>Works like a charm</li>
+<li>Free software</li>
+<li>People can join a room with mic or listen-only</li>
+<li>There is a chat <em>and</em> collaborative note-taking</li>
+<li>Many moderation rights, many features, simple to use</li>
+<li>A pointer is available for highlighting the presenter’s slides</li>
+<li>The presenter or the audience can annotate the slides! And it can be part of the recording</li>
+<li>Recordings are amazing: we can click on a slide and the recording will jump to that slide</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Some disconnections can happen</li>
+<li>Have your sysadmin install an instance (it’s nontrivial, I was told)</li>
+<li>Some people under Firefox couldn’t share their screen (it may be okay now)</li>
+<li>(I don’t know yet if it is secure in any way)</li>
 </ul>
 <h3 id="zoom">Zoom</h3>
 <p>Pros:</p>
@@ -72,7 +97,7 @@
 </ul>
 <p>Cons:</p>
 <ul>
-<li><span style="color: red">Forbidden by CNRS, Inria, New York City</span></li>
+<li><span style="color: red">Forbidden by CNRS, Inria, New York City, Taiwan</span></li>
 <li>Two security flaws in 2019, one of which allowing an attacker to install a web server on your device.</li>
 <li>Proprietary</li>
 <li>A server costs 15 € a month? This can be in pros though. For something non-free, it is quite cheap.</li>
@@ -100,6 +125,10 @@
 <p>Cons:</p>
 <ul>
 <li>Proprietary</li>
+<li>Many settings, hard to find where is what</li>
+<li>Video works in group calls (no moderation)</li>
+<li>(Maybe) if someone wants to share their screen, they should have the desktop app</li>
+<li>On smartphone, it was not clear that my mic was turned on</li>
 <li><a href="https://tosdr.org/#discord">Terms of service</a> may not be good</li>
 </ul>
 <h3 id="scopia">Scopia</h3>

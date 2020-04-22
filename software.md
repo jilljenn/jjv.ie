@@ -18,17 +18,18 @@ css:
 </ul></nav>
 </div>
 
-### Free software projects I heavily contributed to
-
-[See my GitHub projects](https://github.com/jilljenn/), or [my personal page on GitHub](https://github.com/jilljenn/jilljenn.github.io/blob/master/index.md).
+### Free software projects
 
 - [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
 - An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki);
-- Adaptively **certifying the digital skills** of French citizens, joint work with the [French government](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
+- Adaptively **certifying the digital skills** of French citizens, joint work with [PIX](https://pix.fr), at time at the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
+- This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jilljenn.github.io/blob/master/software.md);
+- [See my other GitHub projects](https://github.com/jilljenn/).
 
 ### Videoconferencing
 
-Maybe you are wondering what tool you should use.
+You must be wondering what tool you should use.  
+[TL;DR] [Jitsi](#jitsi) and [BigBlueButton](#bigbluebutton). Definitely not [Zoom](#zoom).
 
 WebRTC is a project initiated by Google, standardized by W3C, that tried to allow real-time communication (RTC) directly in the browser, through JavaScript APIs. It allowed the first cross-browser video call in February 2013.
 
@@ -38,17 +39,41 @@ See also the [Comparison of secure VoIP software](https://en.wikipedia.org/wiki/
 
 Pros:
 
+- Perfect for video calls
 - Free software
 - No need to install anything if you have the right browser (not Safari)
-- It is supposedly easy to set up your own server (I never tried though)
-- Can actually record calls into DropBox
-- Can livestream to YouTube
+- Can record calls (into DropBox)
+- Can livestream (to YouTube, for example)
+- It is supposedly easy to set up your own server (I didn't try yet though)
 
 Cons:
 
-- Need to install the Jitsi app on smartphones and tablets
-- Need Chrome if you want to share your screen because Firefox does not work well
-- They are not always E2E encrypted (for example, group conferencing), while Apple's FaceTime is
+- Need to install the Jitsi app on smartphones
+- For tablets, the Jitsi app is better although it works almost fully on Chrome
+- No moderation: we can mute everyone but they can put back their mic
+- (Can we share our screen on Firefox now? Or only Chrome?)
+- WebRTC is not suitable for end-to-end encryption for more than 2 people (group conferencing), while Apple's FaceTime is
+
+### BigBlueButton
+
+Pros:
+
+- Perfect for lessons, conferences, reading groups
+- Works like a charm
+- Free software
+- People can join a room with mic or listen-only
+- There is a chat *and* collaborative note-taking
+- Many moderation rights, many features, simple to use
+- A pointer is available for highlighting the presenter's slides
+- The presenter or the audience can annotate the slides! And it can be part of the recording
+- Recordings are amazing: we can click on a slide and the recording will jump to that slide
+
+Cons:
+
+- Some disconnections can happen
+- Have your sysadmin install an instance (it's nontrivial, I was told)
+- Some people under Firefox couldn't share their screen (it may be okay now)
+- (I don't know yet if it is secure in any way)
 
 ### Zoom
 
@@ -59,7 +84,7 @@ Pros:
 
 Cons:
 
-- <span style="color: red">Forbidden by CNRS, Inria, New York City</span>
+- <span style="color: red">Forbidden by CNRS, Inria, New York City, Taiwan</span>
 - Two security flaws in 2019, one of which allowing an attacker to install a web server on your device.
 - Proprietary
 - A server costs 15 € a month? This can be in pros though. For something non-free, it is quite cheap.
@@ -89,6 +114,10 @@ Pros:
 Cons:
 
 - Proprietary
+- Many settings, hard to find where is what
+- Video works in group calls (no moderation)
+- (Maybe) if someone wants to share their screen, they should have the desktop app
+- On smartphone, it was not clear that my mic was turned on
 - [Terms of service](https://tosdr.org/#discord) may not be good
 
 ### Scopia
