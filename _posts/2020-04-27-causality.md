@@ -23,8 +23,8 @@ Some people consider it's unfair (positive discrimination).
 
 These two definitions are mutually exclusive:
 
-- $A \perp \hat Y\|Y$: sufficiency, equalized odds, conditional procedure accuracy, i.e. balancing true positive rates and true negative rates
-- $A \perp Y\|\hat Y$: separation, conditional use accuracy equality
+- $A \perp \hat Y\|Y$: separation, equalized odds, conditional procedure accuracy, i.e. balancing true positive rates and true negative rates
+- $A \perp Y\|\hat Y$: sufficiency, conditional use accuracy equality
 
 As you can see, it has something to do with the shape of the underlying causal model (graphical model). To put it (too) simply: how are oriented the arrows in the triangle made by the variables $A$, $Y$, $\hat{Y}$?
 
