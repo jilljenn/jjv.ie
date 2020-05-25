@@ -9,7 +9,7 @@ link-citations: true
 ---
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
-<div>
+<div class="keep-this">
 # [Jill-Jênn Vie](/)
 ## <span style="color: #999; margin-top: -1em; display: block">Research Scientist at [Inria](https://inria.fr)</span>
 </div>
@@ -66,4 +66,10 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 ### Selected Publications
 
 [See all publications](/publications) / [My Scholar page](https://scholar.google.com/citations?hl=en&user=7oCGHIMAAAAJ)
+
+::: {#refs}
+
+:::
+
 </div>
+
