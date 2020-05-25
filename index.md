@@ -66,3 +66,4 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 ### Selected Publications
 
 [See all publications](/publications) / [My Scholar page](https://scholar.google.com/citations?hl=en&user=7oCGHIMAAAAJ)
+</div>
