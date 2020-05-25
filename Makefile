@@ -1,9 +1,9 @@
-all: index.html software.html cv.pdf cv-fr.pdf visual.png
+all: index.html _layouts/default.html publications.md cv.md cv.pdf cv-fr.pdf visual.png
 
-index.html: index.md publications.html
-	pandoc --filter pandoc-citeproc -s index.md publications.html -t html5 -o index.html
+index.html: index.md
+	pandoc --filter pandoc-citeproc -s index.md -t html5 -o index.html
 
-software.html: software.md
+_layouts/default.html: _layouts/_default.md
 	pandoc -s $< -t html5 -o $@
 
 preprints.bib: biblio.bib
@@ -30,7 +30,7 @@ magazines.bib: biblio.bib
 %.html: %.md %.bib
 	pandoc --filter pandoc-citeproc $< -t html5 -o $@
 
-publications.html: preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
+publications.md: preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
 	sed -i.tmp s/"refs"/"refs1"/ preprints.html  # Si Mac OS X
 	sed -i.tmp s/"refs"/"refs2"/ articles.html
 	sed -i.tmp s/"refs"/"refs3"/ books.html
@@ -39,10 +39,13 @@ publications.html: preprints.html articles.html books.html chapters.html confere
 	sed -i.tmp s/"refs"/"refs6"/ others.html
 	sed -i.tmp s/"refs"/"refs7"/ magazines.html
 	rm *.tmp
-	pandoc $^ -o publications.html
+	pandoc $^ -t html5 -o publications.md
+
+cv.md: cv-en.md
+	pandoc $< -t html5 -o $@
 
 cv.pdf: cv.tex
-	pandoc cv.md -o content.tex
+	pandoc cv-en.md -o content.tex
 	lualatex cv
 	biber cv
 	lualatex cv

@@ -1,0 +1,9 @@
+---
+lang: en
+pagetitle: {{ page.title }} - {{ site.title }}
+css:
+	- /static/css/normalize.css
+	- /static/css/skeleton.css
+---
+Owi
+{{ content }}

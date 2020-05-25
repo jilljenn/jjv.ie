@@ -1,22 +1,6 @@
 ---
-pagetitle: Jill-Jênn Vie - Software
-css:
-    - /static/css/normalize.css
-    - /static/css/skeleton.css
+title: Software
 ---
-<div class="container">
-<div style="display: flex; flex-flow: row wrap;">
-<div>
-# Jill-Jênn Vie
-## <span style="color: #999; margin-top: -1em; display: block">Research Scientist at [Inria](https://inria.fr)</span>
-</div>
-<nav><ul>
-<li>[Publications](index#publications)</li>
-<li>[Software](software)</li>
-<li>[CV](https://jill-jenn.net/résumé.pdf)</li>
-<li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
-</ul></nav>
-</div>
 
 ### Free software projects
 
@@ -54,12 +38,22 @@ Cons:
 - (Can we share our screen on Firefox now? Or only Chrome?)
 - WebRTC is not suitable for end-to-end encryption for more than 2 people (group conferencing), while Apple's FaceTime is
 
+### Matrix / Riot
+
+Pros:
+
+- Free software
+- End-to-end encryption by default! As of May 6, 2020
+
+Cons:
+
+- Have to create an account to try Riot.im
+
 ### BigBlueButton
 
 Pros:
 
 - Perfect for lessons, conferences, reading groups
-- Works like a charm
 - Free software
 - People can join a room with mic or listen-only
 - There is a chat *and* collaborative note-taking
@@ -79,22 +73,23 @@ Cons:
 
 Pros:
 
-- Works like a charm
+- Works well
+- Can scale
 - Can have several moderators that can mute everyone
 
 Cons:
 
 - <span style="color: red">Forbidden by CNRS, Inria, New York City, Taiwan</span>
+- It is possible to use the web version but Zoom won't let you do this easily
 - Two security flaws in 2019, one of which allowing an attacker to install a web server on your device.
 - Proprietary
 - A server costs 15 € a month? This can be in pros though. For something non-free, it is quite cheap.
 - Terms of service are terrible. "The Ministry of Defense of the U.K. banned its use." ([Wikipedia](https://en.wikipedia.org/wiki/Zoom_Video_Communications#Criticism))
-- Need to install the Jitsi app on smartphones and tablets
 - They are [not E2E encrypted](https://theintercept.com/2020/03/31/zoom-meeting-encryption/) while they said they were
 - ["*I'm okay with AES-128, but using ECB (electronic codebook) mode indicates that there is no one at the company who knows anything about cryptography.*"](https://www.schneier.com/blog/archives/2020/04/security_and_pr_1.html) - Bruce Schneier
 - Some users' Zoom video content was routed "mistakenly" to China, and some encryption keys are issued via Chinese servers, even for non-Chinese calls.
 
-### Hangouts
+### Hangouts / Meet
 
 Pros:
 
@@ -102,7 +97,7 @@ Pros:
 
 Cons:
 
-- Google again?
+- Proprietary (Google again?)
 - Screen sharing can take time to load (in my case)
 
 ### Discord
@@ -147,4 +142,3 @@ Cons:
 
 - When I tried to use it on my phone, I tried to set the video and the application quit unexpectedly
 - When I tried to use it on my tablet, it forced me to set the video and my modem rebooted unexpectedly. It happened twice.
-</div>

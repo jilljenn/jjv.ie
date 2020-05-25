@@ -1,4 +1,5 @@
 ---
+lang: en
 pagetitle: Jill-Jênn Vie
 css:
     - /static/css/normalize.css
@@ -9,16 +10,15 @@ link-citations: true
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
 <div>
-# Jill-Jênn Vie
+# [Jill-Jênn Vie](/)
 ## <span style="color: #999; margin-top: -1em; display: block">Research Scientist at [Inria](https://inria.fr)</span>
 </div>
 <nav><ul>
-<li>[Publications](#publications)</li>
-<li>[Software](software)</li>
-<li>[CV](https://jill-jenn.net/résumé.pdf)</li>
-<li>[Piano](https://www.youtube.com/user/Xnihpsel)</li>
-</ul></nav>
-</div>
+<li>[Publications](/publications)</li>
+<li>[Software](/software)</li>
+<li>[CV](/cv)</li>
+<li>[Music](/music)</li>
+</ul></nav></div>
 
 > *Register for our online workshops in July: [fairness](https://fatedm.inria.fr/) and [optimizing human learning](https://humanlearn.io) @ [EDM](http://educationaldatamining.org/edm2020/) & [AIED](https://aied2020.nees.com.br/#/) 2020. <span style="color:red">Send papers</span> by mid-June!*
 
@@ -45,7 +45,7 @@ Adaptive testing for optimizing human learning
 Multidimensional item response theory, cognitive diagnosis [[slides]](http://jill-jenn.net/_static/slides/genma-bsi.pdf), multistage testing, determinantal point processes [[slides]](http://jill-jenn.net/_static/slides/iacat2017.pdf) [[code]](https://github.com/jilljenn/qna).
 
 <div style="display: flex; flex-flow: row wrap;">
-![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [code & tutorial](https://github.com/jilljenn/ktm).](/static/img/ktm-lr.png)
+![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/) in Hawaii. See also our [code & tutorial](https://github.com/jilljenn/ktm) [@KTM2019].](/static/img/ktm-lr.png)
 
 ![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[arXiv]](https://arxiv.org/abs/1709.01584) [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp) in Kyoto.](/static/img/balse.png)
 
@@ -53,7 +53,7 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 </div>
 
 
-### Other achievements
+### Other Achievements
 
 ✅ I designed and implemented [free software](https://github.com/1024pix/pix) that is used to certify the digital skills of every French citizen  
 ✅ **Organizing committee** of [PyParis](http://pyparis.org) 2017, 2018, [Educational Data Mining 2019](http://educationaldatamining.org/edm2019/), [Optimizing Human Learning 2018, 2019](https://humanlearn.io).  
@@ -63,6 +63,6 @@ Multidimensional item response theory, cognitive diagnosis [[slides]](http://jil
 ✅ Our TV show was mentioned by the [French Senate](http://www.senat.fr/rap/r16-464-1/r16-464-118.html#toc334) as an interesting example of popularization of AI
 
 
-### Publications
+### Selected Publications
 
-[See my Scholar page](https://scholar.google.com/citations?hl=en&user=7oCGHIMAAAAJ)
+[See all publications](/publications) / [My Scholar page](https://scholar.google.com/citations?hl=en&user=7oCGHIMAAAAJ)
