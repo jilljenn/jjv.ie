@@ -7,7 +7,7 @@ css:
 ---
 <div class="container">
 <div style="display: flex; flex-flow: row wrap;">
-<div>
+<div class="keep-this">
 # [Jill-Jênn Vie](/)
 ## <span style="color: #999; margin-top: -1em; display: block">Research Scientist at [Inria](https://inria.fr)</span>
 </div>
@@ -16,6 +16,4 @@ css:
 <li>[Software](/software)</li>
 <li>[CV](/cv)</li>
 <li>[Music](/music)</li>
-</ul></nav></div>
-{{ content }}
-</div>
+</ul></nav></div>{{ content }}</div>

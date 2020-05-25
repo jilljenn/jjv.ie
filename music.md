@@ -27,6 +27,6 @@ Together with [Sedeto](https://sedeto.carrd.co/) and Lily, we arranged pieces fo
 We were also featured in the latest Yoko Kanno project: **Starducks**.  
 Read more about this hilarious project [here](https://starducks.me/howtojoin-en/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f7t36bKiymo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 100%" width="560" height="315" src="https://www.youtube.com/embed/f7t36bKiymo" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
