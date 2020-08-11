@@ -42,15 +42,15 @@ publications.md: preprints.html articles.html books.html chapters.html conferenc
 	pandoc $^ -t html5 -o publications.md
 
 cv.md: cv-en.md
-	pandoc $< -t html5 -o $@
+	pandoc --strip-comments --shift-heading-level-by=2 $< -t html5 -o $@
 
-cv.pdf: cv.tex
+cv.pdf: cv-en.md biblio.bib
 	pandoc cv-en.md -o content.tex
 	lualatex cv
 	biber cv
 	lualatex cv
 
-cv-fr.pdf: cv-fr.tex
+cv-fr.pdf: cv-fr.md biblio.bib
 	pandoc cv-fr.md -o content-fr.tex
 	lualatex cv-fr
 	biber cv-fr
@@ -67,7 +67,7 @@ makefile2graph:
 	cd makefile2graph && make
 
 visual.png: Makefile makefile2graph
-	make -Bnd | ./makefile2graph/make2graph | sed s/green/forestgreen/g > visual.dot
+	export LC_ALL=C && make -Bnd | ./makefile2graph/make2graph | sed s/green/forestgreen/g > visual.dot
 	dot -Tpng visual.dot > visual.png
 
 clean:
@@ -84,3 +84,4 @@ publish:
 	mv cv.pdf résumé.pdf
 	mv cv-fr.pdf CV.pdf
 	scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/
+	bundle exec jekyll build && rsync -avz _site/* mangaki.fr:/srv/http/jjv/

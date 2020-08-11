@@ -4,7 +4,7 @@ link-citations: true
 nocite: |
     @*
 ---
-#### Books
+### Books
 
 [![TryAlgo](/static/img/tryalgo.png){align=left}](http://tryalgo.org/book/)
 

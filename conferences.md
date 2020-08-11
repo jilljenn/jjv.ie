@@ -8,7 +8,7 @@ link-citations: true
 nocite: |
     @*
 ---
-#### Conference Proceedings
+### Conference Proceedings
 
 We unified **educational data mining** and psychometric theories using factorization machines:
 

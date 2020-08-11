@@ -13,7 +13,7 @@ css:
 </div>
 <nav><ul>
 <li>[Publications](/publications)</li>
-<li>[Software](/software)</li>
+<li>[Projects](/projects)</li>
 <li>[CV](/cv)</li>
 <li>[Music](/music)</li>
 </ul></nav></div>{{ content }}</div>

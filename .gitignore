@@ -6,6 +6,9 @@
 *.log
 *.out
 *.run.xml
+vendor
+.bundle
+_site
 
 publications.html
 preprints.bib

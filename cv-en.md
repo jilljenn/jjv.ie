@@ -1,6 +1,6 @@
 \noindent
 Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
-+33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jilljenn.github.io}
++33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jjv.ie}
 
 \def\spaceabove{\vspace{-5mm}}
 \def\spacebelow{\vspace{-1mm}}
@@ -12,7 +12,7 @@ Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq,
 \vspace{-2mm}
 \begin{itemize}
 \tightlist
-\item Educational Data Mining, Crowdsourcing
+\item Educational Data Mining
 \item Optimizing Human Learning
 \item Recommender Systems, Cold-start
 \end{itemize}
@@ -29,55 +29,52 @@ Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq,
 
 # Experience {-}
 
-From Oct 2019
+From 2019
 :   
-**Research Scientist** at Inria Lille in the SequeL team.  
-Learning representations that evolve over time.
+**Research Scientist** at Inria Lille, SequeL team.
 
-Apr 2017 -- Oct 2019
+2019
 :     
-**Postdoctoral Researcher** at RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan, under the supervision of Prof. Hisashi Kashima.
+**Visiting Scholar** (3 months) at LEARN lab, New York University.
 
-Apr 2019 -- Jul 2019
+2017--2019
 :     
-**Visiting Scholar** at LEARN lab, New York University. Working with Prof. Yoav Bergner.
+**Postdoctoral Researcher** (2.5 years) at RIKEN AIP, Tokyo, Japan, with Prof. Hisashi Kashima.
 
-From Oct 2016
-:   Consulting at the French Ministry of Education.  
-PIX Project: certification of digital competencies. [https://pix.fr](https://pix.fr)
+From 2016
+:   Consulting at the French Ministry of Education / [Pix](https://pix.fr). Certification of digital skills.
+
+2015--2016
+:   **Director** & **Writer** of ***La Faute à l'algo*** (TV sci-fi show on Nolife channel) with Michel Blockelet.
 
 
 # Education {-}
 
-Feb 2014 -- Dec 2016
-:    **PhD in Computer Science**, Université Paris-Saclay, France  
-**Adaptive Testing using Cognitive Diagnosis for Large-Scale Learning**  
-under the supervision of Yolaine Bourda, Fabrice Popineau, Éric Bruillard at CentraleSupélec & ENS Paris-Saclay.  
-**PhD Prize:** K2, section "Machine Learning & Data Science"
+2014--2016
+:    **PhD in Computer Science**, Université Paris-Saclay, France. **K2 Prize** "Machine Learning & Data Science"
 
-Jul 2014
+2014
 :    **Agrégation de mathématiques**, French diploma for higher education teaching.
 
-Sep 2013 -- May 2014
+2013--2014
 :    **MSc of Teaching in Mathematics ** (Training for Higher Education Teaching).
 
-Sep 2012 -- Sep 2013
-:    Started a MSc of Mathematics (Maths, Vision, Machine Learning). Validated 45 ECTS.
-
-Sep 2009 -- Sep 2012
+2009--2012
 :    **MSc of Computer Science** (Parisian Master of Research in Computer Science).
 
-Sep 2010
-:    **Normalien** at ENS Cachan, former ENS Paris-Saclay (admitted 2\textsuperscript{nd}).
+2010
+:    **Normalien** at ENS Paris-Saclay (admitted 2\textsuperscript{nd}).
 
-Sep 2008 -- Sep 2009
+2008--2009
 :    **BSc of Computer Science** at ENS de Lyon.
 
+<!-- Sep 2012 -- Sep 2013 -->
+<!-- :    Started a MSc of Mathematics (Maths, Vision, Machine Learning). Validated 45 ECTS. -->
 
-# Research Internships {-}
+
+<!-- # Research Internships {-}
 
 2016
-
 :   **PIX: Certification of Digital Competencies** with Benjamin Marteau, French Ministry of Education, Paris.
 
 2013
@@ -93,102 +90,110 @@ Sep 2008 -- Sep 2009
 :   **Coupling Time in Markovian Queueing Networks**, with Bruno Gaujal, Inria Grenoble.
 
 2009
-:   **Around the Penrose Tiling**, short internship with Thomas Fernique, LIF, Marseille.
+:   **Around the Penrose Tiling**, short internship with Thomas Fernique, LIF, Marseille. //-->
+
 
 # Teaching Experience {-}
 
+2020
+:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.
+
 2016
-
-:   **Writing CS mock exam materials** for preparing the CAPES: French Math teaching competitive exam.
-
-2016
-
-:   **Teaching Assistant** of Algorithms in CentraleSupélec, campus of Châtenay-Malabry.
-
-2015--2016
-:   **Coach** of the ENS Paris-Saclay team at the ACM International Collegiate Programming Contest.
+:   **Algorithms & Programming** in Python, BSc (L3), CentraleSupélec, Châtenay-Malabry.
 
 2015
-:   **Supervisor** of two interns at Mangaki (Alexis Rivière & Dylan Tanguy).
-
-2014
-:   **Co-Founder** and **Trainer** at **Girls Can Code!**, a programming summer school for K-12 girls.
+:	**Introduction to Statistics**, MSc (M1), EPF, Sceaux.
 
 2012--2013
-:   **Teaching Practical Lessons** of Caml Light, Lycée Louis-le-Grand, Paris.
+:   **Algorithms & Programming** in Caml Light, Lycée Louis-le-Grand (MP*), Paris.
 
 2009--2011
-:   **Oral examiner** in Mathematics, Lycée Sainte-Marie & du Parc, Lyon, Lycée Condorcet, Paris.
+:   **Oral examiner in Mathematics**, Lycée Sainte-Marie & du Parc (MP*), Lyon, Lycée Condorcet (ECS), Paris.
 
 
-# [Publications](https://jilljenn.github.io/publications/) {-}
+# [Publications](https://jjv.ie/publications/) {-}
 
-## [Journal Articles](https://jilljenn.github.io/publications#journal-articles) {-}
+## [Journal Articles](https://jjv.ie/publications#journal-articles) {-}
 
 \insertbib{articles}
 
-## [Books](https://jilljenn.github.io/publications#books) {-}
+## [Books](https://jjv.ie/publications#books) {-}
 
 \insertbib{books}
 
-## [Book Chapters](https://jilljenn.github.io/publications#book-chapters) {-}
+## [Book Chapters](https://jjv.ie/publications#book-chapters) {-}
 
 \insertbib{chapters}
 
-## [Conference Proceedings](https://jilljenn.github.io/publications#conference-proceedings) {-}
+## [Conference Proceedings](https://jjv.ie/publications#conference-proceedings) {-}
 
 \insertbib{conferences}
 
-## [Other publications](https://jilljenn.github.io/publications#other-publications) {-}
+## [Other publications](https://jjv.ie/publications#other-publications) {-}
 
 \insertbib{others}
 
-## [Preprints](https://jilljenn.github.io/publications#preprints) {-}
+## [Preprints](https://jjv.ie/publications#preprints) {-}
 
 \insertbib{preprints}
 
-## [Dissemination of scientific knowledge](https://jilljenn.github.io/publications#popularization-of-science) {-}
+## [Dissemination of scientific knowledge](https://jjv.ie/publications#popularization-of-science) {-}
 
 \insertbib{magazines}
 
 
 # Professional Affiliations & Activities {-}
 
-Organizer
+Board of Directors
+:	Société informatique de France (French Computer Science Society), since 2020
 
-:   *Optimizing Human Learning 2018 & 2019: Workshop eliciting Adaptive Sequences for Learning (WeASeL), colocated with Intelligent Tutoring Systems 2018 & 2019.*
+General Chair
+:	Educational Data Mining 2021
+
+Workshop Organizer
+:   Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020), Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning (WASL 2018--2020)
 
 Program Committee
+:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC)
 
-:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters).
+Associate Editor
+:	*Journal of Educational Data Mining* (JEDM)
 
 Reviewer
+:   AAAI 2020, *IEEE Transactions on Learning Technologies*, JEDM
 
-:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*.
+Supervisor
+:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir (2020)
 
-# Organizations & Awards {-}
+Coach
+:   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016)
+
+Organizations
+:	Etalab (Prime Minister's Office for Open Data, 2017), BetaGouv (State Startups, 2016--2017)
+
+
+# Awards {-}
+
+2020
+:	**NLnet's NGI Zero funding** for Mangaki.
 
 2019
-
 :   **Best Full Paper Award** of the 12\textsuperscript{th} Educational Data Mining conference, together with Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
 
-April 2017
+2016
+:	**Japanese Cultural Institute Prize 2016 winner** & **Student Demo Cup Prize** for Mangaki (president, 2016--2019), a non-profit organization that builds an open-source anime/manga recommender system in 5 languages.
 
-:   With the **Etalab Task Force**, the Prime Minister's Office for open data: contributing to a report of recommendations and requirements of the algorithm that affects students to higher educational institutions.
+2016
+:	**K2 Thesis Prize** in the category "Machine Learning & Data Science".
 
-2016--present
-:   **President of Mangaki**, a non-profit organization that promotes Japanese culture through an open-source recommender system in 5 languages. **Japanese Cultural Institute Prize 2016 winner.**
+2014
+:	**Google RISE Award** (20,000 USD) for Prologin (president, 2011--2013), a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). With this money, we founded **Girls Can Code!**, a programming summer school for K-12 girls.
 
-2015--2016
-:   **Director** and **Writer** of ***La Faute à l'algo*** with Michel Blockelet, French TV sci-fi show about algorithms that take control of our lives. Broadcast on the channel Nolife.
-
-2011--2013
-:   **President of Prologin**, a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). **Google RISE Award 2014.**
-
-- \nth{5} prize over 54 teams at Google Hash Code, operations research contest, 2014
-- \nth{2} prize at French conservatory of music, piano contest, 2006
-- **Hobbies:** Piano concerts, Asian movies, animated features, French spelling, 筒井康隆
 
 # Languages {-}
 
-\textbf{French} native \quad \textbf{English} fluent \quad \textbf{Japanese} intermediate \quad \textbf{Spanish} intermediate \quad \textbf{Mandarin} beginner
+**French** native \quad
+**English** fluent \quad
+**Japanese** intermediate \quad
+**Spanish** intermediate \quad
+**Mandarin** beginner

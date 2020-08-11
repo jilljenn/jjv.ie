@@ -4,11 +4,8 @@ title: Software
 
 ### Free software projects
 
-- [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
-- An anime/manga recommender system [Mangaki](https://mangaki.fr/about/en), see [blog](http://research.mangaki.fr) or [GitHub repo](https://github.com/mangaki/mangaki);
-- Adaptively **certifying the digital skills** of French citizens, joint work with [PIX](https://pix.fr), at time at the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
-- This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jilljenn.github.io/blob/master/software.md);
-- [See my other GitHub projects](https://github.com/jilljenn/).
+See [projects](/projects).
+
 
 ### Videoconferencing
 

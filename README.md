@@ -1,4 +1,4 @@
-# jilljenn.github.io
+# jjv.ie
 
 Collection of scripts to generate a researcher's homepage and CV.
 
