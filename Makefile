@@ -45,7 +45,7 @@ cv.md: cv-en.md
 	pandoc --strip-comments --shift-heading-level-by=2 $< -t html5 -o $@
 
 cv.pdf: cv-en.md biblio.bib
-	pandoc cv-en.md -o content.tex
+	pandoc --filter latexdivs.py cv-en.md -o content.tex
 	lualatex cv
 	biber cv
 	lualatex cv
@@ -61,6 +61,12 @@ cv-2p.pdf: cv-2p.tex
 	lualatex cv-2p
 	biber cv-2p
 	lualatex cv-2p
+
+cv-1p.pdf: cv-1p.tex cv-1p.md
+	pandoc cv-1p.md -o content-1p.tex
+	lualatex cv-1p
+	biber cv-1p
+	lualatex cv-1p
 
 makefile2graph:
 	git clone https://github.com/lindenb/makefile2graph.git

@@ -12,7 +12,9 @@ Since 2006, I've been recording many pieces on [my YouTube channel](https://www.
 - [Concert Étude Op. 40 No. 1 "Prelude"](https://www.youtube.com/watch?v=VykHhf7D6vc) by Nikolai Kapustin
 - [Final Fantasy VII - Fighting](https://www.youtube.com/watch?v=kraAZIpYAEs) by Nobuo Uematsu
 
-You may be interested in my [anime sheet music](https://jill-jenn.net/anime-sheet-music/).
+<iframe style="max-width: 100%" width="560" height="315" src="https://www.youtube.com/embed/dlg1n_jMtM0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You may also be interested in my [anime sheet music](https://jill-jenn.net/anime-sheet-music/).
 
 ### Compositions
 
@@ -22,11 +24,11 @@ Later, I used a similar Markov chain ([markov.py](https://github.com/jilljenn/ma
 
 ### Trio ELM
 
-Together with [Sedeto](https://sedeto.carrd.co/) and Lily, we arranged pieces for 2 voices + piano: [Trio ELM](https://trioelm.com/).
+Together with [Sedeto](https://sedeto.carrd.co/) and Lily, we arranged anime pieces for 2 voices + piano: [Trio ELM](https://trioelm.com/).
+We performed at Japan Expo 2015 and many other events such as Epitanime.
 
-We were also featured in the latest Yoko Kanno project: **Starducks**.  
+We were also featured in the latest Yoko Kanno project: **Starducks** ([video](https://youtu.be/f7t36bKiymo)).  
 Read more about this hilarious project [here](https://starducks.me/howtojoin-en/).
 
-<iframe style="max-width: 100%" width="560" height="315" src="https://www.youtube.com/embed/f7t36bKiymo" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

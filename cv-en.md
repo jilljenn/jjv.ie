@@ -1,45 +1,37 @@
+---
+header-includes:
+  - \usepackage{multicol}
+---
 \noindent
-Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
+Inria Lille-Nord Europe, Scool team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jjv.ie}
 
-\def\spaceabove{\vspace{-5mm}}
-\def\spacebelow{\vspace{-1mm}}
+::: {latex=true class=multicols}
+# Interests {-}
+- Educational Data Mining
+- Optimizing Human Learning
+- Recommender systems, Cold-start
 
-\vspace{2mm}
+# Skills {-}
+- Programming: Python, OCaml, R, C++
+- Computing: numpy, scipy, sklearn, tf, PyTorch
+- Web: Django, HTML5, JS, Vue.js, PHP, PostgreSQL
+:::
 
-\begin{multicols}{2}
-\section*{Interests}
-\vspace{-2mm}
-\begin{itemize}
-\tightlist
-\item Educational Data Mining
-\item Optimizing Human Learning
-\item Recommender Systems, Cold-start
-\end{itemize}
-\columnbreak
-\section*{Skills}
-\vspace{-2mm}
-\begin{itemize}
-\tightlist
-\item Programming: Python, OCaml, R, C++
-\item Computing: numpy, scipy, sklearn, tf, PyTorch
-\item Web: Django, HTML5, JS, Vue.js, PHP, PostgreSQL
-\end{itemize}
-\end{multicols}
 
 # Experience {-}
 
 From 2019
 :   
-**Research Scientist** at Inria Lille, SequeL team.
+**Research Scientist** at Inria, France.
 
 2019
 :     
-**Visiting Scholar** (3 months) at LEARN lab, New York University.
+**Visiting Scholar** (3 months) at New York University.
 
 2017--2019
 :     
-**Postdoctoral Researcher** (2.5 years) at RIKEN AIP, Tokyo, Japan, with Prof. Hisashi Kashima.
+**Postdoctoral Researcher** (2 years) at RIKEN AIP, Tokyo.
 
 From 2016
 :   Consulting at the French Ministry of Education / [Pix](https://pix.fr). Certification of digital skills.
@@ -95,8 +87,12 @@ From 2016
 
 # Teaching Experience {-}
 
+Upcoming 2021
+:	**Algorithms & Programming** in Python, MSc (M1), Centrale Lille.
+
 2020
-:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.
+:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  
+	**Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
 
 2016
 :   **Algorithms & Programming** in Python, BSc (L3), CentraleSupélec, Châtenay-Malabry.
@@ -160,10 +156,10 @@ Associate Editor
 :	*Journal of Educational Data Mining* (JEDM)
 
 Reviewer
-:   AAAI 2020, *IEEE Transactions on Learning Technologies*, JEDM
+:   AAAI 2020--2021, AISTATS 2021, *IEEE Transactions on Learning Technologies*, JEDM
 
 Supervisor
-:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir (2020)
+:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020)
 
 Coach
 :   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016)
@@ -172,10 +168,11 @@ Organizations
 :	Etalab (Prime Minister's Office for Open Data, 2017), BetaGouv (State Startups, 2016--2017)
 
 
-# Awards {-}
+# Awards & Grants {-}
 
 2020
-:	**NLnet's NGI Zero funding** for Mangaki.
+:	**NLnet's NGI Zero funding** for Mangaki.  
+	**EIT Health** Covidom Community, together with [Assistance Publique Hôpitaux de Paris (AP-HP)](https://www.aphp.fr/).
 
 2019
 :   **Best Full Paper Award** of the 12\textsuperscript{th} Educational Data Mining conference, together with Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
@@ -187,7 +184,7 @@ Organizations
 :	**K2 Thesis Prize** in the category "Machine Learning & Data Science".
 
 2014
-:	**Google RISE Award** (20,000 USD) for Prologin (president, 2011--2013), a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). With this money, we founded **Girls Can Code!**, a programming summer school for K-12 girls.
+:	**Google RISE Award** (20,000 USD) for Prologin (president, 2011--2013), a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). With this money, we founded **Girls Can Code!** a programming summer school for K-12 girls.
 
 
 # Languages {-}
