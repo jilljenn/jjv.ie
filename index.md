@@ -23,8 +23,8 @@ link-citations: true
 I am a tenured research scientist at Inria, [Scool team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning.
 
 - I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/).
-- I'm currently teaching a [Bayesian deep learning course](https://dataflowr.com) at [École normale supérieure de Paris](https://ens.fr).
-- We are excited to serve as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/) in Paris, next July. CFP soon.
+- I'm currently teaching a [Bayesian deep learning course](https://dataflowr.com) with [Marc Lelarge](https://www.di.ens.fr/~lelarge/) at [École normale supérieure de Paris](https://ens.fr).
+- We are excited to serve as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/) in Paris. [<span style="color: red">Send papers</span>](https://educationaldatamining.org/EDM2021/EDM2021CFP.pdf) by Feb 26.
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
