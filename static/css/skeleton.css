@@ -364,8 +364,9 @@ table,
 p,
 ul,
 ol,
-form {
-  margin-bottom: 2.5rem; }
+form,
+.csl-entry {
+  margin-bottom: 2rem; }
 figure {
   text-align: center;
   width: 250px;

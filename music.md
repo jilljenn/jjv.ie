@@ -24,11 +24,10 @@ Later, I used a similar Markov chain ([markov.py](https://github.com/jilljenn/ma
 
 ### Trio ELM
 
+![Trio ELM](/static/img/trioelm.png)
+
 Together with [Sedeto](https://sedeto.carrd.co/) and Lily, we arranged anime pieces for 2 voices + piano: [Trio ELM](https://trioelm.com/).
 We performed at Japan Expo 2015 and many other events such as Epitanime.
 
 We were also featured in the latest Yoko Kanno project: **Starducks** ([video](https://youtu.be/f7t36bKiymo)).  
 Read more about this hilarious project [here](https://starducks.me/howtojoin-en/).
-
-
-

@@ -21,20 +21,11 @@ See our presentation about [Deep Learning for Anime & Manga](https://www.youtube
 ### Free software projects
 
 - [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
-- Adaptively **certifying the digital skills** of French citizens, joint work with [PIX](https://pix.fr), at time at the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
+- Adaptively **certifying the digital skills** of French citizens, joint work with [Pix](https://pix.fr) and the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
 - This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/software.md);
 - [See my other GitHub projects](https://github.com/jilljenn/).
 
 <img src="/visual.png" width="100%" alt="The Makefile that made this page" />
-
-
-### Trio ELM
-
-![Trio ELM](/static/img/trioelm.png)
-
-Together with [Sedeto](https://sedeto.carrd.co/) and Lily, we arranged pieces for 2 voices + piano: [Trio ELM](https://trioelm.com/).
-
-See more on the [music page](/music#trio-elm).
 
 
 ### La Faute à l'algo

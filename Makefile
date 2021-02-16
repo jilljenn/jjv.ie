@@ -1,7 +1,7 @@
 all: index.html _layouts/default.html publications.md cv.md cv.pdf cv-fr.pdf visual.png
 
 index.html: index.md
-	pandoc --filter pandoc-citeproc -s index.md -t html5 -o index.html
+	pandoc --citeproc -s index.md -t html5 -o index.html
 
 _layouts/default.html: _layouts/_default.md
 	pandoc -s $< -t html5 -o $@
@@ -28,7 +28,7 @@ magazines.bib: biblio.bib
 	bib2bib -ob magazines.bib -c '$$type = "ARTICLE"' -c '$$key : "Mag"' biblio.bib
 
 %.html: %.md %.bib
-	pandoc --filter pandoc-citeproc $< -t html5 -o $@
+	pandoc --citeproc $< -t html5 -o $@
 
 publications.md: preprints.html articles.html books.html chapters.html conferences.html others.html magazines.html
 	sed -i.tmp s/"refs"/"refs1"/ preprints.html  # Si Mac OS X

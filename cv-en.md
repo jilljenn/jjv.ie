@@ -87,7 +87,7 @@ From 2016
 
 # Teaching Experience {-}
 
-Upcoming 2021
+2021
 :	**Algorithms & Programming** in Python, MSc (M1), Centrale Lille.
 
 2020
@@ -152,7 +152,7 @@ Workshop Organizer
 Program Committee
 :   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC)
 
-Associate Editor
+Editorial Board
 :	*Journal of Educational Data Mining* (JEDM)
 
 Reviewer
