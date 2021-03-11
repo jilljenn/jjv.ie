@@ -20,11 +20,11 @@ link-citations: true
 <li>[Music](/music)</li>
 </ul></nav></div>
 
-I am a tenured research scientist at Inria, [Scool team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. I've been teaching [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
+I am a tenured research scientist at Inria, [Scool team](https://team.inria.fr/sequel/), interested in online factorization, deep generative models and educational applications of machine learning. I have taught [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
-- We are excited to serve as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/) in Paris. [<span style="color: red">Send papers</span>](https://educationaldatamining.org/EDM2021/EDM2021CFP.pdf) by Feb 26.
-- Our book is out! [*Competitive Programming*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826), edited by Cambridge University Press
-- I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/).
+- We are excited to serve as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/) in Paris. Registration soon.
+- Our book is out! [*Competitive Programming*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826), edited by Cambridge University Press.
+- I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/). Objectif agrégation d'informatique.
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 

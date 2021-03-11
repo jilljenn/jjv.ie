@@ -88,9 +88,10 @@ From 2016
 # Teaching Experience {-}
 
 2021
-:	**Algorithms & Programming** in Python, MSc (M1), Centrale Lille.
+:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  
+	**Algorithms & Programming** in Python, MSc (M1), Université de Lille.
 
-2020
+202
 :	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  
 	**Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
 
@@ -142,6 +143,7 @@ From 2016
 
 Board of Directors
 :	Société informatique de France (French Computer Science Society), since 2020
+	Inria Alumni, since 2020
 
 General Chair
 :	Educational Data Mining 2021
