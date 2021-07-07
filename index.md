@@ -20,9 +20,11 @@ link-citations: true
 <li>[Music](/music)</li>
 </ul></nav></div>
 
-I am a tenured research scientist at Inria interested in online factorization, deep generative models and educational applications of machine learning. I have taught [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
+I am a research scientist at Inria interested in online factorization, deep generative models and educational applications of machine learning. I have taught [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
-- We are excited to serve as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/) in Paris. [Register now!](https://educationaldatamining.org/edm2021/)
+- We are happy to serve as [expert at the European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true) in AI and Data for Education and Training.
+- Our paper was recently accepted in Psychometrika [@Bergner2021].
+- We recently served as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/). [Website](https://educationaldatamining.org/EDM2021/virtual/) / [YouTube](https://www.youtube.com/channel/UC8-4QLDjPJtKmVOxiIFdGMw/videos)
 - Our book is out! [*Competitive Programming*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826), edited by Cambridge University Press.
 - I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/). Objectif [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation) d'informatique.
 
