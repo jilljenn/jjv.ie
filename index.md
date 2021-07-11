@@ -23,10 +23,9 @@ link-citations: true
 I am a research scientist at Inria interested in online factorization, deep generative models and educational applications of machine learning. I have taught [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
 - We are happy to serve as [expert at the European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true) in AI and Data for Education and Training.
-- Our paper was recently accepted in Psychometrika [@Bergner2021].
-- We recently served as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/). [Website](https://educationaldatamining.org/EDM2021/virtual/) / [YouTube](https://www.youtube.com/channel/UC8-4QLDjPJtKmVOxiIFdGMw/videos)
+- Our paper was recently accepted in *Psychometrika* [@Bergner2021].
 - Our book is out! [*Competitive Programming*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826), edited by Cambridge University Press.
-- I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/). Objectif [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation) d'informatique.
+
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
@@ -58,6 +57,12 @@ Recommender systems with side information
 ✅ I designed and implemented [free software](https://github.com/1024pix/pix) that is used to certify the digital skills of every French citizen ([Pix](https://pix.fr))  
 ✅ We founded a **programming summer school for K-12 girls** → [Girls Can Code!](https://gcc.prologin.org) running since 2014  
 ✅ See [my projects](/projects/) and [CV](/cv/)
+
+
+### Responsibilites
+
+- We recently served as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/). [Website](https://educationaldatamining.org/EDM2021/virtual/) / [YouTube](https://www.youtube.com/channel/UC8-4QLDjPJtKmVOxiIFdGMw/videos)
+- I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/). Objectif [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation) d'informatique.
 
 
 ### Selected Publications
