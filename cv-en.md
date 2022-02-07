@@ -3,7 +3,7 @@ header-includes:
   - \usepackage{multicol}
 ---
 \noindent
-Inria Lille-Nord Europe, Scool team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
+Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue Honoré d'Estienne d'Orves, 91120 Palaiseau, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jjv.ie}
 
 ::: {latex=true class=multicols}
@@ -20,6 +20,10 @@ Inria Lille-Nord Europe, Scool team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, 
 
 
 # Experience {-}
+
+From 2021
+:    
+**Expert at the European Commission** in AI & Data for Education & Training.
 
 From 2019
 :   
@@ -87,13 +91,15 @@ From 2016
 
 # Teaching Experience {-}
 
-2021
-:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  
-	**Algorithms & Programming** in Python, MSc (M1), Université de Lille.
+2022
+:	**Préparation à l'agrégation d'informatique**, Sorbonne Université.
 
-202
-:	**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  
-	**Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
+2021
+:	**Algorithms & Programming** in Python, MSc (M1), Université de Lille.
+
+2020 & 2021
+:	**Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.  
+**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  	
 
 2016
 :   **Algorithms & Programming** in Python, BSc (L3), CentraleSupélec, Châtenay-Malabry.
@@ -142,11 +148,11 @@ From 2016
 # Professional Affiliations & Activities {-}
 
 Board of Directors
-:	Société informatique de France (French Computer Science Society), since 2020
-	Inria Alumni, since 2020
+:	Société informatique de France (French Computer Science Society), since 2020  
+Inria Alumni, since 2020
 
 General Chair
-:	Educational Data Mining 2021
+:	of the Educational Data Mining 2021 conference
 
 Workshop Organizer
 :   Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020), Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning (WASL 2018--2020)
@@ -155,13 +161,13 @@ Program Committee
 :   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC)
 
 Editorial Board
-:	*Journal of Educational Data Mining* (JEDM)
+:	*Journal of Educational Data Mining* (JEDM) -- Blog Binaire, Le Monde.fr
 
 Reviewer
 :   AAAI 2020--2021, AISTATS 2021, *IEEE Transactions on Learning Technologies*, JEDM
 
 Supervisor
-:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020)
+:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020), Florent Dufay (2021)
 
 Coach
 :   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016)

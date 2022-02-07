@@ -9,3 +9,14 @@ You may be interested in this if you care about:
 - writing Chinese in LuaLaTeX (thanks `luatexja-fontspec`)
 
 ![Dependency graph](visual.png)
+
+## Requirements
+
+- [pandoc](https://pandoc.org/installing.html) >= 2.11
+- [bibtex2html](https://www.lri.fr/~filliatr/bibtex2html/)
+
+## Try it
+
+    bundle install
+    bundle exec jekyll serve
+

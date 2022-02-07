@@ -1,5 +1,5 @@
 \noindent
-Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq, France  
+Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue Honoré d'Estienne d'Orves, 91120 Palaiseau, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jill-jenn.net}
 
 \def\spaceabove{\vspace{-5mm}}
@@ -33,8 +33,11 @@ Inria Lille-Nord Europe, SequeL team, 40 avenue Halley, 59650 Villeneuve-d'Ascq,
 
 \spacebelow
 
+Depuis 2021
+:	**Expert à la Commission européenne** en IA & données pour l'éducation et la formation.
+
 Depuis octobre 2019
-:   **Chargé de recherche de classe normale** à Inria Lille, dans l'équipe-projet SequeL.
+:   **Chargé de recherche de classe normale** à Inria.
 
 Avril 2017 -- Octobre 2019
 :   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima.

@@ -20,12 +20,13 @@ link-citations: true
 <li>[Music](/music)</li>
 </ul></nav></div>
 
-I am a research scientist at Inria interested in online factorization, deep generative models and educational applications of machine learning. I have taught [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in online factorization, deep generative models and educational applications of machine learning. I am teaching [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
-- We are happy to serve as [expert at the European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true) in AI and Data for Education and Training.
-- Our paper was recently accepted in *Psychometrika* [@Bergner2021].
-- Our book is out! [*Competitive Programming*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826), edited by Cambridge University Press.
+- We are serving as [expert at the European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true) in AI and Data for Education and Training.
+- Our papers were accepted at *Psychometrika* [@Bergner2021] and [EAAI-22](https://pages.mtu.edu/~lebrown/eaai/eaai/schedule-22.html) [@Minn2022].
+- We published a book about [*Competitive Programming in Python*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826) edited by Cambridge University Press (1534[^1]).
 
+ [^1]: It's the oldest publishing house in the world!
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 

@@ -28,7 +28,7 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.container, .references {
+.container, .references, .footnotes {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -428,6 +428,10 @@ nav > ul li {
 
 nav > ul li:first-child {
   margin-left: 0;
+}
+
+ol p {
+  display: inline;  
 }
 
 /* Clearing
