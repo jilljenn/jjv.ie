@@ -22,11 +22,14 @@ link-citations: true
 
 I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in online factorization, deep generative models and educational applications of machine learning. I am teaching [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
+- Je suis jury de l'[agrégation](https://agreg-info.org/) d'informatique[^1] 2022 et du concours des ENS 2021 & 2022.
 - We are serving as [expert at the European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true) in AI and Data for Education and Training.
 - Our papers were accepted at *Psychometrika* [@Bergner2021] and [EAAI-22](https://pages.mtu.edu/~lebrown/eaai/eaai/schedule-22.html) [@Minn2022].
-- We published a book about [*Competitive Programming in Python*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826) edited by Cambridge University Press (1534[^1]).
+- We published a book about [*Competitive Programming in Python*](https://www.cambridge.org/fr/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/competitive-programming-python-128-algorithms-develop-your-coding-skills?format=PB&isbn=9781108716826) edited by Cambridge University Press (1534[^2]).
 
- [^1]: It's the oldest publishing house in the world!
+ [^1]: [*Agrégation*](https://en.wikipedia.org/wiki/Agr%C3%A9gation) was created in 1766 but *agrégation d'informatique* in 2021.
+
+ [^2]: It's the oldest publishing house in the world!
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
@@ -62,9 +65,9 @@ Recommender systems with side information
 
 ### Responsibilites
 
-- We recently served as general chair for [<span style="color: red">*Educational Data Mining 2021*</span>](https://educationaldatamining.org/edm2021/). [Website](https://educationaldatamining.org/EDM2021/virtual/) / [YouTube](https://www.youtube.com/channel/UC8-4QLDjPJtKmVOxiIFdGMw/videos)
-- I am a board member of the [French Computer Science Society (SIF)](https://www.societe-informatique-de-france.fr/). Objectif [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation) d'informatique.
-
+- I am the secretary of the learned [French Computer Science Society (*Société informatique de France*, SIF)](https://www.societe-informatique-de-france.fr/).
+- I am in the editorial board of the Journal of Educational Data Mining.
+- We served as general chair of the [EDM 2021](https://educationaldatamining.org/EDM2021/virtual) conference.
 
 ### Selected Publications
 

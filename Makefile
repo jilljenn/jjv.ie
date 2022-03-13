@@ -90,4 +90,4 @@ publish:
 	mv cv.pdf résumé.pdf
 	mv cv-fr.pdf CV.pdf
 	scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/
-	bundle exec jekyll build && rsync -avz _site/* mangaki.fr:/srv/http/jjv/
+	bundle exec jekyll build && rsync --exclude slides -avz _site/* mangaki.fr:/srv/http/jjv/
