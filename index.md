@@ -20,6 +20,11 @@ link-citations: true
 <li>[Music](/music)</li>
 </ul></nav></div>
 
+<figure style="width: 400px; float: right">
+    <a href="/static/img/manhattan-big.jpg" target="_blank"><img src="/static/img/manhattan.jpg" /></a>
+    Me solving very difficult problems in Manhattan
+</figure>
+
 I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in online factorization, deep generative models and educational applications of machine learning. I am teaching [deep learning](https://dataflowr.com) and [algorithms, complexity and programming](https://tryalgo.org).
 
 - Je suis jury de l'[agrégation](https://agreg-info.org/) d'informatique[^1] 2022 et du concours des ENS 2021 & 2022.
@@ -65,7 +70,7 @@ Recommender systems with side information
 
 ### Responsibilites
 
-- I am the secretary of the learned [French Computer Science Society (*Société informatique de France*, SIF)](https://www.societe-informatique-de-france.fr/).
+- Je suis secrétaire de la [Société informatique de France (SIF)](https://www.societe-informatique-de-france.fr/).
 - I am in the editorial board of the Journal of Educational Data Mining.
 - We served as general chair of the [EDM 2021](https://educationaldatamining.org/EDM2021/virtual) conference.
 
