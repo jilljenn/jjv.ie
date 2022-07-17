@@ -367,11 +367,15 @@ ol,
 form,
 .csl-entry {
   margin-bottom: 2rem; }
+
 figure {
+  max-width: 100%;
   text-align: center;
   width: 250px;
-  margin: 1em 1em;
+  margin: 1em auto;
   flex: auto;
+  float: right;
+  margin: 0 auto 1em auto;
 }
 
 /* Utilities
