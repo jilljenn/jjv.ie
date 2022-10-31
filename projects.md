@@ -11,7 +11,7 @@ css:
 
 ![Mangaki](/static/img/mangaki.png)
 
-[Mangaki](https://mangaki.fr) is an anime/manga recommender system in 5 languages, released under the GPLv3 license. See our [research blog](http://research.mangaki.fr) and [GitHub repo](https://github.com/mangaki/mangaki).
+[Mangaki](https://mangaki.fr) is an anime/manga recommender system in 5 languages, released under the AGPLv3 license. See our [research blog](http://research.mangaki.fr) and [GitHub repo](https://github.com/mangaki/mangaki).
 
 Using 330k ratings from Mangaki data, we organized a **data challenge** with Kyoto University [[problem]](http://research.mangaki.fr/2017/07/18/mangaki-data-challenge-en/) [[solutions]](http://research.mangaki.fr/2017/10/08/mangaki-data-challenge-winners-en/).
 
@@ -22,7 +22,7 @@ See our presentation about [Deep Learning for Anime & Manga](https://www.youtube
 
 - [`pip install tryalgo`](https://github.com/jilljenn/tryalgo/) → [128 algorithms in Python](https://github.com/jilljenn/tryalgo) to prepare programming contests or coding interviews;
 - Adaptively **certifying the digital skills** of French citizens, joint work with [Pix](https://pix.fr) and the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
-- This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/software.md);
+- This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/projects.md);
 - [See my other GitHub projects](https://github.com/jilljenn/).
 
 <img src="/visual.png" width="100%" alt="The Makefile that made this page" />

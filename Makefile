@@ -87,7 +87,7 @@ bibclean:
 	rm -f preprints.bib articles.bib books.bib chapters.bib conferences.bib others.bib magazines.bib
 
 publish:
-	mv cv.pdf résumé.pdf
-	mv cv-fr.pdf CV.pdf
-	scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/
+	# mv cv.pdf résumé.pdf
+	# mv cv-fr.pdf CV.pdf
+	# scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/
 	bundle exec jekyll build && rsync --exclude slides -avz _site/* mangaki.fr:/srv/http/jjv/
