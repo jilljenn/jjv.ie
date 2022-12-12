@@ -25,10 +25,10 @@ link-citations: true
     <a href="/static/img/manhattan-big.jpg" target="_blank"><img src="/static/img/manhattan.jpg" alt="Solving problems in Manhattan" style="max-width: 100%" /></a>
 </figure>
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/). I am currently visiting [Kyoto University](http://www.ml.ist.i.kyoto-u.ac.jp/en/).
 
 - Our team [Soda@Inria](https://team.inria.fr/soda/) is [hiring postdocs, etc.](https://team.inria.fr/soda/job-offers/)!
-- Our papers were accepted at *Psychometrika* [@Bergner2022] and [EC-TEL 2022](https://ea-tel.eu/ectel2022) [@Vie2022].
+- Our papers were accepted at *Psychometrika* [@Bergner2022], [EC-TEL 2022](https://ea-tel.eu/ectel2022) [@Vie2022] and [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) [@Vie2022VFM]. See you in Osaka.
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
@@ -58,15 +58,15 @@ Recommender systems with side information
 
 ✅ I worked on [Pix](https://pix.fr), [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens  
 ✅ We founded the [Girls Can Code!](https://gcc.prologin.org) schools for K-12 girls running since 2014  
-✅ Worked for: [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual).  
+✅ Worked for: [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual)  
 ✅ See [my projects](/projects/) and [CV](/cv/)
 
 ### Responsibilities
 
 - Teaching at École normale supérieure and École polytechnique
-- I am in the editorial board of the [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM).
-- Secrétaire de la [Société informatique de France (SIF)](https://www.societe-informatique-de-france.fr/).
-- Éditeur du [blog Binaire](https://www.lemonde.fr/blog/binaire/).
+- I am in the editorial board of the [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM)
+- Secrétaire de la [Société informatique de France (SIF)](https://www.societe-informatique-de-france.fr/)
+- Éditeur du [blog Binaire](https://www.lemonde.fr/blog/binaire/)
 - Jury du concours ENS et de l'[agrégation d'informatique](https://agreg-info.org/)
 
 ### Selected Publications
