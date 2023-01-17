@@ -22,13 +22,16 @@ link-citations: true
 </ul></nav></div>
 
 <figure style="width: 400px; ">
-    <a href="/static/img/manhattan-big.jpg" target="_blank"><img src="/static/img/manhattan.jpg" alt="Solving problems in Manhattan" style="max-width: 100%" /></a>
+    <a href="/static/img/fuji-big.jpg" target="_blank"><img src="/static/img/fuji.jpg" alt="Mount Fuji, 3776 m" style="max-width: 100%" /></a>
+    <figcaption aria-hidden="true">
+        Mount Fuji, 3776 m, Japan
+    </figcaption>
 </figure>
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/). I am currently visiting [Kyoto University](http://www.ml.ist.i.kyoto-u.ac.jp/en/).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/).
 
 - Our team [Soda@Inria](https://team.inria.fr/soda/) is [hiring postdocs, etc.](https://team.inria.fr/soda/job-offers/)!
-- Our papers were accepted at *Psychometrika* [@Bergner2022], [EC-TEL 2022](https://ea-tel.eu/ectel2022) [@Vie2022] and [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) [@Vie2022VFM]. See you in Osaka.
+- Our papers were accepted at *Psychometrika* [@Bergner2022], [EC-TEL 2022](https://ea-tel.eu/ectel2022) [@Vie2022] and [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) [@Vie2022VFM].
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
