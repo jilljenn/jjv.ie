@@ -68,9 +68,8 @@ Recommender systems with side information
 
 - Teaching at École normale supérieure and École polytechnique
 - I am in the editorial board of the [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM)
-- Secrétaire de la [Société informatique de France (SIF)](https://www.societe-informatique-de-france.fr/)
+- Jury de l'[agrégation d'informatique](https://agreg-info.org/)
 - Éditeur du [blog Binaire](https://www.lemonde.fr/blog/binaire/)
-- Jury du concours ENS et de l'[agrégation d'informatique](https://agreg-info.org/)
 
 ### Selected Publications
 

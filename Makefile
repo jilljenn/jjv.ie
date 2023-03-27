@@ -1,6 +1,6 @@
 all: index.html _layouts/default.html publications.md cv.md cv.pdf cv-fr.pdf visual.png
 
-index.html: index.md
+index.html: index.md biblio.bib
 	pandoc --citeproc -s index.md -t html5 -o index.html
 
 _layouts/default.html: _layouts/_default.md
@@ -51,7 +51,7 @@ cv.pdf: cv-en.md biblio.bib
 	lualatex cv
 
 cv-fr.pdf: cv-fr.md biblio.bib
-	pandoc cv-fr.md -o content-fr.tex
+	pandoc --filter latexdivs.py cv-fr.md -o content-fr.tex
 	lualatex cv-fr
 	biber cv-fr
 	lualatex cv-fr

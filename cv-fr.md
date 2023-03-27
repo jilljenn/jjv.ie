@@ -1,31 +1,25 @@
+---
+header-includes:
+  - \usepackage{multicol}
+---
 \noindent
 Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue Honoré d'Estienne d'Orves, 91120 Palaiseau, France  
 +33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jill-jenn.net}
 
-\def\spaceabove{\vspace{-5mm}}
-\def\spacebelow{\vspace{-1mm}}
+\def\spaceabove{}
+\def\spacebelow{}
 
-\vspace{2mm}
+::: {latex=true class=multicols}
+# Centres d'intérêt {-}
+- \emph{Educational data mining}, tests adaptatifs
+- Optimisation de l'apprentissage humain
+- Systèmes de recommandation
 
-\begin{multicols}{2}
-\section*{Centres d'intérêt}
-\vspace{-2mm}
-\begin{itemize}
-\tightlist
-\item \emph{Educational data mining}, tests adaptatifs
-\item Systèmes de recommandation
-\item Optimisation de l'apprentissage humain
-\end{itemize}
-\columnbreak
-\section*{Compétences}
-\vspace{-2mm}
-\begin{itemize}
-\tightlist
-\item Programmation : Python, OCaml, R, C++
-\item Calcul : numpy, scipy, sklearn, Tensorflow, PyTorch
-\item Web : Django, HTML5, JS, Vue.js, PHP, PostgreSQL
-\end{itemize}
-\end{multicols}
+# Compétences {-}
+- Programmation : Python, OCaml, R, C++
+- Calcul : numpy, scipy, sklearn, Tensorflow, PyTorch
+- Web : Django, HTML5, JS, Vue.js, PHP, PostgreSQL
+:::
 
 \spaceabove
 
@@ -33,11 +27,14 @@ Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue
 
 \spacebelow
 
-Depuis 2021
-:	**Expert à la Commission européenne** en IA & données pour l'éducation et la formation.
-
 Depuis octobre 2019
 :   **Chargé de recherche de classe normale** à Inria.
+
+Depuis 2022
+:   Chargé d'enseignement à l'École polytechnique. Préparation au concours de programmation ICPC.
+
+2021--2022
+:   **Expert à la Commission européenne** en IA & données pour l'éducation et la formation.
 
 Avril 2017 -- Octobre 2019
 :   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima.
@@ -112,12 +109,25 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 
 \spacebelow
 
-2016
+Depuis 2022
+: **Entraînement au concours ICPC SWERC**, MSc (M1), École polytechnique.
 
+Depuis 2020
+: **Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
+
+2022
+: **Préparation à l'agrégation d'informatique**, Sorbonne Université.
+
+2021
+: **Algorithms & Programming** in Python, MSc (M1), Université de Lille.
+
+2020 & 2021
+: **Introduction to Machine Learning**, MSc (M2), Polytech'Lille.   
+
+2016
 :   **Rédaction de sujets d'algorithmique CNED** pour la préparation au CAPES de mathématiques option informatique (première session du concours en 2017).
 
 2016
-
 :   **TP d'algorithmique** Python en L3 à CentraleSupélec (90 élèves, 12 h), Châtenay-Malabry.
 
 2015--2016
@@ -188,26 +198,40 @@ Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à P
 
 # Services à la communauté scientifique {-}
 
-Organisation
+General Chair
+:   Conférence *Educational Data Mining 2021* (EDM 2021). *Optimizing Human Learning 2018 & 2019: Workshop eliciting Adaptive Sequences for Learning (WeASeL)*, conjointement avec *Intelligent Tutoring Systems 2018 & 2019*. *Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020)*, conjointement avec EDM 2020.
 
-:   *Optimizing Human Learning 2018 & 2019: Workshop eliciting Adaptive Sequences for Learning (WeASeL)*, conjointement avec *Intelligent Tutoring Systems 2018 & 2019*.
+Conseil d'administration
+:   Société informatique de France (2020--2023), Inria Alumni (2020--2022).
+
+Jury de concours
+:   ENS (depuis 2021), agrégation d'informatique (depuis 2022).
 
 Comités de programme
+:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (démonstrations et posters), EDM 2020 (senior PC)
 
-:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (démonstrations et posters).
+Révisions d'articles
+:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*, AAAI, AISTATS, ICDM.
 
-Révisions d'articles de journaux
+Encadrement
+:   Alexis Rivière, Dylan Tanguy (L2), Thomas Chalumeau (L2), Aymeric Floyrac (M2), Pierre Bourse (L3), Salim Nadir (M2), Sein Minn (postdoc), Vianney Taquet, Clémence Léguillette (ingénieurs), Yassine Esmili, Mehdi Douch (ingénieurs), Florent Dufay (L3), Tomas Rigaux (ingénieur M2).
 
-:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*.
+# Organisations, récompenses, bourses de recherche {-}
 
-# Organisations et récompenses {-}
+2022
+:   
+- **T2D-INTERCEPT**, Horizon Europe.
+- Co-encadrant projet **Skłodowska-Curie** pour Clémence Réda.
+
+2020
+:   
+- **NLNet's NGI Zero funding** pour le projet Mangaki.
+- **EIT Health** Covidom Community, avec les hôpitaux de Paris (AP-HP).
 
 2019
-
 :   **Best Full Paper Award** à la conférence Educational Data Mining 2019, avec Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
 
 Avril 2017
-
 :   Avec **Etalab**, la mission du premier ministre pour l'open data : contribution au *Rapport sur les conditions d'ouverture du système Admission Post-Bac*.
 
 Depuis 2016

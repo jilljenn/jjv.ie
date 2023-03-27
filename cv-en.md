@@ -21,13 +21,17 @@ Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue
 
 # Experience {-}
 
-From 2021
-:    
-**Expert at the European Commission** in AI & Data for Education & Training.
-
 From 2019
 :   
 **Research Scientist** at Inria, France.
+
+From 2022
+:   
+**Lecturer** at École polytechnique, France.
+
+2021--2022
+:    
+**Expert at the European Commission** in AI & Data for Education & Training.
 
 2019
 :     
@@ -91,21 +95,26 @@ From 2016
 
 # Teaching Experience {-}
 
+From 2022
+: **ICPC SWERC training**, MSc (M1), École polytechnique.
+
+From 2020
+: **Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
+
 2022
-:	**Préparation à l'agrégation d'informatique**, Sorbonne Université.
+: **Préparation à l'agrégation d'informatique**, Sorbonne Université.
 
 2021
-:	**Algorithms & Programming** in Python, MSc (M1), Université de Lille.
+: **Algorithms & Programming** in Python, MSc (M1), Université de Lille.
 
 2020 & 2021
-:	**Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.  
-**Introduction to Machine Learning**, MSc (M2), Polytech'Lille.  	
+: **Introduction to Machine Learning**, MSc (M2), Polytech'Lille.   
 
 2016
 :   **Algorithms & Programming** in Python, BSc (L3), CentraleSupélec, Châtenay-Malabry.
 
 2015
-:	**Introduction to Statistics**, MSc (M1), EPF, Sceaux.
+: **Introduction to Statistics**, MSc (M1), EPF, Sceaux.
 
 2012--2013
 :   **Algorithms & Programming** in Caml Light, Lycée Louis-le-Grand (MP*), Paris.
@@ -148,11 +157,10 @@ From 2016
 # Professional Affiliations & Activities {-}
 
 Board of Directors
-:	Société informatique de France (French Computer Science Society), since 2020  
-Inria Alumni, since 2020
+: Société informatique de France (French Computer Science Society), 2020--2023
 
 General Chair
-:	of the Educational Data Mining 2021 conference
+: of the Educational Data Mining 2021 conference
 
 Workshop Organizer
 :   Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020), Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning (WASL 2018--2020)
@@ -161,38 +169,44 @@ Program Committee
 :   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC)
 
 Editorial Board
-:	*Journal of Educational Data Mining* (JEDM) -- Blog Binaire, Le Monde.fr
+: *Journal of Educational Data Mining* (JEDM) -- Blog Binaire, Le Monde.fr
 
 Reviewer
 :   AAAI 2020--2021, AISTATS 2021, *IEEE Transactions on Learning Technologies*, JEDM
 
 Supervisor
-:	Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020), Florent Dufay (2021)
+: Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020), Florent Dufay (2021), Tomas Rigaux (from 2021)
 
 Coach
-:   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016)
+:   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016), Université de Lille (2021), École polytechnique (from 2022)
 
 Organizations
-:	Etalab (Prime Minister's Office for Open Data, 2017), BetaGouv (State Startups, 2016--2017)
+: Etalab (Prime Minister's Office for Open Data, 2017), BetaGouv (State Startups, 2016--2017)
+
+Jury
+: entrance examinations of ENS, practical oral exam (2021 & 2022), agrégation d'informatique (since 2022).
 
 
 # Awards & Grants {-}
 
+2022
+: T2D-INTERCEPT, Horizon Europe.
+
 2020
-:	**NLnet's NGI Zero funding** for Mangaki.  
-	**EIT Health** Covidom Community, together with [Assistance Publique Hôpitaux de Paris (AP-HP)](https://www.aphp.fr/).
+: **NLnet's NGI Zero funding** for Mangaki.  
+  **EIT Health** Covidom Community, together with [Assistance Publique Hôpitaux de Paris (AP-HP)](https://www.aphp.fr/).
 
 2019
 :   **Best Full Paper Award** of the 12\textsuperscript{th} Educational Data Mining conference, together with Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
 
 2016
-:	**Japanese Cultural Institute Prize 2016 winner** & **Student Demo Cup Prize** for Mangaki (president, 2016--2019), a non-profit organization that builds an open-source anime/manga recommender system in 5 languages.
+: **Japanese Cultural Institute Prize 2016 winner** & **Student Demo Cup Prize** for Mangaki (president, 2016--2019), a non-profit organization that builds an open-source anime/manga recommender system in 5 languages.
 
 2016
-:	**K2 Thesis Prize** in the category "Machine Learning & Data Science".
+: **K2 Thesis Prize** in the category "Machine Learning & Data Science".
 
 2014
-:	**Google RISE Award** (20,000 USD) for Prologin (president, 2011--2013), a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). With this money, we founded **Girls Can Code!** a programming summer school for K-12 girls.
+: **Google RISE Award** (20,000 USD) for Prologin (president, 2011--2013), a non-profit organization that organizes a French national programming contest every year (similar to Google Code Jam, Facebook Hacker Cup). With this money, we founded **Girls Can Code!** a programming summer school for K-12 girls.
 
 
 # Languages {-}

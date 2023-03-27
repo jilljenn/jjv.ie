@@ -5,9 +5,9 @@ layout: default
 
 ### Préparation à l'agrégation d'informatique
 
-- [Exemples d'algorithmes d'apprentissage supervisé et non supervisé : KNN, *K*-moyennes](https://jjv.ie/slides/agreg-ia-intro.pdf)
-- [A* : heuristiques pour les plus courts chemins](https://jjv.ie/slides/agreg-ia-intro.pdf)
-- Hors programme : [Modèles graphiques probabilistes](https://jjv.ie/slides/graphical.pdf)
+- [Exemples d'algorithmes d'apprentissage supervisé et non supervisé : KNN, *K*-moyennes](/slides/agreg-ia-intro.pdf)
+- [A* : heuristiques pour les plus courts chemins](/slides/paths.pdf)
+- Hors programme : [Modèles graphiques probabilistes](/slides/graphical.pdf)
 - TP Viterbi : [Doudou le hamster surveillé](https://github.com/jilljenn/tp-ml/blob/master/tp5/Doudou%20le%20hamster%20surveill%C3%A9.ipynb)
 
 ### Deep learning at ENS Ulm
