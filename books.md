@@ -6,7 +6,7 @@ nocite: |
 ---
 ### Books
 
-[![TryAlgo](/static/img/tryalgo-en.jpg){height=200 align=left}](http://tryalgo.org/book/) [![TryAlgo](/static/img/books.jpg){height=200 align=left}](http://tryalgo.org/book/)
+[![TryAlgo](/static/img/tryalgo-en.jpg){height=200 align=left}](http://tryalgo.org/) [![TryAlgo](/static/img/books.jpg){height=200 align=left}](http://tryalgo.org/)
 
 With [Christoph Dürr](http://www-desir.lip6.fr/~durrc/), we explain [128 algorithms](http://tryalgo.org/code/) for preparing coding interviews & programming contests [@Durr2016].  
 All [128 algorithms in Python](https://github.com/jilljenn/tryalgo/) from the book are available on GitHub, in the Python package [tryalgo](https://pypi.python.org/pypi/tryalgo/1.2.2).

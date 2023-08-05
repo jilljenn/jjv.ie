@@ -21,17 +21,22 @@ link-citations: true
 <li>[Music](/music)</li>
 </ul></nav></div>
 
-<figure style="width: 400px; ">
+<div style="float: right; display: flex; flex-flow: row wrap;">
+[![Clés](/static/img/cles.png){height=200}](https://amzn.to/3YkstDv)
+[![Python](/static/img/tryalgo-en.jpg){height=200}](https://amzn.to/45itxtF)
+</div>
+
+<!-- <figure style="width: 400px;">
     <a href="/static/img/fuji-big.jpg" target="_blank"><img src="/static/img/fuji.jpg" alt="Mount Fuji, 3776 m" style="max-width: 100%" /></a>
     <figcaption aria-hidden="true">
         Mount Fuji, 3776 m, Japan
     </figcaption>
-</figure>
+</figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team, interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team ([hiring](https://team.inria.fr/soda/job-offers/)), interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/) & [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
 
-- Our team [Soda@Inria](https://team.inria.fr/soda/) is [hiring postdocs, etc.](https://team.inria.fr/soda/job-offers/)!
-- Our papers were accepted at EDM 2023 [@Vassoyan2023], *Psychometrika* [@Bergner2022], IEEE BigData [@Vie2022VFM].
+- Our books [*Clés pour l'info*](https://amzn.to/3YkstDv) and [*128 algorithms*](https://amzn.to/45itxtF) have been republished, finally!
+- Our papers were accepted at [ICCE 2023](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/), EDM 2023 [@Vassoyan2023], *Psychometrika* [@Bergner2022], IEEE BigData [@Vie2022VFM]. See you in Matsue in December.
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
@@ -42,7 +47,7 @@ Deep generative models of time series
 
 :   *If we can generate assessment data from MOOCs, we can predict, explain and [optimize human learning](https://humanlearn.io).  
 If we can do this with privacy guarantees, we can share this dataset with more users.* [@Vie2022]  
-*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [workshop WASL 2020 @ AIED](https://humanlearn.io) [[video]](https://youtu.be/oVuq-seIvrk).*
+*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ AIED 2020](https://humanlearn.io) [[video]](https://youtu.be/oVuq-seIvrk).*
 
 Recommender systems with side information
 
@@ -59,16 +64,15 @@ Recommender systems with side information
 
 ### Other Achievements
 
-✅ I worked on [Pix](https://pix.fr), [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens  
+✅ I worked on the government project [Pix](https://pix.fr). This is [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens  
 ✅ We founded the [Girls Can Code!](https://gcc.prologin.org) schools for K-12 girls running since 2014  
 ✅ Worked for: [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual)  
 ✅ See [my projects](/projects/) and [CV](/cv/)
 
 ### Responsibilities
 
-- Teaching at École normale supérieure and École polytechnique
-- I am in the editorial board of the [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM)
-- Jury de l'[agrégation d'informatique](https://agreg-info.org/)
+- J'ai rejoint le [conseil scientifique de l'Éducation nationale](https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492)
+- Jury de l'[agrégation d'informatique](https://agreg-info.org/) ; avec [Marc Jeanmougin](https://marc.jeanmougin.fr/) nous avons fait l'environnement de concours [NonOS](https://agreg-info.gitlab.io/docs/)
 - Éditeur du [blog Binaire](https://www.lemonde.fr/blog/binaire/)
 
 ### Selected Publications
