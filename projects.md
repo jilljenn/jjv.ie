@@ -42,7 +42,7 @@ The music was composed by [markov.py](https://github.com/jilljenn/markov.py), a 
 
 - This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/projects.md);
 
-Here is the graph that builds this website:
+Here is the Makefile that builds this website:
 
 <img src="/visual.png" width="100%" alt="The Makefile that made this page" />
 

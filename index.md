@@ -36,7 +36,7 @@ link-citations: true
 I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team ([hiring](https://team.inria.fr/soda/job-offers/)), interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/) & [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
 
 - Our books [*Clés pour l'info*](https://amzn.to/3YkstDv) and [*128 algorithms*](https://amzn.to/45itxtF) have been republished, finally!
-- Our papers were accepted at [ICCE 2023](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/), EDM 2023 [@Vassoyan2023], *Psychometrika* [@Bergner2022], IEEE BigData [@Vie2022VFM]. See you in Matsue in December.
+- Our papers were accepted at [ICCE 2023](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/) [@Vie2023], EDM 2023 [@Vassoyan2023], *Psychometrika* [@Bergner2022], IEEE BigData [@Vie2022VFM]. See you in Matsue in December.
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
 
