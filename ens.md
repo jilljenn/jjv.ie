@@ -18,7 +18,11 @@ layout: default
 
 ### Advanced algorithms at École polytechnique
 
+- [Intro to ICPC](https://jjv.ie/slides/swerc-intro.pdf)
+- [Intro to pathfinding](https://jjv.ie/slides/parcours.pdf)
+- [Strings](https://jiji.cat/slides/strings.pdf)
 - [Matching & flows](https://jiji.cat/slides/matching-flows.pdf)
+- [Segment trees](https://jjv.ie/slides/segment-tree.pdf)
 
 ### Machine learning
 

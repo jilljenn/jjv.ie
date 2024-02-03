@@ -38,12 +38,12 @@ The music was composed by [markov.py](https://github.com/jilljenn/markov.py), a 
 - Adaptively **certifying the digital skills** of French citizens, joint work with [Pix](https://pix.fr) and the [French Ministry of Education](https://en.wikipedia.org/wiki/Ministry_of_National_Education_(France)).
 
 
-### The website you are currently looking at
+### This personal page
 
-- This personal page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/projects.md);
+- This page is written in Markdown, [see this page on GitHub](https://github.com/jilljenn/jjv.ie/blob/master/projects.md).
 
 Here is the Makefile that builds this website:
 
-<img src="/visual.png" width="100%" alt="The Makefile that made this page" />
+<a href="/visual.png" target="_blank"><img src="/visual.png" width="100%" alt="The Makefile that made this page" /></a>
 
 [See my other GitHub projects](https://github.com/jilljenn/).

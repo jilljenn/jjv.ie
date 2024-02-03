@@ -23,7 +23,7 @@ Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue
 
 From 2019
 :   
-**Research Scientist** at Inria, France.
+**Research Scientist** (*chargé de recherche de classe normale*) at Inria Saclay, Soda team (previously Lille, SequeL/Scool team 2019--2021).
 
 From 2022
 :   

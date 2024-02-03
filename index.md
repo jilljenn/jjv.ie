@@ -11,7 +11,7 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div class="keep-this">
 # [Jill-Jênn Vie](/)
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr)</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr), France</span>
 </div>
 <nav><ul>
 <li>[Publications](/publications)</li>
@@ -19,11 +19,11 @@ link-citations: true
 <li>[Teaching](/ens)</li>
 <li>[CV](/cv)</li>
 <li>[Music](/music)</li>
+<li>[Slides](/slides)</li>
 </ul></nav></div>
 
 <div style="float: right; display: flex; flex-flow: row wrap;">
-[![Clés](/static/img/cles.png){height=200}](https://amzn.to/3YkstDv)
-[![Python](/static/img/tryalgo-en.jpg){height=200}](https://amzn.to/45itxtF)
+[![Competitive Programming in Python](/static/img/tryalgo-en.jpg){height=200}](https://amzn.to/45itxtF)
 </div>
 
 <!-- <figure style="width: 400px;">
@@ -33,12 +33,14 @@ link-citations: true
     </figcaption>
 </figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team ([hiring](https://team.inria.fr/soda/job-offers/)), interested in factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/) & [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team ([hiring](https://team.inria.fr/soda/job-offers/)), and a lecturer at École polytechnique. My research interests are factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/).
 
-- Our books [*Clés pour l'info*](https://amzn.to/3YkstDv) and [*128 algorithms*](https://amzn.to/45itxtF) have been republished, finally!
-- Our papers were accepted at [ICCE 2023](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/) [@Vie2023], EDM 2023 [@Vassoyan2023], *Psychometrika* [@Bergner2022], IEEE BigData [@Vie2022VFM]. See you in Matsue in December.
+- We are organizing a workshop about [optimizing human learning](https://humanlearn.io/) at LAK 2024 in Kyoto. <a href="https://humanlearn.io/#registration" style="color: red">Register now!</a>
+- We just got [two Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779). See you at the finals in Astana, Kazakhstan.
+- Our papers were accepted to [LAK 2024](https://www.solaresearch.org/events/lak/lak24/) [@Kandemir2024], [ICCE](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/) [@Vie2023], EDM [@Vassoyan2023].   
+- We are currently visiting [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) at [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members).
 
-Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [Twitter](https://twitter.com/intent/follow?screen_name=jjvie).
+Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [X](https://x.com/intent/follow?screen_name=jjvie).
 
 
 ### Research Interests
