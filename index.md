@@ -47,9 +47,9 @@ Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://
 
 Deep generative models of time series
 
-:   *If we can generate assessment data from MOOCs, we can predict, explain and [optimize human learning](https://humanlearn.io).  
+:   *If we can generate assessment data from MOOCs, we can predict, explain and [optimize human learning](https://jilljenn.github.io/humanlearn/).  
 If we can do this with privacy guarantees, we can share this dataset with more users.* [@Vie2022]  
-*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ AIED 2020](https://humanlearn.io) [[video]](https://youtu.be/oVuq-seIvrk).*
+*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ AIED 2020](https://jilljenn.github.io/humanlearn/) [[video]](https://youtu.be/oVuq-seIvrk).*
 
 Recommender systems with side information
 
@@ -75,7 +75,6 @@ Recommender systems with side information
 
 - J'ai rejoint le [conseil scientifique de l'Éducation nationale](https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492)
 - Jury de l'[agrégation d'informatique](https://agreg-info.org/) ; avec [Marc Jeanmougin](https://marc.jeanmougin.fr/) nous avons fait l'environnement de concours [NonOS](https://agreg-info.gitlab.io/docs/)
-- Éditeur du [blog Binaire](https://www.lemonde.fr/blog/binaire/)
 
 ### Selected Publications
 
