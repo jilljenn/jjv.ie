@@ -11,7 +11,7 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div class="keep-this">
 # [Jill-Jênn Vie](/)
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr), France</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr), Lecturer at [X](https://www.polytechnique.edu/)</span>
 </div>
 <nav><ul>
 <li>[Publications](/publications)</li>
@@ -33,12 +33,12 @@ link-citations: true
     </figcaption>
 </figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team ([hiring](https://team.inria.fr/soda/job-offers/)), and a lecturer at École polytechnique. My research interests are factorization, generative models and educational applications of machine learning. I enjoy teaching [deep learning](https://dataflowr.com) at [ENS](https://www.ens.psl.eu/) and [competitive programming](https://tryalgo.org/book) at [X](https://www.polytechnique.edu/).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023]. We are currently visiting [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) at [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members) ([RED](https://jilljenn.github.io/red/) team).
 
-- We are organizing a workshop about [optimizing human learning](https://humanlearn.io/) at LAK 2024 in Kyoto. <a href="https://humanlearn.io/#registration" style="color: red">Register now!</a>
-- We just got [two Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779). See you at the finals in Astana, Kazakhstan.
-- Our papers were accepted to [LAK 2024](https://www.solaresearch.org/events/lak/lak24/) [@Kandemir2024], [ICCE](https://eds.let.media.kyoto-u.ac.jp/ICCE2023/) [@Vie2023], EDM [@Vassoyan2023].   
-- We are currently visiting [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) at [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members).
+- We are <span style="color: red">hiring</span> a research engineer about [diversity of recommendations of the Pass Culture](https://jobs.inria.fr/public/classic/fr/offres/2024-07207).
+- <a href="https://humanlearn.io/#registration" style="color: red">Register now</a> to our LAK 2024 [optimizing human learning](https://jilljenn.github.io/humanlearn/) workshop on March 18 in Kyoto. 
+- Our teams got [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779). See you at the finals in Astana, Kazakhstan.
+
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [X](https://x.com/intent/follow?screen_name=jjvie).
 
