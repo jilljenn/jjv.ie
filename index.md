@@ -35,8 +35,7 @@ link-citations: true
 
 I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023]. We are currently visiting [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) at [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members) ([RED](https://jilljenn.github.io/red/) team).
 
-- We are <span style="color: red">hiring</span> a research engineer about [diversity of recommendations of the Pass Culture](https://jobs.inria.fr/public/classic/fr/offres/2024-07207).
-- <a href="https://humanlearn.io/#registration" style="color: red">Register now</a> to our LAK 2024 [optimizing human learning](https://jilljenn.github.io/humanlearn/) workshop on March 18 in Kyoto. 
+- Slides are available for our LAK 2024 [optimizing human learning](https://jilljenn.github.io/humanlearn/) workshop in Kyoto. 
 - Our teams got [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779). See you at the finals in Astana, Kazakhstan.
 
 

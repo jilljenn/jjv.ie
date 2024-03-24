@@ -28,24 +28,23 @@ Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue
 \spacebelow
 
 Depuis octobre 2019
-:   **Chargé de recherche de classe normale** à Inria.
+:   **Chargé de recherche de classe normale** à Inria.  
+Équipe SCOOL à Lille 2019--2021, équipe SODA à Saclay depuis 2021.
 
 Depuis 2022
-:   Chargé d'enseignement à l'École polytechnique. Préparation au concours de programmation ICPC.
+:   Chargé d'enseignement à l'École polytechnique.  
+Préparation au concours de programmation ICPC (MODAL INF471S, Bachelor PDV302).
 
-2021--2022
-:   **Expert à la Commission européenne** en IA & données pour l'éducation et la formation.
-
-Avril 2017 -- Octobre 2019
+Avril 2017 -- Septembre 2019
 :   Chercheur postdoctoral au laboratoire RIKEN Center of Advanced Intelligence Project (AIP) à Tokyo (Japon), sous la direction de Hisashi Kashima.
 
 Avril--juillet 2019
 :   Chercheur invité par Yoav Bergner au laboratoire LEARN de l'université de New York.
 
-Depuis octobre 2016
+2016--2020
 :   **Consultant** au ministère de l'Éducation nationale et au groupe d'intérêt public PIX.   
 Projet PIX de certification de compétences numériques. [https://pix.fr](https://pix.fr)  
-Aide à la conception des algorithmes d'évaluation adaptative, implémentation en code libre GPLv3.
+Conception du test de positionnement adaptatif, implémentation en code libre GPLv3.
 
 \spaceabove
 
@@ -54,10 +53,11 @@ Aide à la conception des algorithmes d'évaluation adaptative, implémentation 
 \spacebelow
 
 02/2014--12/2016
-:   **Doctorat en informatique** à l'université Paris-Saclay : « Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d'apprentissage à grande échelle »  
-Directeurs : Yolaine Bourda (CentraleSupélec), Éric Bruillard (ENS Paris-Saclay), Fabrice Popineau.  
+:   **Doctorat en informatique** de l'université Paris-Saclay : « Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d'apprentissage à grande échelle »  
+Directeurs : Yolaine Bourda (CentraleSupélec, LISN), Éric Bruillard (ENS Paris-Saclay)  
+Coencadrant : Fabrice Popineau (CentraleSupélec, LISN).  
 Rapporteurs : Nathalie Guin (LIRIS) et Sébastien George (Université du Maine)  
-Jury : Amel Bouzeghoub (Télécom SudParis), Vanda Luengo (UPMC), Monique Grandbastien (LORIA).  
+Jury : Amel Bouzeghoub (Télécom SudParis), Vanda Luengo (Sorbonne Université), Monique Grandbastien (LORIA).  
 **Prix de thèse** K2, catégorie \og Machine Learning et Data Science \fg
 
 07/2014
@@ -77,7 +77,7 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 :   **Normalien** à l'ENS Cachan (admis 2\textsuperscript{e}).
 
 09/2009--09/2010
-:   Candidat au master d'informatique de l'ENS de Lyon.
+:   M1 du master d'informatique de l'ENS de Lyon.
 
 09/2008--09/2009
 :   **Licence d'informatique** à l'ENS de Lyon.
@@ -110,38 +110,26 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 \spacebelow
 
 Depuis 2022
-: **Entraînement au concours ICPC SWERC**, MSc (M1), École polytechnique.
+: **Entraînement au concours d'algorithmique et de programmation [ICPC](https://icpc.global/) [SWERC](https://swerc.eu)**, MSc (M1) \& Bachelor, École polytechnique.
 
 Depuis 2020
-: **Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
+: **Deep Learning -- Do It Yourself!**, MSc (M1), École normale supérieure.
 
 2022
 : **Préparation à l'agrégation d'informatique**, Sorbonne Université.
 
 2021
-: **Algorithms & Programming** in Python, MSc (M1), Université de Lille.
+: **Algorithms & Programming** in Python, MSc (M1), Université de Lille + coach ICPC.
 
 2020 & 2021
 : **Introduction to Machine Learning**, MSc (M2), Polytech'Lille.   
 
 2016
-:   **Rédaction de sujets d'algorithmique CNED** pour la préparation au CAPES de mathématiques option informatique (première session du concours en 2017).
-
-2016
 :   **TP d'algorithmique** Python en L3 à CentraleSupélec (90 élèves, 12 h), Châtenay-Malabry.
-
-2015--2016
-:   **Coach** de l'ENS Paris-Saclay au concours *ACM International Collegiate Programming Contest*.
-
-2015
-:   **Maître de stage** dans l'association Mangaki : Alexis Rivière & Dylan Tanguy (ENSIIE).
 
 2014--2015
 :   **Cours de statistiques** en M1 à l'EPF à Sceaux.  
 70 élèves, 12 h cours, 16 h TD en demi-groupes, examen, correction des copies.
-
-2014
-:   **Cofondateur** et **entraîneur** à **Girls Can Code!**, une école d'été d'initiation à la programmation pour collégiennes et lycéennes.
 
 2012--2013
 :   **TP d'informatique** Caml Light au lycée Louis-le-Grand, Paris.
@@ -172,11 +160,11 @@ Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à P
 
 \insertbib{others}
 
-## Articles soumis {-}
+<!-- ## Articles soumis {-}
 
-\insertbib{preprints}
+\insertbib{preprints} -->
 
-## Participation à des séminaires {-}
+<!-- ## Participation à des séminaires {-}
 
 - Séminaire e-learning Institut de la société numérique (ISN), ENS Cachan, 17 mars 2015.
 - Workshop MOOC, ENS Cachan, 22 septembre 2015, audience internationale.
@@ -190,65 +178,131 @@ Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à P
 - Keynote *AI for Manga & Anime*, Anime Expo, Los Angeles, 5 juillet 2018, audience internationale (280 personnes).
 - \nth{2} Korea-Japan ML Workshop, Jeju, Korea, 22--24 février 2019.
 - \nth{1} SJTU-CS and RIKEN-AIP Joint Workshop on ML and Brain-like Intelligence, Shanghai, China, 7--9 mars 2019.
-- \nth{1} IIT-H and RIKEN-AIP Joint Workshop on ML and Applications, IIT Hyderabad, India, 15--16 mars 2019.
+- \nth{1} IIT-H and RIKEN-AIP Joint Workshop on ML and Applications, IIT Hyderabad, India, 15--16 mars 2019. -->
 
 ## Diffusion de l'information scientifique {-}
+
+2015--2016
+:   **Réalisateur** et **Scénariste** de ***La Faute à l'algo*** avec Michel Blockelet, une émission d'anticipation à propos des algorithmes qui prennent le contrôle de nos vies. Diffusée sur la chaîne Nolife. Mentionnée dans le rapport de l'OPECST (Sénat) sur l'intelligence artificielle.
 
 \insertbib{magazines}
 
 # Services à la communauté scientifique {-}
 
+## Recherche {-}
+
 General Chair
-:   Conférence *Educational Data Mining 2021* (EDM 2021). *Optimizing Human Learning 2018 & 2019: Workshop eliciting Adaptive Sequences for Learning (WeASeL)*, conjointement avec *Intelligent Tutoring Systems 2018 & 2019*. *Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020)*, conjointement avec EDM 2020.
+: 
+- Conférence *Educational Data Mining 2021* (EDM 2021).
+- *Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning*  
+(WASL @ ITS 2018, ITS 2019, EDM 2020, LAK 2024)
+- *Fairness, Accountability and Transparency in Educational Data Mining* (FATED @ EDM 2020)
 
-Conseil d'administration
-:   Société informatique de France (2020--2023), Inria Alumni (2020--2022).
+Comité éditorial
+: 
+Journal of Educational Data Mining (2020--2022)
 
-Jury de concours
-:   ENS (depuis 2021), agrégation d'informatique (depuis 2022).
+Autres rôles
+:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demo poster track), EDM 2023--2024 (publicity chair), PAKDD 2023 (workshop chair)
 
-Comités de programme
-:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (démonstrations et posters), EDM 2020 (senior PC)
+Reviewer
+:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*, NeurIPS 2021--2023, EDM (senior program committe), AAAI 2020--2021, AISTATS 2021, ICDM 2018, IEEE BigData 2022, PAKDD 2023, ICCE 2023.
 
-Révisions d'articles
-:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*, AAAI, AISTATS, ICDM.
+Évaluateur externe
+: NSERC (Canada), Université Grenoble-Alpes, projet Erasmus+ AI4T (advisory board)
 
-Encadrement
-:   Alexis Rivière, Dylan Tanguy (L2), Thomas Chalumeau (L2), Aymeric Floyrac (M2), Pierre Bourse (L3), Salim Nadir (M2), Sein Minn (postdoc), Vianney Taquet, Clémence Léguillette (ingénieurs), Yassine Esmili, Mehdi Douch (ingénieurs), Florent Dufay (L3), Tomas Rigaux (ingénieur M2).
+Jury de thèse
+: Benoît Choffin (2021, invité), Olivier Allègre (2023)
 
-# Organisations, récompenses, bourses de recherche {-}
+Comité de suivi
+: Mélina Verger (2023--2024), Erva Nihan Kandemir (2023)
+
+Encadrement de thèse
+: Jean Vassoyan (depuis 2023), Samuel Girard (depuis 2023)
+
+Autres encadrements
+:   Alexis Rivière, Dylan Tanguy (L2), Thomas Chalumeau (L2), Aymeric Floyrac (M2), Pierre Bourse (L3), Salim Nadir (M2), Sein Minn (postdoc), Vianney Taquet, Clémence Léguillette (ingénieurs), Yassine Esmili, Mehdi Douch (ingénieurs), Pierre Bourse, Florent Dufay (L3), Tomas Rigaux (ingénieur M2), Clémence Réda (postdoc Marie Curie)
+
+## Conseil scientifique {-}
+
+Depuis 2023
+: Conseil scientifique de l'Éducation nationale
+
+Depuis 2020
+: Projet pilote Regalia sur la régulation des algorithmes, Inria
+
+2021--2022
+:   Expert à la Commission européenne en IA & données pour l'éducation et la formation.
+
+Avril 2017
+:   Avec **Etalab**, la mission du premier ministre pour l'open data : contribution au *Rapport sur les conditions d'ouverture du système Admission Post-Bac*.
+
+## Conseil d'administration {-}
+
+- Société informatique de France (SIF, 2020--2023)
+- **Secrétaire** de la SIF en 2022
+- Inria Alumni (2020--2022).
+
+## Enseignement et jury {-}
+
+Depuis 2022
+: Jury de l'agrégation d'informatique.
+
+2021--2022
+: Examinateur au concours ENS, épreuve pratique d'algorithmique
+
+2016
+:   Rédaction de sujets d'algorithmique CNED pour la préparation au CAPES de mathématiques option informatique (première session du concours en 2017).
+
+2015, 2016, 2023
+:   Coach de l'ENS Paris-Saclay au concours ICPC SWERC.
+
+# Organisations, prix, bourses de recherche {-}
+
+2024
+: Deux médailles d'argent au concours ICPC (équipes cnXtv 3\textsuperscript{e} et eXotic 4\textsuperscript{e} de l'École polytechnique), qualification aux européennes EUC et aux ICPC World Finals 2024
+
+2024--2026
+: 
+[RED](https://jilljenn.github.io/red/) (équipe associée Inria avec Kyoto University) : *recommendations encouraging diversity*
+
+2021--2023
+: 
+[OPALE](https://jilljenn.github.io/opale/) (équipe associée Inria avec Kyoto University) : *optimal policy active learning for education*
+
+2023
+: 
+Financement Paris Region PhD de la région Île-de-France (105k)
 
 2022
 :   
 - **T2D-INTERCEPT**, Horizon Europe.
-- Co-encadrant projet **Skłodowska-Curie** pour Clémence Réda.
+- Co-encadrant projet Marie Skłodowska-Curie **ReCESS** pour Clémence Réda.
 
 2020
 :   
-- **NLNet's NGI Zero funding** pour le projet Mangaki.
+- **NLNet's NGI Zero funding** pour le projet open source Mangaki de recommandation de mangas.
 - **EIT Health** Covidom Community, avec les hôpitaux de Paris (AP-HP).
 
 2019
 :   **Best Full Paper Award** à la conférence Educational Data Mining 2019, avec Benoît Choffin, Fabrice Popineau, Yolaine Bourda.
 
-Avril 2017
-:   Avec **Etalab**, la mission du premier ministre pour l'open data : contribution au *Rapport sur les conditions d'ouverture du système Admission Post-Bac*.
-
 Depuis 2016
 :   **Président de Mangaki**, une association qui promeut la culture japonaise à travers un système de recommandation open source.  
 **Prix :** Student Demo Cup 2015. Concours de la Maison de la culture du Japon 2016.
 
-2015--2016
-:   **Directeur** et **Scénariste** de ***La Faute à l'algo*** avec Michel Blockelet, une émission d'anticipation à propos des algorithmes qui prennent le contrôle de nos vies. Diffusée sur la chaîne Nolife. Mentionnée dans le rapport de l'OPECST (Sénat) sur l'intelligence artificielle.
+2014
+:   **Cofondateur** et **entraîneur** à **Girls Can Code!**, une école d'été d'initiation à la programmation pour collégiennes et lycéennes.
 
 2011--2013
-:   **Président de Prologin**, une association d'étudiants qui organise un concours national d'informatique chaque année ouvert aux jeunes de 20 ans et moins **Prix :** Google RISE Award 2014.
+:   **Président de Prologin**, une association d'étudiants qui organise un concours national d'informatique chaque année ouvert aux jeunes de 20 ans et moins  
+**Prix :** Google RISE Award 2014.
 
 - 5\textsuperscript{e} prix sur 54 équipes à Google Hash Code, compétition de recherche opérationnelle, 2014.
 - 2\textsuperscript{e} prix en piano du conservatoire à rayonnement régional de Marseille, 2006.
 
 # Langues {-}
 
-\textbf{Français} natif \quad \textbf{Anglais} courant \quad \textbf{Japonais} intermédiaire \quad \textbf{Espagnol} intermédiaire \quad \textbf{Mandarin} débutant
+\textbf{Français} natif \hfill \textbf{Anglais} courant \hfill \textbf{Japonais} intermédiaire
 
 \vspace{-3mm}
