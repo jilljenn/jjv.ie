@@ -68,6 +68,12 @@ cv-1p.pdf: cv-1p.tex cv-1p.md
 	biber cv-1p
 	lualatex cv-1p
 
+cv-1p-cofecub.pdf: cv-1p-cofecub.tex cv-1p-cofecub.md
+	pandoc cv-1p-cofecub.md -o content-1p-cofecub.tex
+	lualatex cv-1p-cofecub
+	biber cv-1p-cofecub
+	lualatex cv-1p-cofecub
+
 makefile2graph:
 	git clone https://github.com/lindenb/makefile2graph.git
 	cd makefile2graph && make
@@ -91,3 +97,4 @@ publish:
 	mv cv-fr.pdf CV.pdf
 	scp CV.pdf résumé.pdf mangaki.fr:/srv/http/jj/_static/
 	bundle exec jekyll build && rsync --exclude slides -avz _site/* mangaki.fr:/srv/http/jjv/
+	# rsync -avP _site/slides/*md mangaki.fr:/srv/http/jjv/slides/

@@ -4,10 +4,7 @@ header-includes:
 ---
 \noindent
 Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue Honoré d'Estienne d'Orves, 91120 Palaiseau, France  
-+33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jill-jenn.net}
-
-\def\spaceabove{}
-\def\spacebelow{}
++33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jill-jenn.net} \qquad ORCID 0000-0002-9304-2220
 
 ::: {latex=true class=multicols}
 # Centres d'intérêt {-}
@@ -21,11 +18,8 @@ Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue
 - Web : Django, HTML5, JS, Vue.js, PHP, PostgreSQL
 :::
 
-\spaceabove
 
 # Expérience {-}
-
-\spacebelow
 
 Depuis octobre 2019
 :   **Chargé de recherche de classe normale** à Inria.  
@@ -46,11 +40,8 @@ Avril--juillet 2019
 Projet PIX de certification de compétences numériques. [https://pix.fr](https://pix.fr)  
 Conception du test de positionnement adaptatif, implémentation en code libre GPLv3.
 
-\spaceabove
 
 # Éducation {-}
-
-\spacebelow
 
 02/2014--12/2016
 :   **Doctorat en informatique** de l'université Paris-Saclay : « Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d'apprentissage à grande échelle »  
@@ -82,11 +73,8 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 09/2008--09/2009
 :   **Licence d'informatique** à l'ENS de Lyon.
 
-\spaceabove
 
 # Stages de recherche {-}
-
-\spacebelow
 
 2013
 :   **Recherche de contenu par comparaisons** avec Laurent Massoulié, Inria Microsoft-Research.
@@ -103,11 +91,8 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 2009
 :   **Autour du pavage de Penrose**, stage court avec Thomas Fernique, LIF, Marseille.
 
-\spaceabove
 
 # Enseignement {-}
-
-\spacebelow
 
 Depuis 2022
 : **Entraînement au concours d'algorithmique et de programmation [ICPC](https://icpc.global/) [SWERC](https://swerc.eu)**, MSc (M1) \& Bachelor, École polytechnique.
@@ -137,6 +122,7 @@ Depuis 2020
 2009--2011
 :   **Colleur** de mathématiques.  
 Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à Paris.
+
 
 # Liste de publications et communications {-}
 
@@ -191,22 +177,22 @@ Lycée Sainte-Marie (ECS) & du Parc (MPSI) à Lyon, Lycée Condorcet (MPSI) à P
 
 ## Recherche {-}
 
-General Chair
+Organisation de conférences et d'ateliers
 : 
-- Conférence *Educational Data Mining 2021* (EDM 2021).
-- *Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning*  
-(WASL @ ITS 2018, ITS 2019, EDM 2020, LAK 2024)
-- *Fairness, Accountability and Transparency in Educational Data Mining* (FATED @ EDM 2020)
+- General Chair de la conférence *Educational Data Mining 2021* (EDM 2021).
+- Workshop Chair de la conférence PAKDD 2023
+- Demo/Poster Chair [EDM 2019](http://educationaldatamining.org/edm2019/committee/) 
+- Publicity Chair EDM 2023--2024
+- Senior Program Committee EDM
+- Organisateur de l'atelier *Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning* (WASL @ ITS 2018, ITS 2019, EDM 2020, LAK 2024)
+- Organisateur de l'atelier *Fairness, Accountability and Transparency in Educational Data Mining* (FATED @ EDM 2020)
 
 Comité éditorial
 : 
 Journal of Educational Data Mining (2020--2022)
 
-Autres rôles
-:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demo poster track), EDM 2023--2024 (publicity chair), PAKDD 2023 (workshop chair)
-
 Reviewer
-:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*, NeurIPS 2021--2023, EDM (senior program committe), AAAI 2020--2021, AISTATS 2021, ICDM 2018, IEEE BigData 2022, PAKDD 2023, ICCE 2023.
+:   *IEEE Transactions on Learning Technologies*, *Journal of Educational Data Mining*, *SAGE Open*, NeurIPS 2021--2023, EDM (senior program committee), AAAI 2020--2021, AISTATS 2021, ICDM 2018, IEEE BigData 2022, PAKDD 2023, ICCE 2023.
 
 Évaluateur externe
 : NSERC (Canada), Université Grenoble-Alpes, projet Erasmus+ AI4T (advisory board)
@@ -218,10 +204,10 @@ Comité de suivi
 : Mélina Verger (2023--2024), Erva Nihan Kandemir (2023)
 
 Encadrement de thèse
-: Jean Vassoyan (depuis 2023), Samuel Girard (depuis 2023)
+: Jean Vassoyan (depuis 2023), Samuel Girard (depuis 2023), Marie Generali (depuis 2024)
 
 Autres encadrements
-:   Alexis Rivière, Dylan Tanguy (L2), Thomas Chalumeau (L2), Aymeric Floyrac (M2), Pierre Bourse (L3), Salim Nadir (M2), Sein Minn (postdoc), Vianney Taquet, Clémence Léguillette (ingénieurs), Yassine Esmili, Mehdi Douch (ingénieurs), Pierre Bourse, Florent Dufay (L3), Tomas Rigaux (ingénieur M2), Clémence Réda (postdoc Marie Curie)
+:   Alexis Rivière, Dylan Tanguy (L2), Thomas Chalumeau (L2), Aymeric Floyrac (M2), Pierre Bourse (L3), Salim Nadir (M2), Sein Minn (postdoc), Vianney Taquet, Clémence Léguillette (ingénieurs), Yassine Esmili, Mehdi Douch (ingénieurs), Pierre Bourse, Florent Dufay (L3), Tomas Rigaux (ingénieur M2), Clémence Réda (postdoc Marie Curie), Achraf Chaouch (M1), Hiba Bederina (ingénieure)
 
 ## Conseil scientifique {-}
 
@@ -249,13 +235,14 @@ Depuis 2022
 : Jury de l'agrégation d'informatique.
 
 2021--2022
-: Examinateur au concours ENS, épreuve pratique d'algorithmique
+: Examinateur au concours des Écoles normales supérieures, épreuve pratique d'algorithmique
 
 2016
 :   Rédaction de sujets d'algorithmique CNED pour la préparation au CAPES de mathématiques option informatique (première session du concours en 2017).
 
-2015, 2016, 2023
-:   Coach de l'ENS Paris-Saclay au concours ICPC SWERC.
+Depuis 2015
+:   Coach au concours de programmation ICPC SWERC (ENS Paris-Saclay 2015--2016 \& 2023, Université de Lille 2021, École polytechnique depuis 2022).
+
 
 # Organisations, prix, bourses de recherche {-}
 
@@ -272,7 +259,7 @@ Depuis 2022
 
 2023
 : 
-Financement Paris Region PhD de la région Île-de-France (105k)
+Financement Paris Region PhD de la région Île-de-France (105k \euro)
 
 2022
 :   
@@ -300,6 +287,7 @@ Depuis 2016
 
 - 5\textsuperscript{e} prix sur 54 équipes à Google Hash Code, compétition de recherche opérationnelle, 2014.
 - 2\textsuperscript{e} prix en piano du conservatoire à rayonnement régional de Marseille, 2006.
+
 
 # Langues {-}
 

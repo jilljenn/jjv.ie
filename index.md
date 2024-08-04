@@ -33,11 +33,10 @@ link-citations: true
     </figcaption>
 </figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023]. We are currently visiting [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) at [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members) ([RED](https://jilljenn.github.io/red/) team).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023]. We have an associated team called [RED](https://jilljenn.github.io/red/) with [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) from [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members).
 
-- Slides are available for our LAK 2024 [optimizing human learning](https://jilljenn.github.io/humanlearn/) workshop in Kyoto. 
-- Our teams got [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779). See you at the finals in Astana, Kazakhstan.
-
+- Our team at École polytechnique will compete to [The 2024 ICPC World Finals](https://worldfinals.icpc.global/) in Astana, Kazakhstan.
+- We got [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779).
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [X](https://x.com/intent/follow?screen_name=jjvie).
 
@@ -48,7 +47,7 @@ Deep generative models of time series
 
 :   *If we can generate assessment data from MOOCs, we can predict, explain and [optimize human learning](https://jilljenn.github.io/humanlearn/).  
 If we can do this with privacy guarantees, we can share this dataset with more users.* [@Vie2022]  
-*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ AIED 2020](https://jilljenn.github.io/humanlearn/) [[video]](https://youtu.be/oVuq-seIvrk).*
+*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ LAK 2024](https://jilljenn.github.io/humanlearn/).*
 
 Recommender systems with side information
 

@@ -4,7 +4,7 @@ header-includes:
 ---
 \noindent
 Inria Saclay, [Soda](https://team.inria.fr/soda/) team, Bât. Alan Turing, 1 rue Honoré d'Estienne d'Orves, 91120 Palaiseau, France  
-+33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jjv.ie}
++33 6 42 62 39 74 \qquad \url{vie@jill-jenn.net} \qquad \url{https://jjv.ie} \qquad ORCID 0000-0002-9304-2220
 
 ::: {latex=true class=multicols}
 # Interests {-}
@@ -27,11 +27,7 @@ From 2019
 
 From 2022
 :   
-**Lecturer** at École polytechnique, France.
-
-2021--2022
-:    
-**Expert at the European Commission** in AI & Data for Education & Training.
+**Lecturer** at École polytechnique, France. Teaching competitive programming (wrote 2 books about it).
 
 2019
 :     
@@ -39,19 +35,21 @@ From 2022
 
 2017--2019
 :     
-**Postdoctoral Researcher** (2 years) at RIKEN AIP, Tokyo.
+**Postdoctoral Researcher** (2.5 years) at RIKEN AIP, Tokyo, Japan.
 
 From 2016
-:   Consulting at the French Ministry of Education / [Pix](https://pix.fr). Certification of digital skills.
+:   I developed [**Pix**](https://pix.fr) at the French MoE for certifying digital skills (6M active users as of 2023 = 10\% of France.)
 
 2015--2016
-:   **Director** & **Writer** of ***La Faute à l'algo*** (TV sci-fi show on Nolife channel) with Michel Blockelet.
+:   **Director** & **Writer** of [***La Faute à l'algo***](https://fautealgo.fr) (TV sci-fi show on Nolife channel) with Michel Blockelet.
 
 
 # Education {-}
 
 2014--2016
-:    **PhD in Computer Science**, Université Paris-Saclay, France. **K2 Prize** "Machine Learning & Data Science"
+:    **PhD in Computer Science**, Université Paris-Saclay, France.  
+Title: "Adaptive Testing using Cognitive Diagnosis for Large-Scale Learning"  
+**K2 Prize** "Machine Learning & Data Science"
 
 2014
 :    **Agrégation de mathématiques**, French diploma for higher education teaching.
@@ -157,43 +155,71 @@ From 2020
 # Professional Affiliations & Activities {-}
 
 Board of Directors
-: Société informatique de France (French Computer Science Society), 2020--2023
+: Société informatique de France (French Computer Science Society), 2020--2023; **Secretary** of SIF in 2022.
 
-General Chair
-: of the Educational Data Mining 2021 conference
+Expert
+: at the European Commission in AI & Data for Education & Training (2021--2022).  
+Member of ***Conseil scientifique de l'Éducation nationale*** (since 2023).  
+Scientific committee of Regalia Inria project (regulation of algorithms)
 
-Workshop Organizer
-:   Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020), Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning (WASL 2018--2020)
+Jury
+: *Agrégation d'informatique* (since 2022), entrance examinations at Écoles normales supérieures (2020--2022)
 
 Program Committee
-:   [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC)
+:   [EDM 2021](https://educationaldatamining.org/EDM2021/virtual/) (**General Chair**), [EDM 2019](http://educationaldatamining.org/edm2019/committee/) (demos & posters), EDM 2020 (senior PC), PAKDD 2023 (workshop chair), EDM 2023--2024 (publicity chair)
 
 Editorial Board
-: *Journal of Educational Data Mining* (JEDM) -- Blog Binaire, Le Monde.fr
+: *Journal of Educational Data Mining* (JEDM, 2020--2022)
+
+Workshop Organizer
+:   Fairness, Accountability and Transparency in Educational Data Mining (FATED 2020), Optimizing Human Learning: Workshop eliciting Adaptive Sequences for Learning (WASL 2018--2020, WASL 2024)
 
 Reviewer
-:   AAAI 2020--2021, AISTATS 2021, *IEEE Transactions on Learning Technologies*, JEDM
+:   NeurIPS 2021--2023, AAAI 2020--2021, IEEE BigData 2022, PAKDD 2023, AISTATS 2021, ICDM 2018, ICCE 2023, *IEEE Transactions on Learning Technologies*, JEDM
+
+Advisory Board
+: NSERC (Canada), Université Grenoble-Alpes, projet Erasmus+ AI4T (advisory board)
+
+PhD jury
+: Benoît Choffin (2021, invité), Olivier Allègre (2023)
+
+PhD midway committee
+: Mélina Verger (2023--2024), Erva Nihan Kandemir (2023)
 
 Supervisor
-: Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020), Florent Dufay (2021), Tomas Rigaux (from 2021)
+: Alexis Rivière, Dylan Tanguy (2015), Thomas Chalumeau (2017), Aymeric Floyrac, Pierre Bourse, Salim Nadir, Sein Minn, Vianney Taquet, Clémence Léguillette, Yassine Esmili, Mehdi Douch (2020), Florent Dufay (2021), Tomas Rigaux (from 2021), Jean Vassoyan (from 2022), Clémence Réda (from 2023), Samuel Girard (from 2023), Marie Generali (from 2024), Achraf Chaouch (2024), Hiba Bederina (from 2024)
 
 Coach
-:   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016), Université de Lille (2021), École polytechnique (from 2022)
+:   ENS Paris-Saclay team at the International Collegiate Programming Contest (ICPC, 2015--2016 \& 2023), Université de Lille (2021), École polytechnique (from 2022)
 
 Organizations
 : Etalab (Prime Minister's Office for Open Data, 2017), BetaGouv (State Startups, 2016--2017)
 
-Jury
-: entrance examinations of ENS, practical oral exam (2021 & 2022), agrégation d'informatique (since 2022).
-
 
 # Awards & Grants {-}
 
+2024
+: Two Silver medals at **International Collegiate Programming Contest** (ICPC; teams cnXtv 3\textsuperscript{rd} et eXotic 4\textsuperscript{th} of École polytechnique), qualified to European EUC and ICPC World Finals 2024
+
+2024--2026
+: 
+Inria associated team with Kyoto University [RED](https://jilljenn.github.io/red/): *recommendations encouraging diversity*
+
+2021--2023
+: 
+Inria associated team with Kyoto University) [OPALE](https://jilljenn.github.io/opale/): *optimal policy active learning for education*
+
+2023
+: 
+Funding Paris Region PhD from Île-de-France region (105k \euro)
+
 2022
-: T2D-INTERCEPT, Horizon Europe.
+:   
+- **T2D-INTERCEPT**, Horizon Europe.
+- Co-supervisor Marie Skłodowska-Curie funding **ReCESS** for Clémence Réda.
 
 2020
-: **NLnet's NGI Zero funding** for Mangaki.  
+: **NLnet's NGI Zero funding** for Mangaki, an open source manga recommender system.  
   **EIT Health** Covidom Community, together with [Assistance Publique Hôpitaux de Paris (AP-HP)](https://www.aphp.fr/).
 
 2019
@@ -214,5 +240,3 @@ Jury
 **French** native \quad
 **English** fluent \quad
 **Japanese** intermediate \quad
-**Spanish** intermediate \quad
-**Mandarin** beginner
