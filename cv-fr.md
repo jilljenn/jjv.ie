@@ -95,7 +95,7 @@ Mémoire sur la **résistance aux fuites** (*leakage resilience*) dirigé par Mi
 # Enseignement {-}
 
 Depuis 2022
-: **Entraînement au concours d'algorithmique et de programmation [ICPC](https://icpc.global/) [SWERC](https://swerc.eu)**, MSc (M1) \& Bachelor, École polytechnique.
+: **Entraînement au concours d'algorithmique et de programmation [ICPC](https://icpc.global/) [SWERC](https://swerc.eu)**, MSc (M1) \& Bachelor, École polytechnique. [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779).
 
 Depuis 2020
 : **Deep Learning -- Do It Yourself!**, MSc (M1), École normale supérieure.

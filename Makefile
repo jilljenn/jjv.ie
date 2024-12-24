@@ -44,13 +44,13 @@ publications.md: preprints.html articles.html books.html chapters.html conferenc
 cv.md: cv-en.md
 	pandoc --strip-comments --shift-heading-level-by=2 $< -t html5 -o $@
 
-cv.pdf: cv-en.md biblio.bib
+cv.pdf: cv-en.md biblio.bib cv.tex
 	pandoc --filter latexdivs.py cv-en.md -o content.tex
 	lualatex cv
 	biber cv
 	lualatex cv
 
-cv-fr.pdf: cv-fr.md biblio.bib
+cv-fr.pdf: cv-fr.md biblio.bib cv-fr.tex
 	pandoc --filter latexdivs.py cv-fr.md -o content-fr.tex
 	lualatex cv-fr
 	biber cv-fr

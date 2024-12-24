@@ -33,10 +33,10 @@ link-citations: true
     </figcaption>
 </figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023]. We have an associated team called [RED](https://jilljenn.github.io/red/) with [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) from [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members).
+I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023].
 
-- Our team at École polytechnique will compete to [The 2024 ICPC World Finals](https://worldfinals.icpc.global/) in Astana, Kazakhstan.
-- We got [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779).
+- Our teams at Polytechnique won the competition [ICPC SWERC 2024](https://swerc.eu/) (ranked 1st 🥇🏆, 3rd 🥈 and 21st). Congratulations to them, see you at ICPC EUC and World Finals!
+- Our paper was accepted at [NeurIPS 2024 workshop on Large Foundation Models for Educational Assessment](https://neurips2024edu.github.io/) [@Vassoyan2024].
 
 Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [X](https://x.com/intent/follow?screen_name=jjvie).
 
@@ -66,13 +66,31 @@ Recommender systems with side information
 
 ✅ I worked on the government project [Pix](https://pix.fr). This is [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens  
 ✅ We founded the [Girls Can Code!](https://gcc.prologin.org) schools for K-12 girls running since 2014  
-✅ Worked for: [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual)  
 ✅ See [my projects](/projects/) and [CV](/cv/)
+
+### Highest Peaks where I've been
+
+- Mt Fuji, 3776 m
+- [The 2024 ICPC World Finals](https://worldfinals.icpc.global/) in Astana, Kazakhstan with team cnXtv from École polytechnique
+- AAAI 2019, General Chair @ EDM 2021, NeurIPS 2024
+- [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual)
+- [Pixar Animation Studios](https://goo.gl/photos/hHv7HWDx5EZWfEtXA)
+- Pix @ French Ministry of Education
+- Pass Culture
+- Président de Prologin, 2012
+- Secrétaire de la Société informatique de France, 2021
 
 ### Responsibilities
 
 - J'ai rejoint le [conseil scientifique de l'Éducation nationale](https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492)
 - Jury de l'[agrégation d'informatique](https://agreg-info.org/) ; avec [Marc Jeanmougin](https://marc.jeanmougin.fr/) nous avons fait l'environnement de concours [NonOS](https://agreg-info.gitlab.io/docs/)
+
+### Collaborators
+
+- [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) from [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members): associated team [RED](https://jilljenn.github.io/red/)
+- Pass Culture
+- Franck Silvestre @ IRIT
+- Clémence Réda @ U. Rostock
 
 ### Selected Publications
 

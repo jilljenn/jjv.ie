@@ -94,7 +94,7 @@ Title: "Adaptive Testing using Cognitive Diagnosis for Large-Scale Learning"
 # Teaching Experience {-}
 
 From 2022
-: **ICPC SWERC training**, MSc (M1), École polytechnique.
+: **ICPC SWERC training**, MSc (M1), École polytechnique. [2 Silver medals at ICPC SWERC 2023](https://twitter.com/jjvie/status/1751655745274400779).
 
 From 2020
 : **Deep Learning: Do It Yourself!**, MSc (M1), École normale supérieure.
