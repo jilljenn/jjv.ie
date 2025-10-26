@@ -11,7 +11,7 @@ link-citations: true
 <div style="display: flex; flex-flow: row wrap;">
 <div class="keep-this">
 # [Jill-Jênn Vie](/)
-## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr), Lecturer at [X](https://www.polytechnique.edu/)</span>
+## <span style="color: #999; margin-top: -1em; display: block">Researcher at [Inria](https://inria.fr), Lecturer at [l'X](https://www.polytechnique.edu/)</span>
 </div>
 <nav><ul>
 <li>[Publications](/publications)</li>
@@ -33,64 +33,65 @@ link-citations: true
     </figcaption>
 </figure> -->
 
-I am a research scientist at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique where I teach [competitive programming](https://tryalgo.org/). My research interests are recommender systems, generative models and educational applications of machine learning [@Kandemir2024], notably using RL [@Vassoyan2023].
+I am a researcher at Inria, [Soda](https://team.inria.fr/soda/) team and a lecturer at École polytechnique and ENS Paris where I teach [competitive programming](/ens/#competitive-programming-at-école-polytechnique) ([Polytechnique won ICPC SWERC 2024](https://www.polytechnique.edu/en/news/polytechnique-students-perform-international-collegiate-programming-contest) 🥇🏆) and [deep learning](/ens/#deep-learning-at-ens-ulm). My research interests are recommender systems and application of machine learning and reinforcement learning to education [@Vassoyan2024].
 
-- Our teams at Polytechnique won the competition [ICPC SWERC 2024](https://swerc.eu/) (ranked 1st 🥇🏆, 3rd 🥈 and 21st). Congratulations to them, see you at ICPC EUC and World Finals!
-- Our paper was accepted at [NeurIPS 2024 workshop on Large Foundation Models for Educational Assessment](https://neurips2024edu.github.io/) [@Vassoyan2024].
+<span style="color: red">We are hiring engineers, postdocs and PhD students</span>, as we were awarded an IA-Cluster chair about [ATLAS: AI for teaching and learning at scale](https://atlas.gitlab.dsi.universite-paris-saclay.fr/) at Paris-Saclay University & an ANR JCJC grant that I can share with interested people. You can either wait for a more precise job offer description, or directly [reach out](mailto:vie@jill-jenn.net) with a CV.
 
-Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)) or [X](https://x.com/intent/follow?screen_name=jjvie).
+Feel free to contact me by [mail](mailto:vie@jill-jenn.net)  ([PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C36C9FE99E8FBC93792258D060F5A63BCC3397FF)).
 
 
 ### Research Interests
 
-Deep generative models of time series
+Knowledge tracing: predicting student performance
 
-:   *If we can generate assessment data from MOOCs, we can predict, explain and [optimize human learning](https://jilljenn.github.io/humanlearn/).  
-If we can do this with privacy guarantees, we can share this dataset with more users.* [@Vie2022]  
-*See our [tutorial about knowledge tracing](https://github.com/jilljenn/ktm) and our [optimizing human learning workshop @ LAK 2024](https://jilljenn.github.io/humanlearn/).*
+:   Training a student model on student data can be used to [optimize teaching](https://jilljenn.github.io/humanlearn/) using reinforcement learning.  
+I am also interested in synthetic tabular data generation [@Vie2022].  
 
-Recommender systems with side information
+Recommender systems: collaborative filtering
 
-:   *How to model uncertainty and side information in preference elicitation? See our [demo Mangaki](https://mangaki.fr) and [keynote](http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/)*.  
-
+:   We study applications of collaborative filtering for education, personalized medicine [@reda:hal-04626970; @reda:hal-04625183] and diversity of recommendations using determinantal point processes (pass Culture, Kyoto U) [[slides]](http://jill-jenn.net/slides/soda-kickoff.pdf) [@Ibrahim2025].  
 
 <div style="display: flex; flex-flow: row wrap;">
 ![Our [article](https://arxiv.org/abs/1811.03388) **Knowledge Tracing Machines** has been presented at [**AAAI 2019**](https://aaai.org/Conferences/AAAI-19/). See also our [code & tutorial](https://github.com/jilljenn/ktm) [@KTM2019].](/static/img/ktm-lr.png)
 
-![Our [paper](https://arxiv.org/abs/1709.01584) **Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario** [[slides]](http://jill-jenn.net/slides/manpu2017.pdf) has been accepted to [**MANPU 2017**](http://manpu2017.imlab.jp).](/static/img/balse.png)
+![Our open source RAG system [AlgoAce](https://github.com/anavAgrawal/AlgoAce) for competitive programming was presented at the AIED GenAI workshop [@agrawal:hal-05089333]](/static/videos/algoace.mp4){width=320}
 
 ![We received the **Best Paper Award** at [**EDM 2019**](http://educationaldatamining.org/edm2019/) for our [learning/forgetting student model **DAS3H**](https://arxiv.org/abs/1905.06873) [@Choffin2019].](/static/img/tw.png)
 </div>
 
-### Other Achievements
-
-✅ I worked on the government project [Pix](https://pix.fr). This is [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens  
-✅ We founded the [Girls Can Code!](https://gcc.prologin.org) schools for K-12 girls running since 2014  
-✅ See [my projects](/projects/) and [CV](/cv/)
-
 ### Highest Peaks where I've been
 
-- Mt Fuji, 3776 m
-- [The 2024 ICPC World Finals](https://worldfinals.icpc.global/) in Astana, Kazakhstan with team cnXtv from École polytechnique
-- AAAI 2019, General Chair @ EDM 2021, NeurIPS 2024
-- [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true), [EDM 2021](https://educationaldatamining.org/EDM2021/virtual)
-- [Pixar Animation Studios](https://goo.gl/photos/hHv7HWDx5EZWfEtXA)
-- Pix @ French Ministry of Education
-- Pass Culture
-- Président de Prologin, 2012
-- Secrétaire de la Société informatique de France, 2021
+See [my projects](/projects/) and [CV](/cv/)
 
-### Responsibilities
+#### Government & State Startups
 
-- J'ai rejoint le [conseil scientifique de l'Éducation nationale](https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492)
+- I developed the original adaptive test of [Pix](https://pix.org/en/) @ French Ministry of Education. This is [free software](https://github.com/1024pix/pix) that certifies the digital skills of all French citizens [@Vie2017PIXposter]
+- We optimized the diversity of recommendations to encourage discovery on French citizens with Pass Culture ~ French Ministry of Culture [@Ibrahim2025]
+- [European Commission](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3774&fromCallsApplication=true)
 - Jury de l'[agrégation d'informatique](https://agreg-info.org/) ; avec [Marc Jeanmougin](https://marc.jeanmougin.fr/) nous avons fait l'environnement de concours [NonOS](https://agreg-info.gitlab.io/docs/)
+- Jury du concours X, ENS
+- J'ai rejoint le [conseil scientifique de l'Éducation nationale](https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492)
+
+#### Programming
+
+- Using a Google RISE Award, we founded the [Girls Can Code!](https://girlscancode.fr/) summer schools for K-12 girls running since 2014
+- [The 2024 & 2025 ICPC World Finals](https://worldfinals.icpc.global/) with students from École polytechnique
+- Président de Prologin
+- Secrétaire de la Société informatique de France
+
+#### Abroad
+
+- Mt Fuji, 3776 m
+- AAAI 2019, General Chair @ [EDM 2021](https://educationaldatamining.org/EDM2021/virtual), NeurIPS 2024
+- [Pixar Animation Studios](https://goo.gl/photos/hHv7HWDx5EZWfEtXA)
+- I've seen Yoko Kanno & THE SEATBELTS in concert
 
 ### Collaborators
 
-- [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) from [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members): associated team [RED](https://jilljenn.github.io/red/)
-- Pass Culture
-- Franck Silvestre @ IRIT
-- Clémence Réda @ U. Rostock
+- [Tomas Rigaux](https://tomas.rigaux.com/), [Hisashi Kashima](https://hkashima.github.io/index_e.html) and [Koh Takeuchi](https://www.ml.ist.i.kyoto-u.ac.jp/koh.takeuchi/) from [Kyoto University](https://www.ml.ist.i.kyoto-u.ac.jp/en/en-members): associated team [RED](https://jilljenn.github.io/red/)
+- [Clémence Réda](https://clreda.github.io/) @ CNRS, IBENS
+- [Franck Silvestre](https://francksilvestre.github.io/) @ IRIT
+- [Luc Rocher](https://rocher.lc/) @ [Synthetic Society Lab](https://syntheticsociety.oii.ox.ac.uk/) @ University of Oxford
 
 ### Selected Publications
 

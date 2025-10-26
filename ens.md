@@ -3,20 +3,16 @@ title: Teaching
 layout: default
 ---
 
-### Préparation à l'agrégation d'informatique
-
-- [Exemples d'algorithmes d'apprentissage supervisé et non supervisé : KNN, *K*-moyennes](/slides/agreg-ia-intro.pdf)
-- [A* : heuristiques pour les plus courts chemins](/slides/paths.pdf)
-- Hors programme : [Modèles graphiques probabilistes](/slides/graphical.pdf)
-- TP Viterbi : [Doudou le hamster surveillé](https://github.com/jilljenn/tp-ml/blob/master/tp5/Doudou%20le%20hamster%20surveill%C3%A9.ipynb)
-
 ### Deep learning at ENS Ulm
 
 - [Automatic differentiation](https://jiji.cat/slides/autodiff.pdf)
 - [Multilayer Perceptrons: Expressiveness, overfitting, regularization](https://jiji.cat/slides/fit.pdf)
 - [Embeddings: learning representations for unsupervised learning](https://jiji.cat/slides/embeddings.pdf)
+- [Sequences: seq2seq, attention](https://jjv.ie/slides/recurrent.pdf)
 
-### Advanced algorithms at École polytechnique
+### Competitive programming at École polytechnique
+
+See [all slides](https://tryalgo.org/icpc/polytechnique/).
 
 - [Intro to ICPC](https://jjv.ie/slides/swerc-intro.pdf)
 - [Intro to pathfinding](https://jjv.ie/slides/parcours.pdf)
@@ -47,3 +43,10 @@ layout: default
 
 - Policy improvement
 - Value iteration
+
+### Préparation à l'agrégation d'informatique
+
+- [Exemples d'algorithmes d'apprentissage supervisé et non supervisé : KNN, *K*-moyennes](/slides/agreg-ia-intro.pdf)
+- [A* : heuristiques pour les plus courts chemins](/slides/paths.pdf)
+- Hors programme : [Modèles graphiques probabilistes](/slides/graphical.pdf)
+- TP Viterbi : [Doudou le hamster surveillé](https://github.com/jilljenn/tp-ml/blob/master/tp5/Doudou%20le%20hamster%20surveill%C3%A9.ipynb)

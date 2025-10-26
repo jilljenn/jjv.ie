@@ -14,6 +14,9 @@ You may be interested in this if you care about:
 
 - [pandoc](https://pandoc.org/installing.html) >= 2.11
 - [bibtex2html](https://www.lri.fr/~filliatr/bibtex2html/)
+- graphviz
+- Python package pandocfilters
+- Font Noto Serif (CJK) SC
 
 ## Try it
 
